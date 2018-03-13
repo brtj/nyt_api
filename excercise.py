@@ -28,7 +28,7 @@ def get_articles(begin_date, end_date, page, params):
 
 def excercise_1a():
     begin_date = '20171218'  #YYYYMMDD
-    end_date = '20171219'
+    end_date = '20171224'
     params = '&fl=web_url&fl=word_count&fl=document_type'
     offset = 1
     offset_count = 0
@@ -56,7 +56,7 @@ def excercise_1a():
 
 def excercise_1b():
     begin_date = '20171218'  #YYYYMMDD
-    end_date = '20171219'
+    end_date = '20171224'
     params = '&fl=web_url&fl=headline&fl=type_of_material'
     outp_json = open('excercise_1b.json', 'w+')
     outp_yaml = open('excercise_1b.yaml', 'w+')
@@ -145,6 +145,6 @@ def excercise_2(year, month):
 
 
 excercise_1a()
-#excercise_1b()
-#excercise_2(2017, 12)
+excercise_1b()
+excercise_2(2017, 12)
 

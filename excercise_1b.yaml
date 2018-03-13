@@ -1,4 +1,2699 @@
 articles:
+- headline: Making a Fast Buck
+  type: News
+  url: https://www.nytimes.com/2017/12/23/crosswords/daily-puzzle-2017-12-24.html
+- headline: Andrew McCabe, F.B.I.’s Embattled Deputy, Is Expected to Retire
+  type: News
+  url: https://www.nytimes.com/2017/12/23/us/politics/mccabe-fbi-trump-russia.html
+- headline: Russia Says U.S.-Supplied Weapons to Ukraine Could Escalate Conflict
+  type: News
+  url: https://www.nytimes.com/2017/12/23/world/europe/ukraine-russia-conflict.html
+- headline: Hiep Thi Le, Vietnamese Refugee Who Became Film Star, Dies at 46
+  type: Obituary (Obit)
+  url: https://www.nytimes.com/2017/12/23/obituaries/hiep-thi-le-vietnamese-refugee-who-became-film-star-dies-at-46.html
+- headline: '‘I’m Struggling to Survive’: For Rohingya Women, Abuse Continues in Camps'
+  type: News
+  url: https://www.nytimes.com/2017/12/23/world/asia/rohingya-women-abuse-myanmar.html
+- headline: Islanders’ Mathew Barzal Scores His First Hat Trick
+  type: News
+  url: https://www.nytimes.com/2017/12/23/sports/hockey/islanders-mathew-barzal-hat-trick.html
+- headline: Arseny Roginsky, Russian Human Rights Leader, Is Dead at 71
+  type: Obituary (Obit)
+  url: https://www.nytimes.com/2017/12/23/obituaries/arseny-roginsky-russian-human-rights-leader-is-dead-at-71.html
+- headline: The DeVos ‘Nice List’
+  type: News
+  url: https://www.nytimes.com/2017/12/23/us/politics/betsy-devos-nice-list-charity-giving.html
+- headline: Bus Plunges Into River in India, Killing Dozens
+  type: News
+  url: https://www.nytimes.com/2017/12/23/world/asia/deadly-bus-crash-india.html
+- headline: Free Detained Journalists in Myanmar
+  type: Editorial
+  url: https://www.nytimes.com/2017/12/23/opinion/free-detained-journalists-in-myanmar.html
+- headline: For Russian Artists in 1917, Art Was the Thing, Not Revolution
+  type: Editorial
+  url: https://www.nytimes.com/2017/12/23/opinion/russian-revolution-art-1917.html
+- headline: Flying Saucers and Other Fairy Tales
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/23/opinion/alien-encounters-christmas-ufo.html
+- headline: Sexuality, Sex Abuse and Sexism
+  type: Letter
+  url: https://www.nytimes.com/2017/12/23/opinion/sexuality-sex-abuse-sexism.html
+- headline: Why Did No One See the Tet Offensive Coming?
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/23/opinion/vietnam-tet-offensive.html
+- headline: In a First, U.N. Evacuates Dozens of Refugees from Libya to Italy
+  type: News
+  url: https://www.nytimes.com/2017/12/23/world/middleeast/refugees-libya-italy-united-nations.html
+- headline: Vice Media Statement on Harassment Allegations and Workplace Culture
+  type: Text
+  url: https://www.nytimes.com/2017/12/23/business/vice-media-statement-on-harassment-allegations-and-its-workplace-culture.html
+- headline: Mariah Carey Will Return to ‘New Year’s Rockin’ Eve’ After Last Year’s
+    Meltdown
+  type: News
+  url: https://www.nytimes.com/2017/12/23/arts/music/mariah-carey-new-years-rockin-eve.html
+- headline: At Vice, Cutting-Edge Media and Allegations of Old-School Sexual Harassment
+  type: News
+  url: https://www.nytimes.com/2017/12/23/business/media/vice-sexual-harassment.html
+- headline: 'Variety: Acrostic'
+  type: News
+  url: https://www.nytimes.com/2017/12/23/crosswords/variety-acrostic.html
+- headline: Stoking Fears, Trump Defied Bureaucracy to Advance Immigration Agenda
+  type: News
+  url: https://www.nytimes.com/2017/12/23/us/politics/trump-immigration.html
+- headline: Trump’s Tough Immigration Talk Meets Reality
+  type: Video
+  url: https://www.nytimes.com/video/us/politics/100000005605873/trumps-tough-immigration-talk-meets-reality.html
+- headline: The Las Vegas Gunman Was Rich. Will His Wealth Go to the Victims?
+  type: News
+  url: https://www.nytimes.com/2017/12/23/us/las-vegas-shooting-stephen-paddock.html
+- headline: Yugoslavia Tribunal Leaves Rich Legacy, but ‘Immense’ Challenges Remain
+  type: News
+  url: https://www.nytimes.com/2017/12/23/world/europe/yugoslavia-tribunal-hague.html
+- headline: 'Rupert Murdoch and President Trump: A Friendship of Convenience'
+  type: News
+  url: https://www.nytimes.com/2017/12/23/business/media/murdoch-trump-relationship.html
+- headline: As Prince Accelerates Changes for Women, Saudis Adapt at Varied Pace
+  type: News
+  url: https://www.nytimes.com/2017/12/23/world/middleeast/saudi-arabia-photos-women-gender.html
+- headline: Parallel Lives Until Something ‘Clicked’
+  type: News
+  url: https://www.nytimes.com/2017/12/23/fashion/weddings/annie-lee-landon-dickey-married.html
+- headline: A Colorblind Artist? Yes, With a Little Help From His Friends
+  type: News
+  url: https://www.nytimes.com/2017/12/23/books/a-colorblind-artist-illustrator-childrens-books.html
+- headline: London Zoo Fire Kills Aardvark; 4 Meerkats Are Missing
+  type: News
+  url: https://www.nytimes.com/2017/12/23/world/europe/london-zoo-fire-aardvark.html
+- headline: Yemen’s War Enters a Dark Stage as Rebels Squeeze the Capital
+  type: News
+  url: https://www.nytimes.com/2017/12/23/world/middleeast/yemen-sana-houthis-saudi-arabia.html
+- headline: On Christmas Eve in Ukraine, the Church Is Chilly (or Is It?)
+  type: News
+  url: https://www.nytimes.com/2017/12/23/travel/christmas-in-ukraine.html
+- headline: Afghan Governor Refuses to Leave His Post, Escalating Showdown
+  type: News
+  url: https://www.nytimes.com/2017/12/23/world/asia/afghanistan-atta-muhammad-noor.html
+- headline: Trump Gives Presidential Challenge Coin a Makeover, and It Shows
+  type: News
+  url: https://www.nytimes.com/2017/12/23/us/trump-presidential-coin.html
+- headline: Pit Bull Restrictions Lifted in Montreal as New Mayor Makes Good on Pledge
+  type: News
+  url: https://www.nytimes.com/2017/12/23/world/americas/pit-bull-ban-montreal.html
+- headline: Brazil Wavers on Environment, and Earth’s Largest Wetland Starts to Wither
+  type: News
+  url: https://www.nytimes.com/2017/12/23/world/americas/brazil-pantanal-wetlands-michel-temer.html
+- headline: 11 of Our Best Weekend Reads
+  type: News
+  url: https://www.nytimes.com/2017/12/23/reader-center/11-of-our-best-weekend-reads.html
+- headline: Parts of Puerto Rico Won’t Have Power for 8 Months. What’s the Holdup?
+  type: News
+  url: https://www.nytimes.com/2017/12/23/us/puerto-rico-power-outage.html
+- headline: Holiday Madness in Midtown Manhattan
+  type: News
+  url: https://www.nytimes.com/2017/12/23/style/holiday-madness-in-midtown-manhattan.html
+- headline: Who Wants to Buy the Most Expensive House in America?
+  type: News
+  url: https://www.nytimes.com/2017/12/23/style/the-most-expensive-house-in-america.html
+- headline: Harry Potter and the Magical Profit Margins Under the Tree
+  type: News
+  url: https://www.nytimes.com/2017/12/23/business/harry-potter-wand.html
+- headline: The Daniel Day-Lewis Version of Fantasy Fashion Diva
+  type: News
+  url: https://www.nytimes.com/2017/12/23/fashion/daniel-day-lewis-phantom-thread-myth-of-the-designer.html
+- headline: 'Listen to ‘Dear Sugars’: Cutting the Financial Cord—With Dr. Kate Gale'
+  type: News
+  url: https://www.nytimes.com/2017/12/23/podcasts/listen-to-dear-sugars-cutting-the-financial-cordwith-dr-kate-gale.html
+- headline: A Peruvian Chef Makes a Striking Los Angeles Comeback
+  type: News
+  url: https://www.nytimes.com/2017/12/23/travel/roseline-restaurant-los-angeles-la-review.html
+- headline: '‘I Was Not Going to Accept It’: After Captivity, Blind Syrian Forges
+    Path to U.S.'
+  type: Series
+  url: https://www.nytimes.com/2017/12/23/nyregion/i-was-not-going-to-accept-it-after-captivity-blind-syrian-forges-path-to-us.html
+- headline: A Catskills Inn Gets a Modern Makeover
+  type: News
+  url: https://www.nytimes.com/2017/12/23/travel/catskills-inn-modern-makeover.html
+- headline: In Bethlehem, a Mood of Hopeless Resignation Among Palestinians
+  type: News
+  url: https://www.nytimes.com/2017/12/23/world/middleeast/bethlehem-israel-palestinians-west-bank.html
+- headline: Weaving Around the World
+  type: Video
+  url: https://www.nytimes.com/video/world/100000005142711/weaving-around-the-world.html
+- headline: Not Everyone Is Jolly About Christmas Trees in the Lobby
+  type: News
+  url: https://www.nytimes.com/2017/12/23/realestate/not-everyone-is-jolly-about-christmas-trees-in-the-lobby.html
+- headline: The Anti-Protest Gear That Despots Love
+  type: Video
+  url: https://www.nytimes.com/video/world/asia/100000005573465/anti-protest-gear-china-venezuela.html
+- headline: What Happens When You Report Sexual Harassment?
+  type: News
+  url: https://www.nytimes.com/2017/12/23/us/women-report-sexual-harassment.html
+- headline: Erdogan Trains His Broom on a Sweep of Turkey’s Governing Party
+  type: News
+  url: https://www.nytimes.com/2017/12/23/world/europe/turkey-erdogan-mayors.html
+- headline: For More Than 300 Afghan Children, Many Older Than 5, Home Is Mother’s
+    Cellblock
+  type: News
+  url: https://www.nytimes.com/2017/12/23/world/asia/afghanistan-children-prison.html
+- headline: Tropical Storm in Philippines Kills More Than 100 and Leaves Dozens Missing
+  type: News
+  url: https://www.nytimes.com/2017/12/23/world/asia/philippines-storm-tembin.html
+- headline: Australia’s Nautical Rite of Passage
+  type: News
+  url: https://www.nytimes.com/2017/12/23/sports/sailing/sydney-hobart-yacht-race-australia.html
+- headline: In Asia’s Fattest Country, Nutritionists Take Money From Food Giants
+  type: News
+  url: https://www.nytimes.com/2017/12/23/health/obesity-malaysia-nestle.html
+- headline: Merry Christmas. Now Who Swiped My Tree?
+  type: News
+  url: https://www.nytimes.com/2017/12/23/us/christmas-tree-crime.html
+- headline: 'What’s on TV Saturday: ‘Good Time’ and ‘Secrets of Christ’s Tomb’'
+  type: Schedule
+  url: https://www.nytimes.com/2017/12/23/arts/television/whats-on-tv-saturday-good-time-and-secrets-of-christs-tomb.html
+- headline: Bruce McCandless, First to Fly Untethered in Space, Dies at 80
+  type: Obituary (Obit)
+  url: https://www.nytimes.com/2017/12/23/obituaries/bruce-mccandless-dead-astronaut.html
+- headline: Knicks Fall After Taking a Late Lead in Detroit
+  type: News
+  url: https://www.nytimes.com/2017/12/23/sports/basketball/knicks-fall-after-taking-a-late-lead-in-detroit.html
+- headline: 'Corrections: December 23, 2017'
+  type: Correction
+  url: https://www.nytimes.com/2017/12/22/pageoneplus/corrections-december-23-2017.html
+- headline: Appeals Court Rules Against Latest Travel Ban
+  type: News
+  url: https://www.nytimes.com/2017/12/22/us/travel-ban-court.html
+- headline: Daring Deed
+  type: News
+  url: https://www.nytimes.com/2017/12/22/crosswords/daily-puzzle-2017-12-23.html
+- headline: The White Internet’s Love Affair With Digital Blackface
+  type: Video
+  url: https://www.nytimes.com/video/arts/100000005615988/the-white-internets-love-affair-with-digital-blackface.html
+- headline: The Rise of the Ironic Racist
+  type: Video
+  url: https://www.nytimes.com/video/arts/100000005615851/the-rise-of-the-ironic-racist.html
+- headline: Coaches Dream of Glory. I Root for That Dream.
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/22/opinion/nhl-coaches-hockey.html
+- headline: The Ugly Business of Beauty Apps
+  type: Video
+  url: https://www.nytimes.com/video/arts/100000005615408/the-ugly-business-of-beauty-apps.html
+- headline: Convicted Bomber Tried to Radicalize Fellow Inmates, Officials Say
+  type: News
+  url: https://www.nytimes.com/2017/12/22/nyregion/convicted-bomber-tried-to-radicalize-fellow-inmates-officials-say.html
+- headline: 'Quotation of the Day: Homeowners Hurrying to Soften Tax Law’s Bite'
+  type: Quote
+  url: https://www.nytimes.com/2017/12/22/todayspaper/quotation-of-the-day-homeowners-hurrying-to-soften-tax-laws-bite.html
+- headline: U.S. Backs Honduran President’s Victory in Disputed Election
+  type: News
+  url: https://www.nytimes.com/2017/12/22/world/americas/us-honduras-president-hernandez.html
+- headline: The End of Miss America
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/22/opinion/miss-america-pageant-haskell-email.html
+- headline: Peru’s President Hangs On to Power, but at What Cost?
+  type: News
+  url: https://www.nytimes.com/2017/12/22/world/americas/peru-president-power-fujimori.html
+- headline: 'Jeanine Pirro of Fox News Helps an Old Friend: President Trump'
+  type: News
+  url: https://www.nytimes.com/2017/12/22/business/media/jeanine-pirro-of-fox-news-helps-an-old-friend-president-trump.html
+- headline: McConnell Wryly Calls Bannon a ‘Genius’
+  type: News
+  url: https://www.nytimes.com/2017/12/22/us/politics/mcconnell-bannon-genius.html
+- headline: Diane Straus, Publisher of Liberal Policy Magazines, Dies at 66
+  type: Obituary (Obit)
+  url: https://www.nytimes.com/2017/12/22/obituaries/diane-straus-publisher-of-liberal-policy-magazines-dies-at-66.html
+- headline: Dr. King’s Interconnected World
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/22/opinion/martin-luther-king-christmas.html
+- headline: Book Your Calendar
+  type: Interactive Feature
+  url: https://www.nytimes.com/interactive/2017/books/books-calendar.html
+- headline: Tax Bill Hysteria
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/22/opinion/republican-tax-bill-hysteria.html
+- headline: With Cuomo Assist, Homeowners Rush to Soften Tax Bill’s Impact
+  type: News
+  url: https://www.nytimes.com/2017/12/22/nyregion/cuomo-assist-as-homeowners-rush-to-prepay-property-tax-bill.html
+- headline: Acts of Resistance and Restraint Defy Easy Definition in the West Bank
+  type: News
+  url: https://www.nytimes.com/2017/12/22/world/middleeast/israel-palestinians-video-ahed-tamimi.html
+- headline: Will Eminem Ever Change?
+  type: News
+  url: https://www.nytimes.com/2017/12/22/arts/music/popcast-eminem-revival.html
+- headline: Fiat Chrysler to Recall 1.8 Million Ram Trucks Over Rollaways
+  type: News
+  url: https://www.nytimes.com/2017/12/22/business/truck-recall.html
+- headline: Woman, Around 80, Accused of Smuggling Cocaine Into Beirut Airport
+  type: News
+  url: https://www.nytimes.com/2017/12/22/world/middleeast/beirut-airport-cocaine.html
+- headline: 'Trump, North Korea, ‘Star Wars’: Your Friday Evening Briefing'
+  type: briefing
+  url: https://www.nytimes.com/2017/12/22/briefing/trump-north-korea-star-wars.html
+- headline: The Barca Way Spreads Far From Catalonia
+  type: News
+  url: https://www.nytimes.com/2017/12/22/sports/soccer/the-barca-way-spreads-far-from-catalonia.html
+- headline: 'Open Thread: This Week in Style News'
+  type: News
+  url: https://www.nytimes.com/2017/12/22/fashion/open-thread-style-newsletter-phoebe-philo-celine.html
+- headline: The Dark Art of Political Memes
+  type: Video
+  url: https://www.nytimes.com/video/arts/100000005615693/the-dark-art-of-political-memes.html
+- headline: Holiday Fiction, Just in Time for Christmas
+  type: News
+  url: https://www.nytimes.com/2017/12/22/books/holiday-fiction-just-in-time-for-christmas.html
+- headline: Miss America Leaders Resign Amid Scandal Over Derogatory Emails
+  type: News
+  url: https://www.nytimes.com/2017/12/22/business/miss-america-emails-sam-haskell.html
+- headline: Catalonia’s Election Yields a Crisis That Is Here to Stay
+  type: News
+  url: https://www.nytimes.com/2017/12/22/world/europe/catalonia-election-spain.html
+- headline: How Billy Crudup Plays 19 People in a One-Man Show
+  type: Video
+  url: https://www.nytimes.com/video/arts/100000005598392/billy-crudup-one-man-show-harry-clarke.html
+- headline: Four Senators Seek Longer Foreclosure Delay in Puerto Rico
+  type: News
+  url: https://www.nytimes.com/2017/12/22/business/puerto-rico-mortgage-foreclosures.html
+- headline: What We’re Reading
+  type: News
+  url: https://www.nytimes.com/2017/12/22/insider/what-were-reading.html
+- headline: 'Trailer: ''Molly''s Game'''
+  type: Video
+  url: https://www.nytimes.com/video/movies/100000005368746/trailer-mollys-game.html
+- headline: Homeless Group Honors the Dead, and Celebrates Victories
+  type: News
+  url: https://www.nytimes.com/2017/12/22/nyregion/picture-the-homeless-honors-dead-and-celebrates-victories.html
+- headline: U.S. Tax Bill May Inspire Cuts Globally, While Fueling Trade Tensions
+  type: News
+  url: https://www.nytimes.com/2017/12/22/business/tax-bill-global-profits.html
+- headline: F.B.I. Director Wants to Move Forward, but the President Is Making His
+    Job Harder
+  type: News
+  url: https://www.nytimes.com/2017/12/22/us/politics/fbi-director-president-trump.html
+- headline: Somewhere Between a Food Truck and a Food Tent, You’ll Find a Cubert
+  type: News
+  url: https://www.nytimes.com/2017/12/22/dining/cubert-portable-food-stall.html
+- headline: Marijuana for Christmas? Elderly Couple Arrested With 60 Pounds for Gifts
+  type: News
+  url: https://www.nytimes.com/2017/12/22/us/marijuana-christmas.html
+- headline: A Sports Titan’s Strange and Sudden Abdication
+  type: News
+  url: https://www.nytimes.com/2017/12/22/sports/john-skipper-espn.html
+- headline: An Illuminated Hebrew Bible Has a New Home
+  type: News
+  url: https://www.nytimes.com/2017/12/22/arts/design/hebrew-bible-met-museum.html
+- headline: In Old Borscht Belt, New Casino Brings a Glimmer of Hope
+  type: News
+  url: https://www.nytimes.com/2017/12/22/nyregion/in-the-catskills-resorts-world-casino-brings-hope.html
+- headline: A Teenager Said She Had Been Raped in Her Home Country. The U.S. Opposed
+    Her Abortion.
+  type: News
+  url: https://www.nytimes.com/2017/12/22/us/abortion-undocumented-rape.html
+- headline: How to Resist Office Gift-Fund Pressure
+  type: News
+  url: https://www.nytimes.com/2017/12/22/business/how-to-resist-office-gift-fund-pressure.html
+- headline: '‘A Slap in the Face’: Pick of White Man to Lead Council Draws Fire'
+  type: News
+  url: https://www.nytimes.com/2017/12/22/nyregion/pick-of-white-man-corey-johnson-for-council-speaker-draws-fire.html
+- headline: Trump Promised to Kill Carried Interest. Lobbyists Kept it Alive.
+  type: News
+  url: https://www.nytimes.com/2017/12/22/business/trump-carried-interest-lobbyists.html
+- headline: A Pull-Apart Bread Worth Sharing (Even if You Don’t Want to)
+  type: News
+  url: https://www.nytimes.com/2017/12/22/dining/monkey-bread-recipe.html
+- headline: Monkey Bread
+  type: Video
+  url: https://www.nytimes.com/video/dining/100000005619732/monkey-bread.html
+- headline: Tales of the Cocktail, a Troubled Event, May Have a Savior
+  type: News
+  url: https://www.nytimes.com/2017/12/22/dining/drinks/tales-of-the-cocktail-new-orleans.html
+- headline: Past Debates Echo in Split Between Cornel West and Ta-Nehisi Coates
+  type: News
+  url: https://www.nytimes.com/2017/12/22/us/past-debates-echo-in-split-between-cornel-west-and-ta-nehisi-coates.html
+- headline: 'The Year in France: Coverage From The New York Times in 2017'
+  type: News
+  url: https://www.nytimes.com/2017/12/22/world/europe/year-in-review-france.html
+- headline: Read Complaints About Warrantless Searches of Electronic Devices at the
+    U.S. Border
+  type: Interactive Feature
+  url: https://www.nytimes.com/interactive/2017/12/22/us/politics/document-KFAI-FOIA-TRIP-Complaints-Border-Electronics.html
+- headline: Privacy Complaints Mount Over Phone Searches at U.S. Border Since 2011
+  type: News
+  url: https://www.nytimes.com/2017/12/22/us/politics/us-border-privacy-phone-searches.html
+- headline: Sprawling Across New York, a Solstice Music Marathon
+  type: News
+  url: https://www.nytimes.com/2017/12/22/arts/music/make-music-winter.html
+- headline: U.S. Government Went Through These People’s Phones at the Border. Read
+    Their Stories.
+  type: News
+  url: https://www.nytimes.com/2017/12/22/us/politics/us-border-search-complaints.html
+- headline: Resuming Camera Uploads With Dropbox
+  type: Question
+  url: https://www.nytimes.com/2017/12/22/technology/personaltech/iphone-pictures-dropbox.html
+- headline: Dick Enberg, Veteran Sportscaster, Is Dead at 82
+  type: Obituary (Obit)
+  url: https://www.nytimes.com/2017/12/22/obituaries/dick-enberg-veteran-sportscaster-is-dead-at-82.html
+- headline: Gun Violence and Human Rights
+  type: Slideshow
+  url: https://www.nytimes.com/slideshow/2017/12/22/style/gun-violence-and-human-rights.html
+- headline: Glitter Bombs, Past Lives and Ovary Tattoos at Bust’s Craftacular
+  type: News
+  url: https://www.nytimes.com/2017/12/22/style/bust-magazine-craftacular.html
+- headline: Prosecutors Said to Seek Kushner Records From Deutsche Bank
+  type: News
+  url: https://www.nytimes.com/2017/12/22/business/kushner-deutsche-bank-subpoena.html
+- headline: Security Council Tightens Economic Vise on North Korea, Blocking Fuel,
+    Ships and Workers
+  type: News
+  url: https://www.nytimes.com/2017/12/22/world/asia/north-korea-security-council-nuclear-missile-sanctions.html
+- headline: 'Sublime Leontyne: The 8 Best Classical Music Moments of the Week on YouTube'
+  type: News
+  url: https://www.nytimes.com/2017/12/22/arts/music/leontyne-price-classical-music-youtube.html
+- headline: The headline for the recipe
+  type: Recipe
+  url: https://cooking.nytimes.com/recipes/1019122-shrimp-with-beans-and-winter-vegetabless
+- headline: 2 Top Soccer Officials Found Guilty in FIFA Case
+  type: News
+  url: https://www.nytimes.com/2017/12/22/sports/soccer/fifa-trial.html
+- headline: 'Taylor Swift’s Rivals This Holiday: Bing Crosby and Nat King Cole'
+  type: News
+  url: https://www.nytimes.com/2017/12/22/business/media/holiday-music-streaming.html
+- headline: Seven Years After His Dismissal, Omar Minaya Is Back With the Mets
+  type: News
+  url: https://www.nytimes.com/2017/12/22/sports/minaya-mets-alderson-wilpon.html
+- headline: WNYC Chief Pushed Growth at the Cost of Station’s Culture
+  type: News
+  url: https://www.nytimes.com/2017/12/22/nyregion/wnyc-chief-laura-walker-firing-hosts-misconduct.html
+- headline: When William Styron Ruled the Best-Seller List
+  type: List
+  url: https://www.nytimes.com/2017/12/22/books/review/william-styron-nat-turner-best-seller.html
+- headline: Super Yaya’s Rym Beydoun Sees the Future of Fashion
+  type: News
+  url: https://www.nytimes.com/2017/12/22/style/super-yaya-rym-beydoun-opening-ceremony.html
+- headline: Trump Watches News. Rushes to Sign Tax Bill.
+  type: Video
+  url: https://www.nytimes.com/video/us/politics/100000005619811/trump-watches-news-rushes-to-sign-tax-bill.html
+- headline: With Trump in the White House, the Family Business Takes It Down a Notch
+  type: News
+  url: https://www.nytimes.com/2017/12/22/business/trump-family-business-takes-it-down-a-notch.html
+- headline: The U.N.’s Rebuke of Trump on Jerusalem
+  type: Letter
+  url: https://www.nytimes.com/2017/12/22/opinion/un-trump-jerusalem.html
+- headline: 'Forbidden Words: Censorship at the C.D.C.?'
+  type: Letter
+  url: https://www.nytimes.com/2017/12/22/opinion/censorship-cdc.html
+- headline: A Sex Pistols Concert Film Languished for Four Decades. Here’s Why.
+  type: News
+  url: https://www.nytimes.com/2017/12/22/arts/music/sex-pistols-documentary-doa-a-right-of-passage.html
+- headline: 'The Playlist: Cardi B Isn’t Going Anywhere and 9 More New Songs '
+  type: News
+  url: https://www.nytimes.com/2017/12/22/arts/music/playlist-cardi-b-migos-charli-xcx-sugarland.html
+- headline: 'A Review of Year-End Reviews: The Canada Letter'
+  type: News
+  url: https://www.nytimes.com/2017/12/22/world/canada/-year-end-reviews-the-canada-letter.html
+- headline: ‘The Story of the Jews’ Continues
+  type: News
+  url: https://www.nytimes.com/2017/12/22/books/review/the-story-of-the-jews-continues.html
+- headline: Flying Abandoned Animals to Safer Havens
+  type: News
+  url: https://www.nytimes.com/2017/12/22/business/flying-abandoned-animals-to-safer-havens.html
+- headline: The Sandwich Game Is Strong in Brooklyn
+  type: News
+  url: https://www.nytimes.com/2017/12/22/dining/gordon-savory-brooklyn.html
+- headline: The Peril of Taxing Elite Higher Education
+  type: News
+  url: https://www.nytimes.com/2017/12/22/business/the-peril-of-taxing-elite-higher-education.html
+- headline: How Disaster Charity Can Pivot to Sustainable Philanthropy
+  type: News
+  url: https://www.nytimes.com/2017/12/22/your-money/natural-disaster-philanthropy.html
+- headline: Onions Without the Tears
+  type: News
+  url: https://www.nytimes.com/2017/12/22/dining/usa-sweet-red-onions.html
+- headline: A Citrus Press With More Torque
+  type: News
+  url: https://www.nytimes.com/2017/12/22/dining/joseph-joseph-helix-citrus-juicer.html
+- headline: 'The #MeToo Moment: What Happened After Women Broke the Silence Elsewhere?'
+  type: News
+  url: https://www.nytimes.com/2017/12/22/us/the-metoo-moment-what-happened-after-women-broke-the-silence-elsewhere.html
+- headline: 'Don’t Despair, Protest: Playwright Lucy Kirkwood Sees No Other Choice'
+  type: News
+  url: https://www.nytimes.com/2017/12/22/theater/lucy-kirkwood-the-children-manhattan-theater-club.html
+- headline: Salmon Fit for a Czar
+  type: News
+  url: https://www.nytimes.com/2017/12/22/dining/petrossian-souhoi-smoked-salmon.html
+- headline: Malaysian Leader Says World’s Muslims Should Not ‘Lose to the Jews’
+  type: News
+  url: https://www.nytimes.com/2017/12/22/world/asia/trump-jerusalem-malaysia-indonesia.html
+- headline: Searching for the (Star) Light at the Vatican Observatory
+  type: Biography
+  url: https://www.nytimes.com/2017/12/22/world/europe/vatican-observatory-consolmagno.html
+- headline: A Small Gem for an Intimate Dinner
+  type: News
+  url: https://www.nytimes.com/2017/12/22/dining/goat-cheese-saxelby.html
+- headline: New York, New York, a Wonderful Drinking Town
+  type: News
+  url: https://www.nytimes.com/2017/12/22/dining/drinks/new-york-cocktails-book.html
+- headline: For Travelers to Ireland, Luggage Tags Make Statement on Abortion
+  type: News
+  url: https://www.nytimes.com/2017/12/22/world/europe/ireland-luggage-tags-abortion.html
+- headline: Readers React to Glenn Thrush’s Punishment; We Respond
+  type: News
+  url: https://www.nytimes.com/2017/12/22/reader-center/glenn-thrush-punishment.html
+- headline: What to Cook This Weekend
+  type: News
+  url: https://www.nytimes.com/2017/12/22/dining/what-to-cook-this-weekend-newsletter.html
+- headline: What Happens When the Richest U.S. Cities Turn to the World?
+  type: News
+  url: https://www.nytimes.com/2017/12/22/upshot/the-great-disconnect-megacities-go-global-but-lose-local-links.html
+- headline: In Signing Sweeping Tax Bill, Trump Questions Whether He Is Getting Enough
+    Credit
+  type: News
+  url: https://www.nytimes.com/2017/12/22/us/politics/trump-tax-bill.html
+- headline: 'For Hunters in the Woods, a Quiet Killer: Tree Stands'
+  type: News
+  url: https://www.nytimes.com/2017/12/22/nyregion/for-hunters-in-the-woods-a-quiet-killer-tree-stands.html
+- headline: If You Want to Know How the New Tax Code Affects You, Read This First
+  type: Interactive Feature
+  url: https://www.nytimes.com/interactive/2017/12/22/business/taxbillroundup.html
+- headline: 'Feeling Blue (and Feeling Good): U.K. Picks a Post-Brexit Passport Color'
+  type: News
+  url: https://www.nytimes.com/2017/12/22/world/europe/uk-passport-brexit.html
+- headline: Phoebe Philo Exits Céline, Adding to Fashion Turmoil
+  type: News
+  url: https://www.nytimes.com/2017/12/22/fashion/phoebe-philo-celine.html
+- headline: ''
+  type: Recipe
+  url: https://cooking.nytimes.com/recipes/1019121-eggnog-creme-brulee
+- headline: ''
+  type: Recipe
+  url: https://cooking.nytimes.com/recipes/1019120-bacon-egg-and-cheese-breakfast-casserole
+- headline: Watch These Brooklyn Skate Club Regulars Dance Their Wheels Off
+  type: News
+  url: https://www.nytimes.com/2017/12/22/arts/dance/brooklyn-skate-club-photos.html
+- headline: Trump Could Save More Than $11 Million Under the New Tax Plan
+  type: Interactive Feature
+  url: https://www.nytimes.com/interactive/2017/12/22/us/politics/trump-tax-savings.html
+- headline: An Israeli Settler, a Dead Palestinian and the Crux of the Conflict
+  type: News
+  url: https://www.nytimes.com/2017/12/22/world/middleeast/israel-west-bank-settlers-palestinians-qusra.html
+- headline: Bitcoin Plummets More Than 30 Percent in Less Than a Day
+  type: News
+  url: https://www.nytimes.com/2017/12/22/business/bitcoin-plunges-more-than-25-percent-in-24-hours.html
+- headline: Diane Kruger Returns Home and Wins Big
+  type: News
+  url: https://www.nytimes.com/2017/12/22/arts/diane-kruger-in-the-fade.html
+- headline: The First Lady of the Canadiens Sits Behind the Montreal Bench
+  type: News
+  url: https://www.nytimes.com/2017/12/22/sports/hockey/elise-beliveau-montreal-canadiens.html
+- headline: Elusive Vampire Film Steps Out of the Shadows
+  type: News
+  url: https://www.nytimes.com/2017/12/22/movies/elusive-vampire-film-steps-out-of-the-shadows.html
+- headline: The Best Poetry of 2017
+  type: Review
+  url: https://www.nytimes.com/2017/12/22/books/review/best-poetry.html
+- headline: Pandoro Is Italy’s Christmas Miracle. Easter Is Another Story.
+  type: News
+  url: https://www.nytimes.com/2017/12/22/world/europe/pandoro-christmas-cake-verona.html
+- headline: It Was a Year of Mind-Boggling Prices, but ‘Art Is in a Funny Place’
+  type: News
+  url: https://www.nytimes.com/2017/12/22/arts/art-market-auctions.html
+- headline: Meghan Markle’s Sheer Top Was a Sneaky Statement for a Royal Portrait
+  type: News
+  url: https://www.nytimes.com/2017/12/22/fashion/meghan-markle-engagement-portrait-dress.html
+- headline: Did Rome Kill Its Christmas Tree?
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/22/opinion/rome-christmas-tree-spelacchio.html
+- headline: 'Stop Trying to Make ‘Youthquake’ Happen: Readers Pick Their Words of
+    the Year'
+  type: News
+  url: https://www.nytimes.com/2017/12/22/arts/times-readers-pick-words-of-the-year.html
+- headline: 'California Today: Should Shelter Dogs Be Vegan?'
+  type: briefing
+  url: https://www.nytimes.com/2017/12/22/us/california-today-should-shelter-dogs-be-vegan.html
+- headline: 'You Asked, Ron Lieber Answered: How Will This Tax Bill Affect You?'
+  type: News
+  url: https://www.nytimes.com/2017/12/22/reader-center/ron-lieber-how-will-this-tax-bill-affect-you.html
+- headline: The Women Who Run the ‘Star Wars’ Universe
+  type: News
+  url: https://www.nytimes.com/2017/12/22/movies/star-wars-last-jedi-women-run-universe.html
+- headline: Do Security Systems Make Your Home Safer?
+  type: News
+  url: https://www.nytimes.com/2017/12/22/realestate/do-security-systems-make-your-home-safer.html
+- headline: 'Farhad and Mike’s Week in Tech: Cuckoo for Cryptocurrency'
+  type: News
+  url: https://www.nytimes.com/2017/12/22/technology/farhad-mike-cryptocurrency-uber.html
+- headline: Should You Shower in the Morning, or at Night? Yes
+  type: News
+  url: https://www.nytimes.com/2017/12/22/well/showering-morning-night.html
+- headline: Chairman of Lotte Group Is Convicted of Graft in South Korea, but Avoids
+    Jail
+  type: News
+  url: https://www.nytimes.com/2017/12/22/business/korea-lotte-corruption-conviction.html
+- headline: 'Pop Music in 2017: Glum and Glummer'
+  type: News
+  url: https://www.nytimes.com/2017/12/22/arts/music/pop-music-2017-glum-lil-uzi-vert-future-taylor-swift.html
+- headline: The Best Rooms in T in 2017
+  type: News
+  url: https://www.nytimes.com/2017/12/22/t-magazine/best-rooms-design.html
+- headline: The Best Rooms Featured in T in 2017
+  type: Slideshow
+  url: https://www.nytimes.com/slideshow/2017/12/22/t-magazine/the-best-rooms-featured-in-t-in-2017.html
+- headline: How (Not) to Break an Election Tie
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/22/opinion/virginia-election-tie.html
+- headline: Ryanair Hit With Its First Pilot Strike, in Germany
+  type: News
+  url: https://www.nytimes.com/2017/12/22/business/ryanair-pilot-strike.html
+- headline: 'Your Week in Culture: ‘Black Mirror,’ Monteverdi, ‘The Hip Hop Nutcracker’'
+  type: News
+  url: https://www.nytimes.com/2017/12/22/arts/black-mirror-monteverdi-hip-hop-nutcracker.html
+- headline: Christmas in the I.C.U.
+  type: News
+  url: https://www.nytimes.com/2017/12/22/well/live/christmas-in-the-icu.html
+- headline: 'One of Bitcoin’s Biggest Champions Turns Bearish: DealBook Briefing'
+  type: News
+  url: https://www.nytimes.com/2017/12/22/business/dealbook/bitcoin-fall-blockchain.html
+- headline: 10 Things to Do in NYC Now
+  type: News
+  url: https://www.nytimes.com/2017/12/22/arts/10-things-to-do-in-nyc-now-gilbertgottfried.html
+- headline: How Latham Thomas, Wellness Guru, Spends Her Sundays
+  type: News
+  url: https://www.nytimes.com/2017/12/22/nyregion/how-latham-thomas-wellness-guru-spends-her-sundays.html
+- headline: Leontyne Price, Legendary Diva, Is a Movie Star at 90
+  type: News
+  url: https://www.nytimes.com/2017/12/22/arts/music/leontyne-price-met-opera.html
+- headline: 'The Weekly Health Quiz: Ice Cream, Tea and Families'
+  type: Interactive Feature
+  url: https://www.nytimes.com/interactive/2017/12/22/well/live/22healthquiz-12222017.html
+- headline: Life, Death and Taxes in Inequality City
+  type: News
+  url: https://www.nytimes.com/2017/12/22/nyregion/life-death-and-taxes-in-inequality-city.html
+- headline: Feeding Houstonians With a Feast From a Wedding Disrupted
+  type: News
+  url: https://www.nytimes.com/2017/12/22/fashion/weddings/feeding-houstonians-with-a-feast-from-a-wedding-disrupted.html
+- headline: In Search of Lost Time
+  type: News
+  url: https://www.nytimes.com/2017/12/22/books/review/best-memoirs.html
+- headline: Is It Better to Cook With Coconut Oil or Olive Oil?
+  type: News
+  url: https://www.nytimes.com/2017/12/22/well/eat/is-it-better-to-cook-with-coconut-oil-or-olive-oil.html
+- headline: 'New York Today: Alone in an Empty City'
+  type: briefing
+  url: https://www.nytimes.com/2017/12/22/nyregion/new-york-today-alone-in-nyc-holidays.html
+- headline: Sundays at the Altar of Science
+  type: News
+  url: https://www.nytimes.com/2017/12/22/well/sundays-at-the-altar-of-science.html
+- headline: 'The Year in Sound: An Audio Time Capsule of 2017'
+  type: briefing
+  url: https://www.nytimes.com/2017/12/22/podcasts/the-daily/2017-year-sound.html
+- headline: Should We Forgive the Men Who Assaulted Us?
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/22/opinion/metoo-sexual-assault-forgiveness.html
+- headline: Cardinal Tobin, Am I a Christian?
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/22/opinion/sunday/cardinal-tobin-christian.html
+- headline: If This Is America
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/22/opinion/america-trump-united-nations.html
+- headline: Comeback Words for 2018
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/22/opinion/comeback-words-2018.html
+- headline: Fifty Shades of Orange
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/22/opinion/fifty-shades-trump-republicans.html
+- headline: Visiting Afghanistan, Pence Says U.S. Will ‘See This Through’
+  type: News
+  url: https://www.nytimes.com/2017/12/22/world/asia/mike-pence-afghanistan.html
+- headline: 'Jerusalem, Dick Enberg, ‘Jumanji’: Your Friday Briefing'
+  type: briefing
+  url: https://www.nytimes.com/2017/12/22/briefing/jerusalem-dick-enberg-jumanji.html
+- headline: Seth Meyers Calls Out Trump for Saying He ‘Repealed Obamacare’
+  type: News
+  url: https://www.nytimes.com/2017/12/22/arts/television/seth-meyers-trump-says-repealed-obamacare.html
+- headline: 'Their Words to Live By: Artists We Lost in 2017'
+  type: News
+  url: https://www.nytimes.com/2017/12/22/arts/their-words-to-live-by-artists-we-lost-in-2017.html
+- headline: 'Carols by a Cellphone’s Glow: See How Puerto Rico Is Celebrating Christmas'
+  type: News
+  url: https://www.nytimes.com/2017/12/22/us/hurricane-maria-christmas-puerto-rico.html
+- headline: What Acts of Bravery Have You Witnessed This Year?
+  type: News
+  url: https://www.nytimes.com/2017/12/22/learning/what-acts-of-bravery-have-you-witnessed-this-year.html
+- headline: Trump Promised to Protect Steel. Layoffs Are Coming Instead.
+  type: News
+  url: https://www.nytimes.com/2017/12/22/business/economy/trump-steel-industry-layoffs.html
+- headline: Brokers Who Go Big With Their Closing Gifts
+  type: News
+  url: https://www.nytimes.com/2017/12/22/realestate/brokers-closing-gifts.html
+- headline: In Brooklyn, a Hare Krishna Reckoning
+  type: News
+  url: https://www.nytimes.com/2017/12/22/nyregion/in-brooklyn-a-hare-krishna-reckoning.html
+- headline: Tax Bill Is Great for Accountants — Unless They Have Holiday Plans
+  type: News
+  url: https://www.nytimes.com/2017/12/22/business/republican-tax-plan-accountants-auditors-holidays.html
+- headline: A Better Kind of Nursing Home
+  type: News
+  url: https://www.nytimes.com/2017/12/22/health/green-houses-nursing-homes.html
+- headline: For One Rohingya Family, I Hoped for Redemption. That Hope Was Dashed.
+  type: News
+  url: https://www.nytimes.com/2017/12/22/insider/rohingya-family-hope.html
+- headline: A Fictional Priest Uncovers a Long History of Clerical Child Abuse
+  type: Review
+  url: https://www.nytimes.com/2017/12/22/books/review/crimes-of-the-father-thomas-keneally.html
+- headline: Greater Access to Donated Livers Promised to Transplant Patients
+  type: News
+  url: https://www.nytimes.com/2017/12/22/health/liver-transplants-regions.html
+- headline: 7 Stopovers that Make Adding a Day (or More) to Your Trip Worthwhile
+  type: News
+  url: https://www.nytimes.com/2017/12/22/travel/stopovers-flights-deals.html
+- headline: 'Bed, Board and Beyond: Hotels Venture Into Entertainment'
+  type: News
+  url: https://www.nytimes.com/2017/12/22/travel/hotels-entertainment.html
+- headline: Harriet Tubman’s Hymnal
+  type: News
+  url: https://www.nytimes.com/2017/12/22/books/review/harriet-tubman-hymnal.html
+- headline: In Philadelphia, a Comic Book Store Dedicated to Diversity
+  type: News
+  url: https://www.nytimes.com/2017/12/22/travel/ariell-johnson-amalgam-comics-philadelphia.html
+- headline: Eat, Pray, Laugh
+  type: Review
+  url: https://www.nytimes.com/2017/12/22/books/review/abu-dhabi-bar-mitzvah-adam-valen-levinson-memoir.html
+- headline: Losing Her Religion
+  type: Review
+  url: https://www.nytimes.com/2017/12/22/books/review/book-of-separation-tova-mirvis-memoir.html
+- headline: Jojo Is the Artist of Choice Among N.B.A. Stars
+  type: News
+  url: https://www.nytimes.com/2017/12/22/sports/basketball/porzingis-artist.html
+- headline: E.P.A. Officials, Disheartened by Agency’s Direction, Are Leaving in Droves
+  type: News
+  url: https://www.nytimes.com/2017/12/22/climate/epa-buyouts-pruitt.html
+- headline: The Quest for Immortality, Rebooted
+  type: Review
+  url: https://www.nytimes.com/2017/12/22/books/review/heavens-on-earth-michael-shermer.html
+- headline: Finding Oneself in a Coffin
+  type: Review
+  url: https://www.nytimes.com/2017/12/22/books/review/furnishing-eternity-david-giffels.html
+- headline: If Tea Isn’t Your Cuppa, How About Beer, Wine or Coffee?
+  type: News
+  url: https://www.nytimes.com/2017/12/22/books/review/beverage-history-appreciation-coffee-beer-liquor-wine.html
+- headline: Paperback Row
+  type: List
+  url: https://www.nytimes.com/2017/12/22/books/review/paperback-row.html
+- headline: Two Authors Examine Biblical History for Clues About Faith
+  type: Review
+  url: https://www.nytimes.com/2017/12/22/books/review/james-kugel-great-shift-richard-elliott-friedman-exodus.html
+- headline: 'New Sentences: From Richard Lloyd Parry’s ‘Ghosts of the Tsunami’'
+  type: News
+  url: https://www.nytimes.com/2017/12/22/magazine/new-sentences-from-richard-lloyd-parrys-ghosts-of-the-tsunami.html
+- headline: 'Poem: Ligament'
+  type: News
+  url: https://www.nytimes.com/2017/12/22/magazine/poem-ligament.html
+- headline: The 12.10.17 Issue
+  type: News
+  url: https://www.nytimes.com/2017/12/22/magazine/the-12-10-17-issue.html
+- headline: Judge John Hodgman on Drinking Straight From the Carton
+  type: News
+  url: https://www.nytimes.com/2017/12/22/magazine/judge-john-hodgman-on-drinking-straight-from-the-carton.html
+- headline: How to Escape a Burning Building
+  type: News
+  url: https://www.nytimes.com/2017/12/22/magazine/how-to-escape-a-burning-building.html
+- headline: Women of Color Fight Back
+  type: Video
+  url: https://www.nytimes.com/video/us/100000005598862/women-of-color-self-defense-bronx.html
+- headline: What Would It Take to Fix New York’s Subway?
+  type: Interactive Feature
+  url: https://www.nytimes.com/interactive/2017/12/22/nyregion/what-would-it-take-to-fix-new-yorks-subway.html
+- headline: Notes From the Book Review Archives
+  type: News
+  url: https://www.nytimes.com/2017/12/22/books/review/richard-gilman-religious-novel.html
+- headline: Letters to the Editor
+  type: Letter
+  url: https://www.nytimes.com/2017/12/22/books/review/letters-to-the-editor.html
+- headline: 'Teaching Activities for: ‘“Shape of You” Was 2017’s Biggest Track. Here’s
+    How Ed Sheeran Made It.’'
+  type: News
+  url: https://www.nytimes.com/2017/12/22/learning/teaching-activities-for-shape-of-you-was-2017s-biggest-track-heres-how-ed-sheeran-made-it.html
+- headline: Sports in 2017
+  type: News
+  url: https://www.nytimes.com/2017/12/22/learning/sports-in-2017.html
+- headline: Former Host of ‘India’s Most Wanted’ Convicted of Murdering His Wife
+  type: News
+  url: https://www.nytimes.com/2017/12/22/world/asia/india-most-wanted-ilyasi-murder.html
+- headline: The Opioid Crisis Is Getting Worse, Particularly for Black Americans
+  type: Interactive Feature
+  url: https://www.nytimes.com/interactive/2017/12/22/upshot/opioid-deaths-are-spreading-rapidly-into-black-america.html
+- headline: 2 French Playwrights Reclaim Their Works, Bringing Them Home
+  type: News
+  url: https://www.nytimes.com/2017/12/22/theater/paris-theater-bella-figura-actrice.html
+- headline: 'Word + Quiz: cantata'
+  type: News
+  url: https://www.nytimes.com/2017/12/22/learning/22WODLN.html
+- headline: 'What’s on TV Friday: ‘I Love Lucy’ and ‘Split’'
+  type: Schedule
+  url: https://www.nytimes.com/2017/12/22/arts/television/whats-on-tv-friday-i-love-lucy-and-split.html
+- headline: Where Jesus Would Spend Christmas
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/22/opinion/christmas-jesus-refugee-crisis.html
+- headline: 'Quotation of the Day: Festive Windows Becoming Ghosts of Christmases
+    Past'
+  type: Quote
+  url: https://www.nytimes.com/2017/12/22/todayspaper/quotation-of-the-day-festive-windows-becoming-ghosts-of-christmases-past.html
+- headline: 'Catalonia, Jerusalem, Christmas: Your Friday Briefing'
+  type: briefing
+  url: https://www.nytimes.com/2017/12/22/briefing/catalonia-jerusalem-christmas.html
+- headline: Shooing Carolers Away for a Love That Stays
+  type: News
+  url: https://www.nytimes.com/2017/12/22/style/modern-love-christmas-carols-leukemia.html
+- headline: Michael Beasley Lifts the Knicks to a Statement Win Over the Celtics
+  type: News
+  url: https://www.nytimes.com/2017/12/21/sports/knicks-celtics-beasley.html
+- headline: 'Corrections: December 22, 2017'
+  type: Correction
+  url: https://www.nytimes.com/2017/12/21/pageoneplus/corrections-december-22-2017.html
+- headline: Officers Who Handcuffed Girl, 11, Won’t Be Disciplined, Police Chief Says
+  type: News
+  url: https://www.nytimes.com/2017/12/21/us/grand-rapids-police-honestie-hodges.html
+- headline: Right and Left React to the Passage of the G.O.P. Tax Cut
+  type: News
+  url: https://www.nytimes.com/2017/12/21/us/politics/right-and-left-republican-tax-cut.html
+- headline: Term of Endearment
+  type: News
+  url: https://www.nytimes.com/2017/12/21/crosswords/daily-puzzle-2017-12-22.html
+- headline: When Will the New Tax Plan Kick In?
+  type: Interactive Feature
+  url: https://www.nytimes.com/interactive/2017/12/21/us/politics/will-tax-plan-affect-my-2017-taxes.html
+- headline: Proposed U.N. Resolution Would Toughen Sanctions on North Korea
+  type: News
+  url: https://www.nytimes.com/2017/12/21/world/asia/us-un-north-korea-sanctions.html
+- headline: 'Review: In ‘Father Figures,’ Ed Helms and Owen Wilson on a Hunt for Dad'
+  type: Review
+  url: https://www.nytimes.com/2017/12/21/movies/father-figures-review-ed-helms-owen-wilson.html
+- headline: A Chef Opens a Restaurant. His Training? Decades in a Prison Kitchen.
+  type: News
+  url: https://www.nytimes.com/2017/12/21/nyregion/a-chef-opens-a-restaurant-his-training-decades-in-a-prison-kitchen.html
+- headline: A Former Prison Chef Gets His Own Restaurant
+  type: Video
+  url: https://www.nytimes.com/video/nyregion/100000005618186/a-former-prison-chef-gets-his-own-restaurant.html
+- headline: Trump Administration Considers Separating Families to Combat Illegal Immigration
+  type: News
+  url: https://www.nytimes.com/2017/12/21/us/trump-immigrant-families-separate.html
+- headline: Dispute Over Political Strategy Erupts Inside the White House
+  type: News
+  url: https://www.nytimes.com/2017/12/21/us/politics/trump-stepien-lewandowki.html
+- headline: Justice Dept. Revokes 25 Legal Guidance Documents Dating to 1975
+  type: News
+  url: https://www.nytimes.com/2017/12/21/us/politics/justice-dept-guidance-documents.html
+- headline: 'The Hindu Bagpipers of Secaucus '
+  type: News
+  url: https://www.nytimes.com/2017/12/21/nyregion/the-hindu-bagpipers-of-secaucus.html
+- headline: How Memphis Hopes to Move On, Now That Statues Are Down
+  type: News
+  url: https://www.nytimes.com/2017/12/21/us/memphis-confederate-statues-parks.html
+- headline: The Real Mr. Met Is Selling Off His Past and Coping With the Present
+  type: News
+  url: https://www.nytimes.com/2017/12/21/sports/baseball/mets-ed-kranepool-memorabilia-wilpon.html
+- headline: 'Schools Chancellor’s Legacy: Stories, She Says, Not Statistics'
+  type: News
+  url: https://www.nytimes.com/2017/12/21/nyregion/farina-chancellor-retire-legacy-successor.html
+- headline: Papa John’s Chief Executive to Step Down, Weeks After Blaming N.F.L. for
+    Sales Slump
+  type: News
+  url: https://www.nytimes.com/2017/12/21/business/papa-johns-john-schnatter.html
+- headline: 'The Trump Administration to Restaurants: Take the Tips!'
+  type: Editorial
+  url: https://www.nytimes.com/2017/12/21/opinion/trump-administration-restaurants-tipping.html
+- headline: In This Class, Sharing Stories That Once Felt Unspeakable
+  type: News
+  url: https://www.nytimes.com/2017/12/21/nyregion/homeless-program-sharing-stories.html
+- headline: Forget the Strategy Paper. Watch What He Does.
+  type: Editorial
+  url: https://www.nytimes.com/2017/12/21/opinion/trump-security-strategy.html
+- headline: For Students Swindled by Predatory Colleges, Relief May Only Be Partial
+  type: News
+  url: https://www.nytimes.com/2017/12/21/us/politics/for-profit-universities-debt-relief-devos.html
+- headline: Why Do I Give on the Subway?
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/21/opinion/subway-money-guilt.html
+- headline: Tax-Cut Santa Is Coming to Town
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/21/opinion/tax-cut-santa.html
+- headline: Ford Apologizes for Sexual Harassment at Chicago Factories
+  type: News
+  url: https://www.nytimes.com/2017/12/21/us/ford-apology-sexual-harassment.html
+- headline: Thousands of Federal Inmates Are in the U.S. Illegally, Administration
+    Says
+  type: News
+  url: https://www.nytimes.com/2017/12/21/us/undocumented-immigrants-crimes.html
+- headline: Charles Dutoit, Noted Conductor, Accused of Sexual Assault
+  type: News
+  url: https://www.nytimes.com/2017/12/21/arts/music/charles-dutoit-sexual-misconduct.html
+- headline: In Kyle Kuzma, the Lakers Found a Gem Late in the First Round
+  type: News
+  url: https://www.nytimes.com/2017/12/21/sports/kyle-kuzma-lakers.html
+- headline: Climate Change Is Driving People From Home. So Why Don’t They Count as
+    Refugees?
+  type: News
+  url: https://www.nytimes.com/2017/12/21/climate/climate-refugees.html
+- headline: United in Defiance of Trump
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/21/opinion/unga-trump-jerusalem-embassy.html
+- headline: Attorney General Sessions Orders Investigation After Bundy Mistrial
+  type: News
+  url: https://www.nytimes.com/2017/12/21/us/attorney-general-sessions-bundy.html
+- headline: Four Days With a Rohingya Family in Exile
+  type: Video
+  url: https://www.nytimes.com/video/world/asia/100000005564933/rohingya-family-in-exile.html
+- headline: How the Rohingya Escaped
+  type: Interactive Feature
+  url: https://www.nytimes.com/interactive/2017/12/21/world/asia/how-the-rohingya-escaped.html
+- headline: 'Fantasy Football: Top Players to Start in N.F.L. Week 16'
+  type: News
+  url: https://www.nytimes.com/2017/12/21/sports/fantasy-football-top-players-to-start-in-nfl-week-16.html
+- headline: Edward Rowny, Outspoken Treaty Negotiator, Dies at 100
+  type: Obituary (Obit)
+  url: https://www.nytimes.com/2017/12/21/obituaries/edward-rowny-outspoken-treaty-negotiator-dies-at-100.html
+- headline: Janet Benshoof, Women’s Champion on a Global Scale, Dies at 70
+  type: Obituary (Obit)
+  url: https://www.nytimes.com/2017/12/21/obituaries/janet-benshoof-dead-lawyer-and-abortion-rights-advocate.html
+- headline: New York Public Radio Fires WNYC Hosts Leonard Lopate and Jonathan Schwartz
+  type: News
+  url: https://www.nytimes.com/2017/12/21/business/wnyc-leonard-lopate-jonathan-schwartz-nypr.html
+- headline: 'Congress, Jerusalem, Facebook: Your Thursday Evening Briefing'
+  type: briefing
+  url: https://www.nytimes.com/2017/12/21/briefing/congress-jerusalem-facebook.html
+- headline: Marcelo Gomes Leaves American Ballet Theater After Sexual Misconduct Allegation
+  type: News
+  url: https://www.nytimes.com/2017/12/21/arts/dance/marcelo-gomes-abt-sexual-misconduct-allegation.html
+- headline: In Norway, Arctic Herder Loses Case Over Reindeer Culling
+  type: News
+  url: https://www.nytimes.com/2017/12/21/world/europe/in-norway-arctic-herder-loses-case-over-reindeer-culling.html
+- headline: Readers React to the New ‘Seven Wonders of the World’
+  type: Text
+  url: https://www.nytimes.com/2017/12/21/reader-center/seven-wonders-world-readers-react.html
+- headline: Pillow Talk With Saks Fifth Avenue
+  type: Brief
+  url: https://www.nytimes.com/2017/12/21/nyregion/metropolitan-diary-pillow-talk-with-saks-fifth-avenue.html
+- headline: Judge Dismisses Suit Against Trump Over Business Dealings
+  type: News
+  url: https://www.nytimes.com/2017/12/21/us/politics/trump-suit-constitution-business.html
+- headline: 'The Can’t-Lose Way for Your Business to Pop: Add Bitcoin to Its Name'
+  type: News
+  url: https://www.nytimes.com/2017/12/21/technology/bitcoin-blockchain-stock-market.html
+- headline: Trump Resort in Ireland Gets Approval for Sea Walls
+  type: News
+  url: https://www.nytimes.com/2017/12/21/world/europe/trump-resort-ireland-sea-wall.html
+- headline: Tax Cuts Crystallize Haves, Wants, Can’ts, Won’ts
+  type: News
+  url: https://www.nytimes.com/2017/12/21/business/dealbook/tax-cuts-crystallize-haves-wants-cants-wonts.html
+- headline: Eric Schmidt to Step Down as Alphabet’s Executive Chairman
+  type: News
+  url: https://www.nytimes.com/2017/12/21/technology/eric-schmidt-google-alphabet.html
+- headline: Cuba Delays End of Raúl Castro’s Presidency by Two Months
+  type: News
+  url: https://www.nytimes.com/2017/12/21/world/americas/cuba-raul-castro.html
+- headline: Anatomy of a Scene | ‘Downsizing’
+  type: Video
+  url: https://www.nytimes.com/video/movies/100000005618095/anatomy-of-a-scene-downsizing.html
+- headline: South Sudan Cease-Fire Is Signed, but ‘Difficult’ Period Awaits
+  type: News
+  url: https://www.nytimes.com/2017/12/21/world/africa/south-sudan-cease-fire-is-signed-but-difficult-period-awaits.html
+- headline: MacArthur Grant Will Create ‘Sesame Street’ for Syrian Refugees
+  type: News
+  url: https://www.nytimes.com/2017/12/21/world/middleeast/macarthur-sesame-street-refugees.html
+- headline: '‘Peaky Blinders’: The Disparate Ingredients of a Cult Hit'
+  type: News
+  url: https://www.nytimes.com/2017/12/21/arts/television/peaky-blinders-netflix-bbc-cillian-murphy.html
+- headline: Georgia, Facing ‘Difficult Dilemma,’ Keeps Nuclear Project Alive
+  type: News
+  url: https://www.nytimes.com/2017/12/21/climate/georgia-vogtle-nuclear.html
+- headline: Bid to Oust Peru’s President Falls Short in Congress
+  type: News
+  url: https://www.nytimes.com/2017/12/21/world/americas/peru-president-impeachment.html
+- headline: Obamacare Sign-ups at High Levels Despite Trump Saying It’s ‘Imploding’
+  type: News
+  url: https://www.nytimes.com/2017/12/21/us/politics/health-obama-care-affordable-care-act.html
+- headline: A Cute Toy Just Brought a Hacker Into Your Home
+  type: News
+  url: https://www.nytimes.com/2017/12/21/technology/connected-toys-hacking.html
+- headline: 'N.F.L. Picks Week 16: Ezekiel Elliott Returns to the Cowboys'
+  type: News
+  url: https://www.nytimes.com/2017/12/21/sports/nfl-picks-predictions-week-16.html
+- headline: When a Grieving Mother Talks, Listen
+  type: News
+  url: https://www.nytimes.com/2017/12/21/style/perinatal-death-stillbirth-childbirth.html
+- headline: Woman Who Sabotaged Her Fiancé’s Kayak Is Released 5 Months After Guilty
+    Plea
+  type: News
+  url: https://www.nytimes.com/2017/12/21/nyregion/kayak-fiance-released.html
+- headline: Events for Children in NYC This Week
+  type: News
+  url: https://www.nytimes.com/2017/12/21/arts/events-for-children-in-nyc-this-week.html
+- headline: Film Series in NYC This Week
+  type: News
+  url: https://www.nytimes.com/2017/12/21/movies/film-series-in-nyc-this-week.html
+- headline: 10 New Books We Recommend This Week
+  type: List
+  url: https://www.nytimes.com/2017/12/21/books/review/10-new-books-we-recommend-this-week.html
+- headline: Dance in NYC This Week
+  type: News
+  url: https://www.nytimes.com/2017/12/21/arts/dance/dance-in-nyc-this-week.html
+- headline: Comedy in NYC This Week
+  type: News
+  url: https://www.nytimes.com/2017/12/21/arts/comedy-in-nyc-this-week.html
+- headline: Classical Music in NYC This Week
+  type: News
+  url: https://www.nytimes.com/2017/12/21/arts/music/classical-music-in-nyc-this-week.html
+- headline: Pop, Rock and Jazz in NYC This Week
+  type: News
+  url: https://www.nytimes.com/2017/12/21/arts/music/pop-rock-and-jazz-in-nyc-this-week.html
+- headline: M.L.B. Executive Ousted for Inappropriate Behavior
+  type: News
+  url: https://www.nytimes.com/2017/12/21/sports/baseball/mlb-executive-bob-bowman-ousted.html
+- headline: Despite Internal Review, Justice Department Officials Say Congress Needs
+    to Act on Bump Stocks
+  type: News
+  url: https://www.nytimes.com/2017/12/21/us/politics/justice-department-bump-stocks-mass-shootings.html
+- headline: What’s New in NYC Theater
+  type: News
+  url: https://www.nytimes.com/2017/12/21/theater/whats-new-in-nyc-theater.html
+- headline: 'Duck and Lentils: Deep Flavor for the Depths of Winter'
+  type: News
+  url: https://www.nytimes.com/2017/12/21/dining/duck-lentils-recipe.html
+- headline: 'Review: ‘The Last Post’ Shows an Empire Awash in Adultery and Gin and
+    Tonics'
+  type: News
+  url: https://www.nytimes.com/2017/12/21/arts/the-last-post-review-amazon-prime.html
+- headline: Holiday Windows Brighten a Bleak Retail Scene, but How Long Will They
+    Last?
+  type: News
+  url: https://www.nytimes.com/2017/12/21/business/holiday-windows.html
+- headline: Combat Jack, Hip-Hop Lawyer Turned Podcast Pioneer, Dies at 53
+  type: Obituary (Obit)
+  url: https://www.nytimes.com/2017/12/21/obituaries/combat-jack-dead-reggie-osse.html
+- headline: How Much Watching Time Do You Have This Weekend?
+  type: News
+  url: https://www.nytimes.com/2017/12/21/watching/what-to-watch-weekend-tv.html
+- headline: Vitaly Mutko Said to Be Stepping Down From Russia World Cup Role
+  type: News
+  url: https://www.nytimes.com/2017/12/21/sports/mutko-russia-world-up.html
+- headline: Mortgage Giants Cut Deal With Treasury to Cover Expected Losses
+  type: News
+  url: https://www.nytimes.com/2017/12/21/us/politics/fannie-mae-freddie-mac-treasury.html
+- headline: U.S. Imposes Sanctions on 52 People and Entities for Abuse and Corruption
+  type: News
+  url: https://www.nytimes.com/2017/12/21/world/global-magnitsky-act-sanctions.html
+- headline: Stressed New Yorkers Take to Kava, ‘Nature’s Xanax’
+  type: News
+  url: https://www.nytimes.com/2017/12/21/nyregion/stressed-new-yorkers-take-to-kava-natures-xanax.html
+- headline: For Sore Throat, Xylitol and Probiotics Offer No Benefits Over Placebo
+  type: News
+  url: https://www.nytimes.com/2017/12/21/well/live/for-sore-throat-xylitol-and-probiotics-offer-no-benefits-over-placebo.html
+- headline: Get Me to a Nunnery
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/21/opinion/sunday/christmas-nuns-abbey.html
+- headline: Federal Officials Reportedly Investigating Group Where Women Were Branded
+  type: News
+  url: https://www.nytimes.com/2017/12/21/nyregion/nxivm-women-branded-federal-investigation.html
+- headline: Journalist Charged With Rioting at Inauguration Day Protest Goes Free
+  type: News
+  url: https://www.nytimes.com/2017/12/21/business/media/journalist-inauguration-day-protest-not-guilty-rioting.html
+- headline: 5 Great Art Exhibitions to See in New York Before They Close
+  type: Review
+  url: https://www.nytimes.com/2017/12/21/arts/design/5-art-shows-to-see-in-new-york-before-new-year.html
+- headline: 'Jerusalem, South Korea, Melbourne: Your Friday Briefing'
+  type: briefing
+  url: https://www.nytimes.com/2017/12/21/briefing/jerusalem-south-korea-melbourne.html
+- headline: Eggs, Tomatoes and a Quick Trip to Purgatory
+  type: News
+  url: https://www.nytimes.com/2017/12/21/dining/eggs-in-purgatory-recipe.html
+- headline: Wartime, Law Time and a Stop by the Park
+  type: News
+  url: https://www.nytimes.com/2017/12/21/nyregion/wartime-law-time-and-a-stop-by-the-park.html
+- headline: The Four Threats to Robert Mueller
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/21/opinion/robert-mueller-investigation.html
+- headline: How Lincoln Center Was Built (It Wasn’t Pretty)
+  type: News
+  url: https://www.nytimes.com/2017/12/21/nyregion/how-lincoln-center-was-built-it-wasnt-pretty.html
+- headline: Is Apple Slowing Down Old iPhones? Questions and Answers
+  type: News
+  url: https://www.nytimes.com/2017/12/21/technology/iphone-battery-problem-slow.html
+- headline: Harassed at Work? Advice on What to Do
+  type: Letter
+  url: https://www.nytimes.com/2017/12/21/opinion/sexual-harassment-workplace.html
+- headline: Shell, Seeking to Curb Its Carbon Footprint, Buys Electricity Provider
+  type: News
+  url: https://www.nytimes.com/2017/12/21/business/energy-environment/shell-first-utility-carbon-emissions.html
+- headline: The Benefits of Letting Students Mess Up
+  type: Letter
+  url: https://www.nytimes.com/2017/12/21/opinion/student-mistakes.html
+- headline: When Trump Vilifies Legal Immigrants
+  type: Letter
+  url: https://www.nytimes.com/2017/12/21/opinion/trump-legal-immigrants.html
+- headline: Remaking Ancient Greece, With Paints or Pixels
+  type: Review
+  url: https://www.nytimes.com/2017/12/21/arts/design/elizabeth-price-art-review-institute-for-the-study-of-the-ancient-world.html
+- headline: What Are Some Good TV Romances?
+  type: News
+  url: https://www.nytimes.com/2017/12/21/watching/tv-romance-where-to-watch.html
+- headline: 'Review: In ‘The Post,’ Democracy Survives the Darkness'
+  type: Review
+  url: https://www.nytimes.com/2017/12/21/movies/the-post-review-steven-spielberg-tom-hanks-meryl-streep.html
+- headline: Queen Elizabeth Letters Show Her Distrust of Mary Queen of Scots
+  type: News
+  url: https://www.nytimes.com/2017/12/21/arts/queen-elizabeth-letters-mary-queen-of-scots-british-library.html
+- headline: JPMorgan ‘Seriously Breached’ Money-Laundering Rules, Swiss Regulator
+    Says
+  type: News
+  url: https://www.nytimes.com/2017/12/21/business/jpmorgan-money-laundering.html
+- headline: 'Review: The Agrarian Kitchen Eatery & Store in New Norfolk, Tasmania'
+  type: Review
+  url: https://www.nytimes.com/2017/12/21/dining/agrarian-kitchen-review-new-norfolk-tasmania.html
+- headline: Agrarian Kitchen Offers a Tasmanian Fantasy
+  type: Slideshow
+  url: https://www.nytimes.com/slideshow/2017/12/21/dining/agrarian-kitchen-tasmania.html
+- headline: In Reversal, Düsseldorf Will Hold Exhibition About Jewish Dealer
+  type: News
+  url: https://www.nytimes.com/2017/12/21/arts/design/dusseldorf-jewish-dealer-max-stern-exhibition.html
+- headline: Victims of Guatemala’s Civil War Are Laid to Rest, 3 Decades Later
+  type: News
+  url: https://www.nytimes.com/2017/12/21/world/americas/guatemala-civil-war-burials.html
+- headline: Janet Elder, a Top Editor at The Times, Dies at 61
+  type: Obituary (Obit)
+  url: https://www.nytimes.com/2017/12/21/obituaries/janet-elder-a-top-editor-at-the-times-is-dead-at-61.html
+- headline: Defying Trump, U.N. General Assembly Condemns U.S. Decree on Jerusalem
+  type: News
+  url: https://www.nytimes.com/2017/12/21/world/middleeast/trump-jerusalem-united-nations.html
+- headline: South Korean Building Fire Kills Dozens
+  type: News
+  url: https://www.nytimes.com/2017/12/21/world/asia/south-korea-fire-sauna.html
+- headline: How to Tell the Olds You’ve Outgrown Christmas
+  type: News
+  url: https://www.nytimes.com/2017/12/21/style/too-old-for-christmas.html
+- headline: 'The Week in Good News: Prince Harry and Meghan Markle, Lightsabers and
+    Roman Treasures'
+  type: News
+  url: https://www.nytimes.com/2017/12/21/briefing/the-week-in-good-news.html
+- headline: Five Takeaways From a Year of Talking About Race
+  type: News
+  url: https://www.nytimes.com/2017/12/21/insider/five-takeaways-from-a-year-of-talking-about-race.html
+- headline: Santa Is a Psychedelic Mushroom
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/21/opinion/santa-christmas-mushrooms.html
+- headline: Feliĉa Ferioj! Toasting the Holidays in Esperanto
+  type: News
+  url: https://www.nytimes.com/2017/12/21/nyregion/esperanto-nyc.html
+- headline: Santa Is a Psychedelic Mushroom
+  type: Video
+  url: https://www.nytimes.com/video/opinion/100000005607627/santa-is-a-psychedelic-mushroom.html
+- headline: Carmakers Try to Keep Waste Out of the Ground as Well as the Air
+  type: News
+  url: https://www.nytimes.com/2017/12/21/business/car-companies-recylcing.html
+- headline: 'Depicting, and Respecting, the Dead: Responses to Photos From Mount Everest'
+  type: News
+  url: https://www.nytimes.com/2017/12/21/reader-center/everest-deaths-photo-reactions.html
+- headline: Apple Is the Most Valuable Public Company Ever. But How Much of a Record
+    Is That?
+  type: Interactive Feature
+  url: https://www.nytimes.com/interactive/2017/12/05/your-money/apple-market-share.html
+- headline: On the Market in New Jersey and New York
+  type: Slideshow
+  url: https://www.nytimes.com/slideshow/2017/12/21/realestate/on-the-market-in-new-jersey-and-new-york.html
+- headline: On the Market in New York City
+  type: Slideshow
+  url: https://www.nytimes.com/slideshow/2017/12/21/realestate/on-the-market-in-new-york-city.html
+- headline: Homes for Sale in New York City
+  type: News
+  url: https://www.nytimes.com/2017/12/21/realestate/homes-for-sale-in-new-york-city.html
+- headline: Champagne Seeks to Discover Itself in Single-Vineyard Wines
+  type: News
+  url: https://www.nytimes.com/2017/12/21/dining/drinks/single-vineyard-champagnes.html
+- headline: Congress Passes Stopgap Bill to Avoid Government Shutdown Against a Friday
+    Deadline
+  type: News
+  url: https://www.nytimes.com/2017/12/21/us/politics/house-republicans-government-shutdown.html
+- headline: Homes for Sale in New Jersey and New York
+  type: News
+  url: https://www.nytimes.com/2017/12/21/realestate/homes-for-sale-in-new-jersey-and-new-york.html
+- headline: 'Review: ‘Bright’ Has Fairies, Orcs, Elves and L.A. Cops, but Little Magic'
+  type: Review
+  url: https://www.nytimes.com/2017/12/21/movies/bright-review-will-smith-joel-edgerton.html
+- headline: 17 Postcards From Our Correspondents Around the World in 2017
+  type: News
+  url: https://www.nytimes.com/2017/12/21/world/best-journals-2017.html
+- headline: On the Surface and Underneath, a Syrian Boy Carries the Scars of War
+  type: News
+  url: https://www.nytimes.com/2017/12/21/nyregion/on-the-surface-and-underneath-a-syrian-boy-carries-the-scars-of-war.html
+- headline: Australia Finds Wreck of World War I Submarine, Solving a 103-Year Enigma
+  type: News
+  url: https://www.nytimes.com/2017/12/21/world/australia/ae1-submarine-found.html
+- headline: Grace, a Celebrated Chicago Restaurant, Closes After Its Founders Leave
+  type: News
+  url: https://www.nytimes.com/2017/12/21/dining/grace-chicago-restaurant-closing.html
+- headline: Owners of the Sabres Add N.W.H.L.’s Beauts to Buffalo Stable
+  type: News
+  url: https://www.nytimes.com/2017/12/21/sports/hockey/nwhl-buffalo-beauts-pegula.html
+- headline: Tax Cuts Buoy Republicans, but They’re Swimming Against an Undertow
+  type: News
+  url: https://www.nytimes.com/2017/12/21/us/politics/tax-cuts-republicans-politics-midterms-trump.html
+- headline: 'Review: In ‘Downsizing,’ Matt Damon Sweats the Small Stuff'
+  type: Review
+  url: https://www.nytimes.com/2017/12/21/movies/downsizing-review-matt-damon-kristen-wiig.html
+- headline: Town Fears G.O.P. Tax Plan Will Erode Its Egalitarian Pillars
+  type: News
+  url: https://www.nytimes.com/2017/12/21/business/republican-tax-plan-middle-class.html
+- headline: 'New Trailer: ‘Mamma Mia! Here We Go Again,’ Starring Cher'
+  type: News
+  url: https://www.nytimes.com/2017/12/21/movies/mamma-mia-here-we-go-again-cher-lily-james-meryl-streep.html
+- headline: 'Trailer: ‘Father Figures’'
+  type: Video
+  url: https://www.nytimes.com/video/movies/100000004654641/trailer-father-figures.html
+- headline: Yes, You Really Can Pay for Private School With 529 Plans Now
+  type: News
+  url: https://www.nytimes.com/2017/12/21/your-money/529-plans-taxes-private-school.html
+- headline: 'Review: ‘Hostiles’ Grapples With the Contradictions of the Western'
+  type: Review
+  url: https://www.nytimes.com/2017/12/21/movies/hostiles-review-christian-bale.html
+- headline: Using Android to Convert Pixels to Paper
+  type: Question
+  url: https://www.nytimes.com/2017/12/21/technology/personaltech/android-device-print-options.html
+- headline: 'Review: In ‘Happy End,’ Another Unhappy Family From Michael Haneke'
+  type: Review
+  url: https://www.nytimes.com/2017/12/21/movies/happy-end-review-michael-haneke.html
+- headline: Governor Cuomo Proposes More Disclosure for Online Political Ads in New
+    York
+  type: News
+  url: https://www.nytimes.com/2017/12/21/us/politics/governor-cuomo-internet-ads.html
+- headline: Renters Are Staying Put
+  type: News
+  url: https://www.nytimes.com/2017/12/21/realestate/renters-are-not-moving.html
+- headline: Taking Health Care From Kids
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/21/opinion/tax-bill-chip.html
+- headline: 'California Today: State’s Homeless Population Drives National Increase'
+  type: briefing
+  url: https://www.nytimes.com/2017/12/21/us/california-today-states-homeless-population-drives-national-increase.html
+- headline: 6 Holiday Toy Crazes and Why They Captivated Kids (and Parents)
+  type: News
+  url: https://www.nytimes.com/2017/12/21/us/christmas-toys.html
+- headline: Where Winter’s Silver Skates Warmed the Soul
+  type: News
+  url: https://www.nytimes.com/2017/12/21/arts/design/museum-of-the-city-of-new-york-ice-skating-central-park.html
+- headline: Small-Batch Botanical Oils, Made in Brooklyn
+  type: News
+  url: https://www.nytimes.com/2017/12/21/t-magazine/fashion/beauty-botanical-oils-brooklyn.html
+- headline: 10 Models Who Caught Our Eye This Year
+  type: News
+  url: https://www.nytimes.com/2017/12/21/t-magazine/best-models.html
+- headline: 'Eric Schmidt, Alphabet’s ‘Ambassador,’ to Step Down: DealBook Briefing'
+  type: News
+  url: https://www.nytimes.com/2017/12/21/business/dealbook/taxes-workers-att.html
+- headline: '2017 N.F.L. Playoff Picture: The Playoff Paths That Remain for Every
+    Team'
+  type: Interactive Feature
+  url: https://www.nytimes.com/interactive/2017/12/21/upshot/2017-nfl-playoff-trees-week-16.html
+- headline: Facial Scans at U.S. Airports Violate Americans’ Privacy, Report Says
+  type: News
+  url: https://www.nytimes.com/2017/12/21/us/politics/facial-scans-airports-security-privacy.html
+- headline: 'Review: ‘Drawing Home’ Sketches the Life of an Artist Couple'
+  type: Review
+  url: https://www.nytimes.com/2017/12/21/movies/drawing-home-review.html
+- headline: 'Review: A ‘Crooked House’ of Murder and Resentment'
+  type: Review
+  url: https://www.nytimes.com/2017/12/21/movies/crooked-house-review-glenn-close.html
+- headline: 'Review: In ‘A German Life,’ Goebbels’s Secretary Explains Her Actions'
+  type: Review
+  url: https://www.nytimes.com/2017/12/21/movies/a-german-life-review-goebbels-secretary.html
+- headline: 'Review: ‘Along With the Gods’ Is a Fantasy Journey With C.G.I. at Every
+    Turn'
+  type: Review
+  url: https://www.nytimes.com/2017/12/21/movies/along-with-the-gods-review.html
+- headline: 'Review: In ‘Hangman,’ Al Pacino Trails a Killer With a Unique Vocabulary'
+  type: Review
+  url: https://www.nytimes.com/2017/12/21/movies/hangman-review-al-pacino.html
+- headline: ‘A Deliberate Act’ in Melbourne
+  type: Video
+  url: https://www.nytimes.com/video/world/australia/100000005617135/a-deliberate-act-in-melbourne.html
+- headline: 'Listen to ‘The Daily’: Sexual Harassment at Ford'
+  type: briefing
+  url: https://www.nytimes.com/2017/12/21/podcasts/the-daily/ford-sexual-harassment.html
+- headline: You Cannot Be Too Cynical About the Republican Tax Bill
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/21/opinion/republican-tax-bill-trump-corker.html
+- headline: 'New York Today: The Year in (Good) News'
+  type: briefing
+  url: https://www.nytimes.com/2017/12/21/nyregion/new-york-today-the-year-in-good-news.html
+- headline: When They Met, She Was a Wreck. So Was He.
+  type: News
+  url: https://www.nytimes.com/2017/12/21/fashion/weddings/when-they-met-she-was-a-wreck-so-was-he.html
+- headline: Read Up on Your New Year’s Resolutions Before You Begin
+  type: News
+  url: https://www.nytimes.com/2017/12/21/books/review/best-self-help.html
+- headline: Can a Fitness Tracker Help You Run a Better Race?
+  type: News
+  url: https://www.nytimes.com/2017/12/21/well/move/can-a-fitness-tracker-help-you-run-a-better-race.html
+- headline: Immortality at Midnight
+  type: News
+  url: https://www.nytimes.com/2017/12/21/well/live/immortality-at-midnight.html
+- headline: Philippine Ferry Capsizes, but Vast Majority of Passengers Are Saved
+  type: News
+  url: https://www.nytimes.com/2017/12/21/world/asia/philippines-ferry-capsizes.html
+- headline: 'Presidential Incapacity: A Holiday Gift Guide'
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/21/opinion/trump-holiday-gift-guide.html
+- headline: Why Judges Matter
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/21/opinion/trump-judges-abortion-immigration.html
+- headline: The Great American Tax Heist
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/21/opinion/republican-tax-heist.html
+- headline: Home From Harvard, Back in the Holiday Hot Seat
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/21/opinion/harvard-african-immigrant-holiday.html
+- headline: My Worst Columns
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/21/opinion/nicholas-kristof-worst-columns.html
+- headline: Why ‘The Graduate’ Is a Vietnam Movie
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/21/opinion/graduate-vietnam-movie.html
+- headline: 'Melbourne, Facebook, Winter Solstice: Your Thursday Briefing'
+  type: briefing
+  url: https://www.nytimes.com/2017/12/21/briefing/melbourne-facebook-winter-solstice.html
+- headline: Samantha Bee Looks for Omens in Trump’s Decision on Jerusalem
+  type: News
+  url: https://www.nytimes.com/2017/12/21/arts/television/samantha-bee-trump-jerusalem.html
+- headline: 12 Surprising Reasons to Be Grateful for the Arts in 2017
+  type: News
+  url: https://www.nytimes.com/2017/12/21/arts/12-small-pleasures-from-the-arts-in-2017.html
+- headline: In New Jersey, Searching for a Dog-Friendly Place to Call Their Own
+  type: News
+  url: https://www.nytimes.com/2017/12/21/realestate/new-jersey-dog-friendly-apartment.html
+- headline: Inside the High-Drama World of Youth Competition Dance
+  type: News
+  url: https://www.nytimes.com/2017/12/21/magazine/inside-the-high-drama-world-of-youth-competition-dance.html
+- headline: Starry, Starry Dust
+  type: Question
+  url: https://www.nytimes.com/2017/12/21/science/cosmic-dust-nasa.html
+- headline: In an Unforgiving Sport, They Minister to Hearts and Souls
+  type: News
+  url: https://www.nytimes.com/2017/12/21/sports/soccer/chaplains-soccer-england-.html
+- headline: A Meal of Joyous Excess for the Holidays
+  type: News
+  url: https://www.nytimes.com/2017/12/21/magazine/scallops-duck-hollandaise-joyous-excess-holidays.html
+- headline: In ‘Bethlehem,’ Tracing the Life of a Storied Little Town
+  type: Review
+  url: https://www.nytimes.com/2017/12/21/books/review/nicholas-blincoe-bethlehem-biography.html
+- headline: Requiem for the Individual Mandate
+  type: News
+  url: https://www.nytimes.com/2017/12/21/upshot/individual-health-insurance-mandate-end-impact.html
+- headline: '‘The Crown’: The History Behind Season 2 on Netflix'
+  type: News
+  url: https://www.nytimes.com/2017/12/21/arts/television/the-crown-the-history-behind-season-2-on-netflix.html
+- headline: 'Francis Ford Coppola: By the Book'
+  type: News
+  url: https://www.nytimes.com/2017/12/21/books/review/francis-ford-coppola-by-the-book.html
+- headline: A Luxury Vacation in Mexico, on a Budget
+  type: News
+  url: https://www.nytimes.com/2017/12/21/travel/a-luxury-vacation-in-mexico-on-a-budget.html
+- headline: 36 Hours in Manchester, England
+  type: Interactive Feature
+  url: https://www.nytimes.com/interactive/2017/12/21/travel/what-to-do-36-hours-in-manchester-england.html
+- headline: Jakarta Is Sinking So Fast, It Could End Up Underwater
+  type: Interactive Feature
+  url: https://www.nytimes.com/interactive/2017/12/21/world/asia/jakarta-sinking-climate.html
+- headline: 'Letter of Recommendation: ‘Passport to Your National Parks’'
+  type: News
+  url: https://www.nytimes.com/2017/12/21/magazine/letter-of-recommendation-passport-to-your-national-parks.html
+- headline: What Are Your Favorite Photos of 2017?
+  type: News
+  url: https://www.nytimes.com/2017/12/21/learning/what-are-your-favorite-photos-of-2017.html
+- headline: Christmas Returns to a City Liberated From ISIS
+  type: Blog
+  url: https://lens.blogs.nytimes.com/2017/12/21/christmas-returns-to-a-city-liberated-from-isis/
+- headline: 'Teaching Activities for: ‘Curious Orangutans, Raised by Humans, Do Better
+    on Cognitive Tests’'
+  type: News
+  url: https://www.nytimes.com/2017/12/21/learning/teaching-activities-for-curious-orangutans-raised-by-humans-do-better-on-cognitive-tests.html
+- headline: Christmas Returns to a City Liberated From ISIS
+  type: Slideshow
+  url: https://www.nytimes.com/slideshow/2017/12/21/blogs/christmas-returns-to-a-city-liberated-from-isis.html
+- headline: Women in Movies
+  type: News
+  url: https://www.nytimes.com/2017/12/21/learning/women-in-movies.html
+- headline: Didi Chuxing, a Chinese Rival to Uber, Raises $4 Billion
+  type: News
+  url: https://www.nytimes.com/2017/12/21/business/dealbook/didi-chuxing-softbank-uber.html
+- headline: 5 Cheap(ish) Things That Make Great Last-Minute Gifts
+  type: News
+  url: https://www.nytimes.com/2017/12/21/smarter-living/5-cheapish-things-last-minute-gifts.html
+- headline: How to Combat Your Anxiety, One Step at a Time
+  type: News
+  url: https://www.nytimes.com/2017/12/21/smarter-living/how-to-combat-your-anxiety-one-step-at-a-time.html
+- headline: 'Word + Quiz: alcove'
+  type: News
+  url: https://www.nytimes.com/2017/12/21/learning/21WODLN.html
+- headline: Melbourne Car Attack Was Not Connected to Terrorism, Police Say
+  type: News
+  url: https://www.nytimes.com/2017/12/21/world/australia/melbourne-car-cbd.html
+- headline: Beware, Italy. Santa the Invader Is Coming.
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/21/opinion/italy-santa-claus-invasion.html
+- headline: Israel’s Left Goes Right
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/21/opinion/israel-left-right-gabbay.html
+- headline: 'What’s on TV Thursday: ‘Peaky Blinders’ and ‘Great News’'
+  type: Schedule
+  url: https://www.nytimes.com/2017/12/21/arts/television/whats-on-tv-thursday-peaky-blinders-and-great-news.html
+- headline: Away in a Manger... Or Under a Palm Tree?
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/21/opinion/manger-jesus-birthplace-islam.html
+- headline: Catalonia Election Gives Separatists New Lift
+  type: News
+  url: https://www.nytimes.com/2017/12/21/world/europe/catalan-separatists-keep-majority-in-regional-vote.html
+- headline: 'Most Lethal to Journalists: 1. War Zones 2. Mexico'
+  type: News
+  url: https://www.nytimes.com/2017/12/21/world/americas/journalist-killings-mexico.html
+- headline: 'Catalonia, Poland, Damian Green: Your Thursday Briefing'
+  type: briefing
+  url: https://www.nytimes.com/2017/12/21/briefing/catalonia-poland-damian-green.html
+- headline: Instagram Is Now a Dating Platform, Too. Here’s How It Works.
+  type: News
+  url: https://www.nytimes.com/2017/12/21/style/instagram-thirst-traps-dating-breakups.html
+- headline: Mets Give Sandy Alderson a New Contract
+  type: News
+  url: https://www.nytimes.com/2017/12/20/sports/baseball/sandy-alderson-mets.html
+- headline: Eight Americans Among the Dead in Mexican Bus Crash
+  type: News
+  url: https://www.nytimes.com/2017/12/20/world/americas/eight-americans-among-the-dead-in-mexican-bus-crash.html
+- headline: With Overdoses on Rise, Cities and Counties Look for Someone to Blame
+  type: News
+  url: https://www.nytimes.com/2017/12/20/us/opioid-cities-counties-lawsuits.html
+- headline: Words of Understanding
+  type: News
+  url: https://www.nytimes.com/2017/12/20/crosswords/daily-puzzle-2017-12-21.html
+- headline: President Commutes Sentence of Iowa Meatpacking Executive
+  type: News
+  url: https://www.nytimes.com/2017/12/20/us/president-trump-iowa-commutation.html
+- headline: Confederate Statues in Memphis Are Removed After City Council Vote
+  type: News
+  url: https://www.nytimes.com/2017/12/20/us/statue-memphis-removed.html
+- headline: How Sacred Is the Confession Booth?
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/20/opinion/confession-priest-abuse-australia.html
+- headline: A Judgment Day Cardinal Law Can’t Avoid
+  type: Editorial
+  url: https://www.nytimes.com/2017/12/20/opinion/judgment-cardinal-law-abuse.html
+- headline: North Korean Soldier Defects Through DMZ, and Gunfire Erupts
+  type: News
+  url: https://www.nytimes.com/2017/12/20/world/asia/north-korea-solider-defects-dmz.html
+- headline: Law Requires Life-Saving Braking Device. Most Trains Don’t Have It.
+  type: News
+  url: https://www.nytimes.com/2017/12/20/us/amtrak-train-safety.html
+- headline: Ezekiel Elliott Returns to the Cowboys, but Has Little to Say
+  type: News
+  url: https://www.nytimes.com/2017/12/20/sports/football/ezekiel-elliott-dallas-cowboys.html
+- headline: Fearful of a Shutdown, Congress Inches Toward Stopgap Spending Bill
+  type: News
+  url: https://www.nytimes.com/2017/12/20/us/politics/congress-spending-bill-shutdown-stopgap.html
+- headline: 'Corrections: December 21, 2017'
+  type: Correction
+  url: https://www.nytimes.com/2017/12/20/pageoneplus/corrections-december-21-2017.html
+- headline: 'Quotation of the Day: Savoring a Major Win in a Year of Setbacks'
+  type: Quote
+  url: https://www.nytimes.com/2017/12/20/todayspaper/quotation-of-the-day-savoring-a-major-win-in-a-year-of-setbacks.html
+- headline: Venezuela Puts Up Roadblock for Opposition in Next Presidential Vote
+  type: News
+  url: https://www.nytimes.com/2017/12/20/world/americas/venezuela-presidential-election-opposition.html
+- headline: U.S. Banks Make Progress on Their Living Wills
+  type: News
+  url: https://www.nytimes.com/2017/12/20/business/dealbook/banks-living-wills.html
+- headline: '‘The Hurt Is Still There’: Abuse Survivors Grapple With Cardinal’s Death'
+  type: News
+  url: https://www.nytimes.com/2017/12/20/us/cardinal-law-omalley-boston-abuse-survivor.html
+- headline: Great Journalism Made Better With a Great (International) Audience
+  type: Newsletter
+  url: https://www.nytimes.com/2017/12/20/world/australia/letter39-china-foreign-interference-readers-respond.html
+- headline: Justices Return Dispute Over DACA Documents to Lower Courts
+  type: News
+  url: https://www.nytimes.com/2017/12/20/us/politics/supreme-court-daca-documents.html
+- headline: NFL Network Executive Resigns After Reports of Sexually Explicit Tweets
+  type: News
+  url: https://www.nytimes.com/2017/12/20/sports/football/david-eaton-nfl-network-resigns.html
+- headline: Enes Kanter Shrugs Off News That Turkey Wants to Jail Him
+  type: News
+  url: https://www.nytimes.com/2017/12/20/sports/kanter-erdogan-knicks-turkey.html
+- headline: In Tax Overhaul, Trump Tries to Defy the Economic Odds
+  type: News
+  url: https://www.nytimes.com/2017/12/20/business/economy/tax-bill-economy.html
+- headline: Rolling Stone Publisher Sells Majority Stake to Penske, Owner of Variety
+  type: News
+  url: https://www.nytimes.com/2017/12/20/business/dealbook/rolling-stone-penske-media-wenner.html
+- headline: New York Hot Dogs in a Corn Dog State
+  type: Editorial
+  url: https://www.nytimes.com/2017/12/20/opinion/new-york-politicians-iowa.html
+- headline: 'How to Write Off Donations Under the New Tax Plan: Consider ‘Bunching’'
+  type: Question
+  url: https://www.nytimes.com/2017/12/20/your-money/tax-plan-donations-charities.html
+- headline: Mamie Johnson, Trailblazer in the Negro Leagues, Dies at 82
+  type: Obituary (Obit)
+  url: https://www.nytimes.com/2017/12/20/obituaries/mamie-johnson-trailblazer-in-the-negro-leagues-dies-at-82.html
+- headline: Mexico Graft Inquiry Deepens With Arrest of a Presidential Ally
+  type: News
+  url: https://www.nytimes.com/2017/12/20/world/americas/mexico-corruption-pri.html
+- headline: Theresa May’s Deputy Resigns in Furor Over Porn on Work Computer
+  type: News
+  url: https://www.nytimes.com/2017/12/20/world/europe/theresa-may-damian-green-britain-pornography-scandal.html
+- headline: 'When #MeToo Goes Too Far'
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/20/opinion/metoo-damon-too-far.html
+- headline: Clifford Irving, Author of a Notorious Literary Hoax, Dies at 87
+  type: Obituary (Obit)
+  url: https://www.nytimes.com/2017/12/20/obituaries/clifford-irving-author-of-a-notorious-literary-hoax-dies-at-87.html
+- headline: Islanders Say New Arena Will Be Privately Financed
+  type: News
+  url: https://www.nytimes.com/2017/12/20/sports/hockey/islanders-belmont-park.html
+- headline: The Real Coup Plot Is Trump’s
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/20/opinion/trump-republican-coup.html
+- headline: Congress Refuses to Do Right by Children’s Health Care
+  type: Editorial
+  url: https://www.nytimes.com/2017/12/20/opinion/congress-childrens-healthcare.html
+- headline: Bill de Blasio Wants to Be Heard. Is Anyone Listening?
+  type: News
+  url: https://www.nytimes.com/2017/12/20/nyregion/bill-de-blasio-democrats-iowa.html
+- headline: Why Holiday Stories Matter
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/20/opinion/holiday-stories.html
+- headline: Officials Weigh Sending American Detainee to Saudi Arabia
+  type: News
+  url: https://www.nytimes.com/2017/12/20/us/politics/american-detainee-saudi-arabia.html
+- headline: How a Tuition-Free College Turned Into a Casualty of the Tax Wars
+  type: News
+  url: https://www.nytimes.com/2017/12/20/us/politics/berea-college-bernie-sanders-mcconnell-tax-cut.html
+- headline: Carmen Fariña, Head of New York City Schools, Is Retiring
+  type: News
+  url: https://www.nytimes.com/2017/12/20/nyregion/carmen-farina-nyc-schools-retire.html
+- headline: Football Player Says Teammates Sexually Assaulted Him at School Official’s
+    Home
+  type: News
+  url: https://www.nytimes.com/2017/12/20/us/superintendent-football-player-oklahoma.html
+- headline: 'Trailer: ''Hostiles'''
+  type: Video
+  url: https://www.nytimes.com/video/movies/100000005553655/trailer-hostiles.html
+- headline: 'Iran Sanctions Jury Deliberates: Was Banker a Liar or a Pawn?'
+  type: News
+  url: https://www.nytimes.com/2017/12/20/world/europe/iran-turkey-us-sanctions-trial.html
+- headline: Trudeau Holiday on Aga Khan’s Island Broke Ethics Law, Report Says
+  type: News
+  url: https://www.nytimes.com/2017/12/20/world/canada/trudeau-aga-khan.html
+- headline: 'Trailer: ‘The Post’'
+  type: Video
+  url: https://www.nytimes.com/video/movies/100000005545730/trailer-the-post.html
+- headline: 'Republican Party, Jerusalem, Uber: Your Wednesday Evening Briefing'
+  type: briefing
+  url: https://www.nytimes.com/2017/12/20/briefing/republican-party-jerusalem-uber.html
+- headline: Catt Sadler Leaves E! Entertainment, Saying a Male Co-Host Earned Twice
+    as Much
+  type: News
+  url: https://www.nytimes.com/2017/12/20/arts/television/catt-sadler-e-equal-pay.html
+- headline: Pence’s Christmas Pilgrimage Is Canceled. His Next Mideast Move Is Complicated.
+  type: News
+  url: https://www.nytimes.com/2017/12/20/world/middleeast/pence-mideast-trip-palestinians-christians.html
+- headline: Why I Quit Driving
+  type: News
+  url: https://www.nytimes.com/2017/12/20/nyregion/metropolitan-diary-why-i-quit-driving.html
+- headline: Trump Falsely Claims to Have ‘Repealed Obamacare’
+  type: News
+  url: https://www.nytimes.com/2017/12/20/us/politics/factcheck-trump-tax-repeal-health-care.html
+- headline: Facebook Job Ads Raise Concerns About Age Discrimination
+  type: News
+  url: https://www.nytimes.com/2017/12/20/business/facebook-job-ads.html
+- headline: 'And the Nominees for President of U.S. Soccer Are ... '
+  type: News
+  url: https://www.nytimes.com/2017/12/20/sports/soccer/us-soccer-president-candidates.html
+- headline: Republican Economic Policies Put Business First
+  type: News
+  url: https://www.nytimes.com/2017/12/20/us/politics/republican-economic-policies-business.html
+- headline: Drilling in Arctic Refuge Gets a Green Light. What’s Next?
+  type: News
+  url: https://www.nytimes.com/2017/12/20/climate/drilling-arctic-anwr.html
+- headline: Unless Congress Acts, Nearly 2 Million Children Could Lose Health Coverage
+    in January
+  type: Interactive Feature
+  url: https://www.nytimes.com/interactive/2017/12/20/us/2-million-children-risk-losing-health-care-CHIP.html
+- headline: 'The #MeToo Moment: Blue-Collar Women Ask, ‘What About Us?’'
+  type: News
+  url: https://www.nytimes.com/2017/12/20/us/the-metoo-moment-blue-collar-women-ask-what-about-us.html
+- headline: Is That Champagne in Your Sorbet? Prove It
+  type: News
+  url: https://www.nytimes.com/2017/12/20/business/champagne-aldi-european-court.html
+- headline: Theater Professionals Can Seek Mediation in Sexual Harassment Cases
+  type: News
+  url: https://www.nytimes.com/2017/12/20/theater/theater-professionals-sexual-harassment-mediation.html
+- headline: Democrats Are Dominating the Generic Ballot. What Does That Mean?
+  type: News
+  url: https://www.nytimes.com/2017/12/20/upshot/democrats-2018-congressional-elections-polling.html
+- headline: 'A Catholic Priest in Wisconsin Reveals a Secret: ‘I Am Gay’'
+  type: News
+  url: https://www.nytimes.com/2017/12/20/us/father-greiten-gay-wisconsin.html
+- headline: 'Review: A Runaway Slave Rides West in ‘Cross That River’'
+  type: Review
+  url: https://www.nytimes.com/2017/12/20/theater/review-cross-that-river-allan-harris.html
+- headline: 13 Beloved TV Holiday Specials You Can Stream Right Now
+  type: News
+  url: https://www.nytimes.com/2017/12/20/watching/christmas-tv-specials.html
+- headline: What to See in New York Art Galleries This Week
+  type: News
+  url: https://www.nytimes.com/2017/12/20/arts/design/what-to-see-in-new-york-art-galleries-this-week.html
+- headline: A Salad a Day May Be Good for Brain Health
+  type: News
+  url: https://www.nytimes.com/2017/12/20/well/mind/a-salad-a-day-may-be-good-for-brain-health.html
+- headline: Two Founders Quit Grace, an Acclaimed Chicago Restaurant
+  type: News
+  url: https://www.nytimes.com/2017/12/20/dining/grace-chicago-chefs-quit.html
+- headline: Aaron Sorkin Annotates Aaron Sorkin
+  type: Interactive Feature
+  url: https://www.nytimes.com/interactive/2017/12/20/arts/sorkin-on-sorkin.html
+- headline: Yu Guangzhong, Exiled Poet Who Longed for China, Dies at 89
+  type: Obituary (Obit)
+  url: https://www.nytimes.com/2017/12/20/obituaries/yu-guangzhong-exiled-poet-who-longed-for-china-dies-at-89.html
+- headline: Chuck Close Apologizes After Accusations of Sexual Harassment
+  type: News
+  url: https://www.nytimes.com/2017/12/20/arts/design/chuck-close-sexual-harassment.html
+- headline: 'Review: ‘Pitch Perfect 3’ Keeps the Songs but Loses the Plot'
+  type: Review
+  url: https://www.nytimes.com/2017/12/20/movies/pitch-perfect-3-review-anna-kendrick.html
+- headline: A One-Vote Victory in Virginia Lasts One Day as Judges Declare a Tie
+  type: News
+  url: https://www.nytimes.com/2017/12/20/us/virginia-house-election-tie.html
+- headline: Glenn Thrush, Suspended Times Reporter, to Resume Work but Won’t Cover
+    White House
+  type: News
+  url: https://www.nytimes.com/2017/12/20/business/media/glenn-thrush-suspension-white-house.html
+- headline: After Court Victory, Detained Teenage Immigrants Are Allowed to Obtain
+    Abortions
+  type: News
+  url: https://www.nytimes.com/2017/12/20/us/abortion-undocumented-immigrants.html
+- headline: Trump and G.O.P. Celebrate Tax Bill
+  type: Video
+  url: https://www.nytimes.com/video/us/politics/100000005616072/trump-and-gop-celebrate-tax-bill.html
+- headline: 'Modern Love Podcast: Kristin Scott Thomas Reads ‘How the Dining Dead
+    Got Talking Again’'
+  type: News
+  url: https://www.nytimes.com/2017/12/20/style/modern-love-podcast-kristin-scott-thomas.html
+- headline: Uganda Lifts an Age Limit, Paving the Way for a President for Life
+  type: News
+  url: https://www.nytimes.com/2017/12/20/world/africa/uganda-president-museveni-age-limit.html
+- headline: Mistrial Declared in Bundy Armed Standoff Case
+  type: News
+  url: https://www.nytimes.com/2017/12/20/us/cliven-bundy-mistrial.html
+- headline: 'Rome’s ‘Mangy’ Christmas Tree Is a Sorry Sight: ‘It Has Clearly Been
+    Traumatized’'
+  type: News
+  url: https://www.nytimes.com/2017/12/20/world/europe/rome-christmas-tree-spelacchio.html
+- headline: The Cycle
+  type: Column
+  url: https://www.nytimes.com/column/the-cycle
+- headline: You Ain’t Seen Nothing Yet!
+  type: News
+  url: https://www.nytimes.com/2017/12/20/arts/dance/you-aint-seen-nothing-yet.html
+- headline: The Nuclear Showdown in Georgia
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/20/opinion/nuclear-showdown-georgia.html
+- headline: Cardinal Law and the U.S.-Rome Sex Abuse Divide
+  type: News
+  url: https://www.nytimes.com/2017/12/20/world/europe/cardinal-bernard-law.html
+- headline: Can Anita Hill Fix Hollywood’s Harassment Problem?
+  type: News
+  url: https://www.nytimes.com/2017/12/20/movies/anita-hill-hollywood-sexual-harassment.html
+- headline: Street Etiquette’s Joshua Kissi Diversifies Stock Photos
+  type: News
+  url: https://www.nytimes.com/2017/12/20/style/street-etiquette-joshua-kissi-stock-photos-diversity.html
+- headline: A Scene From ‘Molly’s Game’
+  type: Video
+  url: https://www.nytimes.com/video/movies/100000005614065/a-scene-from-mollys-game.html
+- headline: 'Resort Wear for Anywhere '
+  type: News
+  url: https://www.nytimes.com/2017/12/20/style/vacation-packing-resort-wear.html
+- headline: How to Know if Republicans’ Big Tax Bet Is Paying Off
+  type: News
+  url: https://www.nytimes.com/2017/12/20/business/dealbook/republican-tax-plan.html
+- headline: 'Watch: Trump and Congressional Republicans Celebrate Tax Bill Passage'
+  type: Video
+  url: https://www.nytimes.com/video/us/politics/100000005615171/trump-reacts-tax-bill.html
+- headline: Attending the Nobel Prize Ceremony After Trump Snubbed the Winners
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/20/opinion/nobel-ceremony-trump-snub.html
+- headline: Researchers Warn of a Spreading Fungus Deadly to Snakes
+  type: News
+  url: https://www.nytimes.com/2017/12/20/science/snakes-fungus.html
+- headline: Zeid Ra’ad al-Hussein, Top Human Rights Official, Won’t Seek a Second
+    Term
+  type: News
+  url: https://www.nytimes.com/2017/12/20/world/un-human-rights-al-hussein.html
+- headline: The Rushed Passage of a Tax Bill
+  type: Letter
+  url: https://www.nytimes.com/2017/12/20/opinion/republican-tax-bill.html
+- headline: 'Review: Dorrance Dance, Tapping Out the Joy'
+  type: Review
+  url: https://www.nytimes.com/2017/12/20/arts/dance/michelle-dorrance-review-joyce-theater.html
+- headline: McKayla Maroney Says USA Gymnastics Forced Confidentiality in Sexual Abuse
+    Settlement
+  type: News
+  url: https://www.nytimes.com/2017/12/20/sports/olympics/mckayla-maroney-usa-gymnastics-confidentiality-agreement.html
+- headline: That Danger of Driving While Different
+  type: Letter
+  url: https://www.nytimes.com/2017/12/20/opinion/letters/driving-gay-black.html
+- headline: The Year in Boxed Sets, From Weird Al to Frank Zappa
+  type: News
+  url: https://www.nytimes.com/2017/12/20/arts/music/pop-music-boxed-sets-bowie-elvis-weird-al.html
+- headline: Video Game Creators Seek Out Hollywood for Robust Narratives
+  type: News
+  url: https://www.nytimes.com/2017/12/20/technology/video-game-creators-hollywood-writers.html
+- headline: In Praise of William James
+  type: News
+  url: https://www.nytimes.com/2017/12/20/books/william-james-varieties-of-religious-experience.html
+- headline: 'Your Week in Culture: Shaina Taub, Lady Gaga, ‘Genius Grant’ Tap Dance'
+  type: News
+  url: https://www.nytimes.com/2017/12/20/arts/shaina-taub-lady-gaga-michelle-dorrance-dance.html
+- headline: 'Republican Party, European Union, Solstice: Your Thursday Briefing'
+  type: briefing
+  url: https://www.nytimes.com/2017/12/20/briefing/republican-party-european-union-solstice.html
+- headline: Giving a Family Business a Jolt With Coffee That Empowers Women
+  type: News
+  url: https://www.nytimes.com/2017/12/20/business/smallbusiness/coffee-women.html
+- headline: U.S. Punishes Chechen Leader in New Sanctions Against Russians
+  type: News
+  url: https://www.nytimes.com/2017/12/20/us/politics/trump-sanctions-russia-chechnya.html
+- headline: Another Florida Star Departs as the Rays Trade Evan Longoria
+  type: News
+  url: https://www.nytimes.com/2017/12/20/sports/baseball/evan-longoria-rays-giants-trade.html
+- headline: House Passes Tax Overhaul in Re-Vote
+  type: Video
+  url: https://www.nytimes.com/video/us/politics/100000005615614/house-passes-tax-overhaul-in-re-vote.html
+- headline: Corey Johnson Gains Support in Council Speaker Race
+  type: News
+  url: https://www.nytimes.com/2017/12/20/nyregion/corey-johnson-council-speaker.html
+- headline: '2017: The Year in National '
+  type: News
+  url: https://www.nytimes.com/2017/12/20/us/national-2017-stories.html
+- headline: ‘Cat Person’ Author, Kristen Roupenian, Gets 7-Figure Book Deal
+  type: News
+  url: https://www.nytimes.com/2017/12/20/books/cat-person-book-deal.html
+- headline: The Trojan Horse in the Tax Bill
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/20/opinion/republican-tax-bill-senate-house.html
+- headline: 'Trump Threatens to End American Aid: ‘We’re Watching Those Votes’ at
+    the U.N.'
+  type: News
+  url: https://www.nytimes.com/2017/12/20/world/middleeast/trump-threatens-to-end-american-aid-were-watching-those-votes-at-the-un.html
+- headline: Santa in Finland, Where Marketing Triumphs Over Geography
+  type: News
+  url: https://www.nytimes.com/2017/12/20/world/europe/finland-lapland-santa.html
+- headline: ‘Password,’ ‘Monkey’ and the Other Terrible Passwords We Choose
+  type: News
+  url: https://www.nytimes.com/2017/12/20/business/worst-passwords.html
+- headline: The Year in Sports
+  type: News
+  url: https://www.nytimes.com/2017/12/20/sports/best-sports-moments-year.html
+- headline: 'Trump, Leakers, Travel Ban: Our Most Commented-On Articles of 2017'
+  type: News
+  url: https://www.nytimes.com/2017/12/20/insider/our-most-commented-on-articles-of-2017.html
+- headline: In 2017, Many Athletes Found Their Voices
+  type: News
+  url: https://www.nytimes.com/2017/12/20/sports/year-sports-protests.html
+- headline: Making Plans for an Insecure Planet
+  type: News
+  url: https://www.nytimes.com/2017/12/20/climate/nyt-climate-newsletter.html
+- headline: With Tax Overhaul, Trump Fulfills a Campaign Promise and Flexes Republican
+    Muscle
+  type: News
+  url: https://www.nytimes.com/2017/12/20/us/politics/with-tax-overhaul-trump-fulfills-a-campaign-promise-and-flexes-republican-muscle.html
+- headline: Ukraine War Flares Again After a Lull
+  type: News
+  url: https://www.nytimes.com/2017/12/20/world/europe/ukraine-war-russia.html
+- headline: 'Writing Prompts, Quizzes, Lessons and Graphs: Our Most Popular Teaching
+    and Learning Resources in 2017'
+  type: News
+  url: https://www.nytimes.com/2017/12/20/learning/lesson-plans/writing-prompts-quizzes-lessons-and-graphs-our-most-popular-teaching-and-learning-resources-in-2017.html
+- headline: An American Jewish Author Now Calls Germany Home
+  type: News
+  url: https://www.nytimes.com/2017/12/20/books/an-american-jewish-author-now-calls-germany-home.html
+- headline: Bunny Mellon’s Central Park Aerie Lists for $8.9 Million
+  type: News
+  url: https://www.nytimes.com/2017/12/20/realestate/bunny-mellon-central-park-apartment.html
+- headline: Inside Bunny Mellon’s $8.9 Million Central Park Condo
+  type: Slideshow
+  url: https://www.nytimes.com/slideshow/2017/12/20/realestate/inside-bunny-mellons-8-9-million-central-park-condo.html
+- headline: In an Unsettled Life, Singing Opera Became Her Rock
+  type: News
+  url: https://www.nytimes.com/2017/12/20/nyregion/in-an-unsettled-life-singing-opera-became-her-rock.html
+- headline: Give Thanks for the Winter Solstice. You Might Not Be Here Without It.
+  type: News
+  url: https://www.nytimes.com/2017/12/20/science/winter-solstice-december-21.html
+- headline: 'National Signing Day: Georgia Adds Cade Mays to Strong Class'
+  type: News
+  url: https://www.nytimes.com/2017/12/20/sports/national-signing-day-college-football.html
+- headline: 2 Women Who Settled With O’Reilly Over Sexual Harassment Sue for Defamation
+  type: News
+  url: https://www.nytimes.com/2017/12/20/business/media/oreilly-sexual-harassment-defamation.html
+- headline: The Year in Gender 2017
+  type: News
+  url: https://www.nytimes.com/2017/12/20/homepage/the-year-in-gender.html
+- headline: Using Technology to Be Environmentally Friendly
+  type: News
+  url: https://www.nytimes.com/2017/12/20/technology/personaltech/technology-environment-apps.html
+- headline: 'Susan Rice: When America No Longer Is a Global Force for Good'
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/20/opinion/susan-rice-america-global-strategy.html
+- headline: Sloppy Joes!
+  type: News
+  url: https://www.nytimes.com/2017/12/20/dining/sloppy-joes-newsletter.html
+- headline: School Sex-Abuse Report Shows Difficulty of Substantiating Claims
+  type: News
+  url: https://www.nytimes.com/2017/12/20/nyregion/kipp-nyc-charter-schools-debevoise-sex-abuse-report.html
+- headline: 'A New Russian Ploy: Competing Extradition Requests'
+  type: News
+  url: https://www.nytimes.com/2017/12/20/world/europe/russia-extradition-levashov.html
+- headline: 10 More Plays Where the Future Forecast Is Grim
+  type: News
+  url: https://www.nytimes.com/2017/12/20/theater/dystopia-plays-zoe-kazan-caryl-churchill-lucy-kirkwood.html
+- headline: Capturing the Short, Glamorous Life of a Forgotten Broadway Lyricist
+  type: News
+  url: https://www.nytimes.com/2017/12/20/theater/john-latouche-biography-howard-pollack-interview.html
+- headline: Robert O’Hara Thinks ‘Men Are Stupid.’ His New Play Shows Just How.
+  type: News
+  url: https://www.nytimes.com/2017/12/20/theater/robert-ohara-playwright-mankind.html
+- headline: Waking the Slumbering Siri by Accident
+  type: Question
+  url: https://www.nytimes.com/2017/12/20/technology/personaltech/siri-voice-assistant-mac.html
+- headline: 'What the Tax Bill Fails to Address: Technology’s Tsunami'
+  type: News
+  url: https://www.nytimes.com/2017/12/20/technology/tax-bill-technology.html
+- headline: Eccentric, Sure. But a Violent Criminal? Staten Island Puzzles Over the
+    Case of Richard Luthmann
+  type: News
+  url: https://www.nytimes.com/2017/12/20/nyregion/staten-island-richard-luthmann-lawyer.html
+- headline: 13 Far-Flung, Beautiful Destinations That Appeared in T This Year
+  type: News
+  url: https://www.nytimes.com/2017/12/20/t-magazine/most-beautiful-places.html
+- headline: T’s Best Destinations of the Year
+  type: Slideshow
+  url: https://www.nytimes.com/slideshow/2017/12/20/t-magazine/ts-best-destinations-of-the-year.html
+- headline: House Hunting in … St. Lucia
+  type: News
+  url: https://www.nytimes.com/2017/12/20/realestate/house-hunting-st-lucia.html
+- headline: Olympic Officials Issue Strict Crackdown on Tricolor (of Russia)
+  type: News
+  url: https://www.nytimes.com/2017/12/20/sports/olympics/russia-neutral-uniforms-winter-olympics.html
+- headline: A Six-Bedroom Villa in Cap Estate
+  type: Slideshow
+  url: https://www.nytimes.com/slideshow/2017/12/20/realestate/a-six-bedroom-villa-in-cap-estate.html
+- headline: Shell and Eni to Be Tried Over $1.3 Billion Nigerian Oil Deal
+  type: News
+  url: https://www.nytimes.com/2017/12/20/business/energy-environment/shell-eni-italy-nigeria.html
+- headline: Republicans Despise the Working Class, Continued
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/20/opinion/republicans-despise-the-working-class-continued.html
+- headline: 'California Today: A Rail Evangelist Defends the Safety of Trains'
+  type: briefing
+  url: https://www.nytimes.com/2017/12/20/us/california-today-a-rail-evangelist-defends-the-safety-of-trains.html
+- headline: $700,000 Homes in South Carolina, New York and Alabama
+  type: News
+  url: https://www.nytimes.com/2017/12/20/realestate/700000-homes-south-carolina-new-york-alabama.html
+- headline: What You Get for $700,000
+  type: Slideshow
+  url: https://www.nytimes.com/slideshow/2017/12/20/realestate/what-you-get-for-700000.html
+- headline: 'Murray Hill, Manhattan: Where the Old and New Meet'
+  type: News
+  url: https://www.nytimes.com/2017/12/20/realestate/living-in-murray-hill-manhattan.html
+- headline: A Rejuvenation and a Divide
+  type: Slideshow
+  url: https://www.nytimes.com/slideshow/2017/12/20/realestate/a-rejuvenation-and-a-divide.html
+- headline: Hillsong Unites Believers and Those Old Agnostics John, Paul, George and
+    Ringo
+  type: News
+  url: https://www.nytimes.com/2017/12/20/style/hillsong-christmas-beatles.html
+- headline: Poland Overhauls Courts, and Critics See Retreat From Democracy
+  type: News
+  url: https://www.nytimes.com/2017/12/20/world/europe/eu-poland-law.html
+- headline: Behind the Race to Publish the Top-Secret Pentagon Papers
+  type: News
+  url: https://www.nytimes.com/2017/12/20/us/pentagon-papers-post.html
+- headline: Yes Me Can
+  type: News
+  url: https://www.nytimes.com/2017/12/20/style/the-year-of-me.html
+- headline: China Shrugs Off Debt Worries as Xi Takes Firmer Economic Grip
+  type: News
+  url: https://www.nytimes.com/2017/12/20/business/china-xi-jinping-economy.html
+- headline: The Best Parts of a Dreadful Tax Bill
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/20/opinion/tax-bill-vote-congress.html
+- headline: 'It’s a Merry ‘Taxmas’ for AT&amp;T Employees: DealBook Briefing'
+  type: News
+  url: https://www.nytimes.com/2017/12/20/business/dealbook/uber-european-court.html
+- headline: Taiwan Suspects Pro-China Party of Passing Information to Beijing
+  type: News
+  url: https://www.nytimes.com/2017/12/20/world/asia/taiwan-china-new-party.html
+- headline: Youths Face Off Over Catalan Independence
+  type: Video
+  url: https://www.nytimes.com/video/world/europe/100000005600393/voting-in-catalonia-for-the-first-time.html
+- headline: House Gives Final Approval to Sweeping Tax Overhaul
+  type: News
+  url: https://www.nytimes.com/2017/12/20/us/politics/tax-bill-republicans.html
+- headline: 'Listen to ‘The Daily’: Ending the Individual Mandate'
+  type: briefing
+  url: https://www.nytimes.com/2017/12/20/podcasts/the-daily/obamacare-health-insurance.html
+- headline: The Best Wedding-Proposal Stories in 2017
+  type: News
+  url: https://www.nytimes.com/2017/12/20/fashion/weddings/the-best-wedding-proposal-stories-in-2017.html
+- headline: 'New York Today: What Makes an Ugly Christmas Sweater Beautiful?'
+  type: briefing
+  url: https://www.nytimes.com/2017/12/20/nyregion/new-york-today-what-makes-an-ugly-christmas-sweater-beautiful.html
+- headline: Why Sitting May Be Bad for Your Heart
+  type: News
+  url: https://www.nytimes.com/2017/12/20/well/move/why-sitting-may-be-bad-for-your-heart.html
+- headline: Debunking Myths About Estrangement
+  type: News
+  url: https://www.nytimes.com/2017/12/20/well/family/debunking-myths-about-estrangement.html
+- headline: Can a Cup of Hot Tea a Day Help Preserve Eyesight?
+  type: News
+  url: https://www.nytimes.com/2017/12/20/well/eat/can-a-cup-of-hot-tea-a-day-help-preserve-eyesight.html
+- headline: I Am a Political Prisoner in Argentina
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/20/opinion/timerman-argentina-political-prisoner-bonadio.html
+- headline: The Tax Bill Shows the G.O.P.’s Contempt for Democracy
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/20/opinion/tax-bill-gop-democracy.html
+- headline: The Ghoulish Pursuit of Executing a Terminally Ill Inmate
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/20/opinion/executing-terminally-ill-inmates.html
+- headline: Andrew Ross Sorkin on the Origins, and the Future, of DealBook
+  type: News
+  url: https://www.nytimes.com/2017/12/20/insider/andrew-ross-sorkin-dealbook-origins.html
+- headline: Even Imperfect Algorithms Can Improve the Criminal Justice System
+  type: News
+  url: https://www.nytimes.com/2017/12/20/upshot/algorithms-bail-criminal-justice-system.html
+- headline: 'Republican Party, Uber, Bernard Law: Your Wednesday Briefing'
+  type: briefing
+  url: https://www.nytimes.com/2017/12/20/briefing/republican-party-bernard-law-virginia.html
+- headline: Jimmy Fallon Says the Tax Bill Is Actually Meant as Punishment
+  type: News
+  url: https://www.nytimes.com/2017/12/20/arts/television/jimmy-fallon-republican-tax-bill-trump.html
+- headline: How This Lithuanian Outpost Lured LiAngelo and LaMelo Ball
+  type: News
+  url: https://www.nytimes.com/2017/12/20/sports/liangelo-lamelo-ball-lithuania.html
+- headline: An Ancient Egyptian City Stays Vibrant
+  type: News
+  url: https://www.nytimes.com/2017/12/20/travel/alexandria-egypt-library-budget.html
+- headline: Elizabeth Banks Was a Frustrated Actress. Now She’s a Determined Mogul.
+  type: News
+  url: https://www.nytimes.com/2017/12/20/movies/elizabeth-banks-pitch-perfect.html
+- headline: We Sponsor Refugees. What to Do About Their Patriarchal Ways?
+  type: News
+  url: https://www.nytimes.com/2017/12/20/magazine/we-sponsor-refugees-what-to-do-about-their-patriarchal-ways.html
+- headline: In Protests of Net Neutrality Repeal, Teenage Voices Stood Out
+  type: News
+  url: https://www.nytimes.com/2017/12/20/technology/net-neutrality-repeal-teens.html
+- headline: Beavers Emerge as Agents of Arctic Destruction
+  type: News
+  url: https://www.nytimes.com/2017/12/20/climate/arctic-beavers-alaska.html
+- headline: G.O.P. Finally Notches 2017 Victory While Bracing for 2018 Verdict
+  type: News
+  url: https://www.nytimes.com/2017/12/20/us/politics/gop-2017-tax-bill.html
+- headline: Without New Laws or Walls, Trump Presses the Brake on Legal Immigration
+  type: News
+  url: https://www.nytimes.com/2017/12/20/us/trump-immigration-slowdown.html
+- headline: Even on Christmas Eve, Criminals Don’t Take a Holiday
+  type: News
+  url: https://www.nytimes.com/2017/12/20/books/review/crime-christmas.html
+- headline: The Catholic Writer Garry Wills Explores the Quran
+  type: Review
+  url: https://www.nytimes.com/2017/12/20/books/review/garry-wills-what-the-quran-meant.html
+- headline: How Cuts in Basic Subway Upkeep Can Make Your Commute Miserable
+  type: News
+  url: https://www.nytimes.com/2017/12/20/nyregion/system-failure-new-york-subway-maintenance-misery.html
+- headline: Jordan Peele’s X-Ray Vision
+  type: News
+  url: https://www.nytimes.com/2017/12/20/magazine/jordan-peeles-x-ray-vision.html
+- headline: ‘Shape of You’ Was 2017’s Biggest Track. Here’s How Ed Sheeran Made It.
+  type: Interactive Feature
+  url: https://www.nytimes.com/interactive/2017/12/20/arts/music/ed-sheeran-shape-of-you.html
+- headline: Doris Burke Wants More Women in Sports Media
+  type: News
+  url: https://www.nytimes.com/2017/12/20/magazine/doris-burke-wants-more-women-in-sports-media.html
+- headline: A Pastry Fit for a King — or a Queen
+  type: News
+  url: https://www.nytimes.com/2017/12/20/magazine/galette-rois-france-epiphany-pastry-king-queen.html
+- headline: How the ‘Small-Business Tax Cut’ Would Also Be a Tax Cut for the Wealthy
+  type: Interactive Feature
+  url: https://www.nytimes.com/interactive/2017/12/20/us/politics/small-business-tax-cut-pass-throughs.html
+- headline: Do You Believe in Online Conspiracy Theories?
+  type: News
+  url: https://www.nytimes.com/2017/12/20/learning/do-you-believe-in-online-conspiracy-theories.html
+- headline: Indonesia’s Crackdown on Gay Men Moves From Bars Into the Home
+  type: News
+  url: https://www.nytimes.com/2017/12/20/world/asia/indonesia-gay-raids.html
+- headline: Catalonia Votes Again, This Time in a Gamble to Stall Its Secessionists
+  type: News
+  url: https://www.nytimes.com/2017/12/20/world/europe/catalonia-election-spain.html
+- headline: 'Tina Barney: A Life in Photography'
+  type: Blog
+  url: https://lens.blogs.nytimes.com/2017/12/20/tina-barney-a-life-in-photography/
+- headline: 'Teaching Activities for: ‘As Venezuela Collapses, Children Are Dying
+    of Hunger’'
+  type: News
+  url: https://www.nytimes.com/2017/12/20/learning/teaching-activities-for-as-venezuela-collapses-children-are-dying-of-hunger.html
+- headline: Uber Dealt Setback After European Court Rules It Is a Taxi Service
+  type: News
+  url: https://www.nytimes.com/2017/12/20/business/uber-europe-ecj.html
+- headline: 'Tina Barney: A Life in Photography'
+  type: Slideshow
+  url: https://www.nytimes.com/slideshow/2017/12/20/blogs/tina-barney-a-life-in-photography.html
+- headline: Tax Bill
+  type: News
+  url: https://www.nytimes.com/2017/12/20/learning/tax-bill.html
+- headline: Rescued Chimpanzees Face an Uncertain Future in Nepal
+  type: News
+  url: https://www.nytimes.com/2017/12/20/world/asia/nepal-chimpanzees-trafficking.html
+- headline: 'Word + Quiz: clapper'
+  type: News
+  url: https://www.nytimes.com/2017/12/20/learning/20WODLN.html
+- headline: A Tentative Move Toward South African Reform
+  type: Editorial
+  url: https://www.nytimes.com/2017/12/20/opinion/south-africa-ramaphosa-reform.html
+- headline: Austria’s Welcome to a Party With a Nazi Past
+  type: Editorial
+  url: https://www.nytimes.com/2017/12/20/opinion/austria-nazi-past-kurz.html
+- headline: 'What’s on TV Wednesday: ‘Pitch Perfect’ and ‘Survivor’'
+  type: Schedule
+  url: https://www.nytimes.com/2017/12/20/arts/television/whats-on-tv-wednesday-pitch-perfect-and-survivor.html
+- headline: What to Get Theresa May for Christmas
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/20/opinion/theresa-may-brexit-eu.html
+- headline: 'Tax Bill, Saudi Arabia, Angela Merkel: Your Wednesday Briefing'
+  type: briefing
+  url: https://www.nytimes.com/2017/12/20/briefing/tax-bill-saudi-arabia-angela-merkel.html
+- headline: 'Review: In ‘The Greatest Showman,’ a P.T. Barnum Smaller Than Life'
+  type: Review
+  url: https://www.nytimes.com/2017/12/20/movies/the-greatest-showman-review-hugh-jackman.html
+- headline: Five Places to Go in Milan
+  type: News
+  url: https://www.nytimes.com/2017/12/20/travel/five-places-to-go-in-milan-piazza-gae-aulenti.html
+- headline: Bernard Law, Powerful Cardinal Disgraced by Priest Abuse Scandal, Dies
+    at 86
+  type: Obituary (Obit)
+  url: https://www.nytimes.com/2017/12/19/obituaries/cardinal-bernard-law-dead.html
+- headline: 'Corrections: December 20, 2017'
+  type: Correction
+  url: https://www.nytimes.com/2017/12/19/pageoneplus/corrections-december-20-2017.html
+- headline: Woman Who Fatally Shot Boyfriend in YouTube Stunt Pleads Guilty
+  type: News
+  url: https://www.nytimes.com/2017/12/19/us/youtube-shooting-minnesota-guilty-plea.html
+- headline: In Iowa, Bill de Blasio Speaks, Chews and Tries to Lead (to the Left)
+  type: News
+  url: https://www.nytimes.com/2017/12/19/nyregion/de-blasio-progress-iowa.html
+- headline: Auriemma and Hatchell Join College Basketball’s 1,000-Win Club
+  type: News
+  url: https://www.nytimes.com/2017/12/19/sports/hatchell-auriemma-1000-wins.html
+- headline: Nestful
+  type: News
+  url: https://www.nytimes.com/2017/12/19/crosswords/daily-puzzle-2017-12-20.html
+- headline: How Every Senator Voted on the Tax Bill
+  type: Interactive Feature
+  url: https://www.nytimes.com/interactive/2017/12/19/us/politics/tax-bill-senate-live-vote.html
+- headline: How Republicans Rallied Together to Deliver a Tax Plan
+  type: News
+  url: https://www.nytimes.com/2017/12/19/us/politics/republican-tax-bill.html
+- headline: U.S. Leans Toward Incumbent in Honduras, Despite Disputed Result
+  type: News
+  url: https://www.nytimes.com/2017/12/19/world/americas/honduras-hernandez-president-oas.html
+- headline: Republican Tax Bill Passes Senate in 51-48 Vote
+  type: News
+  url: https://www.nytimes.com/2017/12/19/us/politics/tax-bill-vote-congress.html
+- headline: Merry Christmas, Vladimir — Your Friend, Donald
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/19/opinion/merry-christmas-vladimir-your-friend-donald.html
+- headline: In Stunning Turnaround, Marion Bartoli Says She’s Returning to Tour
+  type: News
+  url: https://www.nytimes.com/2017/12/19/sports/marion-bartoli-comeback.html
+- headline: ‘Porch Pirates’ Steal Holiday Packages as They Pile Up at Homes
+  type: News
+  url: https://www.nytimes.com/2017/12/19/technology/packages-holiday-season-porch-pirates-strike.html
+- headline: 'With Children’s Health Program Running Dry, Parents Beg Congress: ‘Do
+    the Right Thing’'
+  type: News
+  url: https://www.nytimes.com/2017/12/19/us/politics/chip-childrens-health-insurance-program-congress.html
+- headline: Apple Provides Hedge Against Tech Backlash
+  type: News
+  url: https://www.nytimes.com/2017/12/19/business/dealbook/apple-european-union-regulation.html
+- headline: These Trains Outpace the U.S. on Speed and Safety
+  type: Video
+  url: https://www.nytimes.com/video/world/100000005612151/these-trains-leave-us-in-the-dust-on-speed-and-safety.html
+- headline: City Council Passes Bills on Police Behavior Amid Outcry on Both Sides
+  type: News
+  url: https://www.nytimes.com/2017/12/19/nyregion/new-york-city-council-police-reform.html
+- headline: Heritage Foundation Names New President After Turmoil Under DeMint
+  type: News
+  url: https://www.nytimes.com/2017/12/19/us/politics/heritage-foundation-kay-cole-james.html
+- headline: No, Trump Is Not P.T. Barnum
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/19/opinion/trump-barnum.html
+- headline: Deadly Fighting Erupts in Kashmir
+  type: News
+  url: https://www.nytimes.com/2017/12/19/world/asia/kashmir-india-rebels.html
+- headline: 'Finalists in NASA’s Spacecraft Sweepstakes: A Drone on Titan, and a Comet-Chaser'
+  type: News
+  url: https://www.nytimes.com/2017/12/19/science/nasa-new-frontiers-finalists.html
+- headline: After Fatal Fire in Brooklyn, a Somber and Cautious End to Hanukkah
+  type: News
+  url: https://www.nytimes.com/2017/12/19/nyregion/brooklyn-menorah-fire-hanukkah.html
+- headline: How the Republican Tax Plan Uses School Savings to Hurt States
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/19/opinion/republican-taxes-school-savings-.html
+- headline: How to Build a Tax Calculator That’s Actually Useful
+  type: News
+  url: https://www.nytimes.com/2017/12/19/insider/how-to-build-a-tax-calculator-thats-actually-useful.html
+- headline: 'Quotation of the Day: Culture War Over Beloved Dish Grips Quebec'
+  type: Quote
+  url: https://www.nytimes.com/2017/12/19/todayspaper/quotation-of-the-day-culture-war-over-poutine-grips-quebec.html
+- headline: Tourist Bus Crashes in Mexico, Killing at Least 12
+  type: News
+  url: https://www.nytimes.com/2017/12/19/world/americas/tourist-bus-crashes-in-mexico-killing-at-least-12.html
+- headline: What We’re Reading
+  type: News
+  url: https://www.nytimes.com/2017/12/19/insider/what-were-reading.html
+- headline: Democrats Are the New Republicans
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/19/opinion/democrats-new-republicans.html
+- headline: E.P.A. Delays Bans on Uses of Hazardous Chemicals
+  type: News
+  url: https://www.nytimes.com/2017/12/19/health/epa-toxic-chemicals.html
+- headline: The Built-In Instability of the G.O.P.’s Tax Bill
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/19/opinion/republican-tax-bill-unstable.html
+- headline: As G.O.P. Celebrates House Vote, New York and New Jersey Lawmakers Say
+    No
+  type: News
+  url: https://www.nytimes.com/2017/12/19/us/politics/tax-bill-new-york-new-jersey.html
+- headline: Why the Dowdy Celtics Are Trying to Wear Supreme
+  type: News
+  url: https://www.nytimes.com/2017/12/19/sports/celtics-nba-social-media.html
+- headline: Robert G. Wilmers, Bank Chief and Buffalo Philanthropist, Dies at 83
+  type: Obituary (Obit)
+  url: https://www.nytimes.com/2017/12/19/obituaries/robert-g-wilmers-bank-chief-and-buffalo-philanthropist-dies-at-83.html
+- headline: 'Republican Party, Amtrak, Yemen: Your Tuesday Evening Briefing'
+  type: briefing
+  url: https://www.nytimes.com/2017/12/19/briefing/republican-party-amtrak-yemen.html
+- headline: 'Trailer: ‘Drawing Home’'
+  type: Video
+  url: https://www.nytimes.com/video/movies/100000005578760/trailer-drawing-home.html
+- headline: Bidding Adieu to That Wondrous Songbird Barbara Cook
+  type: News
+  url: https://www.nytimes.com/2017/12/19/style/barbara-cook-memorial.html
+- headline: American Hockey Is at Home in Badger Country
+  type: News
+  url: https://www.nytimes.com/2017/12/19/sports/hockey/united-states-olympics-wisconsin.html
+- headline: After Street Clashes, Argentina’s Congress Passes Pension Overhaul
+  type: News
+  url: https://www.nytimes.com/2017/12/19/world/americas/argentina-congress-pension-protest.html
+- headline: Sleepy Strangers on a Train
+  type: News
+  url: https://www.nytimes.com/2017/12/19/nyregion/metropolitan-diary-sleepy-strangers-on-a-train.html
+- headline: South Sudan Army Makes Push Against Rebels as Peace Talks Begin
+  type: News
+  url: https://www.nytimes.com/2017/12/19/world/africa/south-sudan-army-rebels-peace-talks.html
+- headline: In Virginia, a 11,608-to-11,607 Lesson in the Power of a Single Vote
+  type: News
+  url: https://www.nytimes.com/2017/12/19/us/virginia-house-of-delegates-single-vote.html
+- headline: 'Trailer: ''Happy End'''
+  type: Video
+  url: https://www.nytimes.com/video/movies/100000005568353/trailer-happy-end.html
+- headline: House Passes Tax Bill, but Will Have to Vote Again
+  type: Video
+  url: https://www.nytimes.com/video/us/politics/100000005613695/the-house-votes-on-tax-bill.html
+- headline: Kevin Mahogany, Masterly Jazz Singer, Is Dead at 59
+  type: Obituary (Obit)
+  url: https://www.nytimes.com/2017/12/19/obituaries/kevin-mahogany-masterly-jazz-singer-is-dead-at-59.html
+- headline: Ron Lieber Takes Your Questions About the Republican Tax Bill
+  type: News
+  url: https://www.nytimes.com/2017/12/19/reader-center/ask-us-your-questions-about-the-republican-tax-bill.html
+- headline: Johnny Fox, Sword-Swallowing Showman, Dies at 64
+  type: Obituary (Obit)
+  url: https://www.nytimes.com/2017/12/19/obituaries/johnny-fox-sword-swallowing-showman-dies-at-64.html
+- headline: 'Trailer: ‘Crooked House’'
+  type: Video
+  url: https://www.nytimes.com/video/movies/100000005576460/trailer-crooked-house.html
+- headline: Holocaust Museum Tries Again on Contentious Syria Study
+  type: News
+  url: https://www.nytimes.com/2017/12/19/arts/design/holocaust-museum-syria-study.html
+- headline: A Year After the Berlin Market Attack, Germany Admits Mistakes
+  type: News
+  url: https://www.nytimes.com/2017/12/19/world/europe/berlin-attack-memorial.html
+- headline: A Taste of Puebla in Bushwick
+  type: News
+  url: https://www.nytimes.com/2017/12/19/nyregion/a-taste-of-puebla-in-bushwick.html
+- headline: Readers Share Their Favorite Horror Movies
+  type: News
+  url: https://www.nytimes.com/2017/12/19/magazine/readers-share-their-favorite-horror-movies.html
+- headline: RT Brings Its Russian Perspective to France
+  type: News
+  url: https://www.nytimes.com/2017/12/19/world/europe/rt-france-television.html
+- headline: 'Trailer: ‘Along With The Gods: The Two Worlds’'
+  type: Video
+  url: https://www.nytimes.com/video/movies/100000005606738/trailer-along-with-the-gods-the-two-worlds.html
+- headline: Islanders Are Expected to Win Right to Build New Arena at Belmont Park
+  type: News
+  url: https://www.nytimes.com/2017/12/19/sports/islanders-belmont-park.html
+- headline: Ta-Nehisi Coates Deletes Twitter Account Amid Feud With Cornel West
+  type: News
+  url: https://www.nytimes.com/2017/12/19/arts/ta-nehisi-coates-deletes-twitter-account-cornel-west.html
+- headline: Halting Auction, France Designates Marquis de Sade Manuscript a ‘National
+    Treasure’
+  type: News
+  url: https://www.nytimes.com/2017/12/19/world/europe/france-marquis-de-sade-treasure.html
+- headline: 'Dan Harris: The First Time I Rushed My Son to the E.R.'
+  type: News
+  url: https://www.nytimes.com/2017/12/19/arts/television/dan-harris-abc-news-the-first-time-i-rushed-my-son-to-the-hospital.html
+- headline: Man Sentenced to Life in Prison for Murder of New York Police Officer
+  type: News
+  url: https://www.nytimes.com/2017/12/19/nyregion/life-sentence-new-york-police-officer-killed-queens-village-2015.html
+- headline: Russia and China Object to New ‘America First’ Security Doctrine
+  type: News
+  url: https://www.nytimes.com/2017/12/19/world/europe/russia-china-america-first-doctrine.html
+- headline: How the Saudi Blockade Is Starving Yemen
+  type: Video
+  url: https://www.nytimes.com/video/world/middleeast/100000005589946/how-the-saudi-blockade-is-starving-yemen.html
+- headline: 'Corporate America’s Gender Gap: Few Women in the C-Suite'
+  type: News
+  url: https://www.nytimes.com/2017/12/19/business/dealbook/corporate-americas-gender-gap.html
+- headline: Nancy Pfund on impact investors
+  type: Video
+  url: https://www.nytimes.com/video/admin/100000005610873/nancy-pfund-on-impact-investors.html
+- headline: Mayor Rahm Emanuel on energy regulations
+  type: Video
+  url: https://www.nytimes.com/video/admin/100000005610903/mayor-rahm-emanuel-on-energy-regulations.html
+- headline: Raj Kapoor on the changes in mobility
+  type: Video
+  url: https://www.nytimes.com/video/admin/100000005610938/raj-kapoor-on-the-changes-in-mobility.html
+- headline: Simon Irish on future nuclear technology
+  type: Video
+  url: https://www.nytimes.com/video/admin/100000005611021/simon-irish-on-future-nuclear-technology.html
+- headline: Tom Steyer on climate change discord
+  type: Video
+  url: https://www.nytimes.com/video/admin/100000005611092/tom-steyer-on-climate-change-discord.html
+- headline: Emily Reichert on cities stepping up
+  type: Video
+  url: https://www.nytimes.com/video/admin/100000005611118/emily-reichert-on-cities-stepping-up.html
+- headline: Walmart on lobbying for climate issues
+  type: Video
+  url: https://www.nytimes.com/video/admin/100000005611136/walmart-on-lobbying-for-climate-issues.html
+- headline: Michael Shellenberger on nuclear support
+  type: Video
+  url: https://www.nytimes.com/video/admin/100000005611160/michael-shellenberger-on-nuclear-support.html
+- headline: Paul Hawken on climate possibilities
+  type: Video
+  url: https://www.nytimes.com/video/admin/100000005611184/paul-hawken-on-climate-possibilities.html
+- headline: Consulting Firm Whose Staff Scoured E.P.A. Employees’ Emails Loses Media
+    Contract
+  type: News
+  url: https://www.nytimes.com/2017/12/19/climate/epa-definers-public-affairs-contract.html
+- headline: 'Live Event: Unpacking the Russia Story With the Experts Who Have Covered
+    It'
+  type: News
+  url: https://www.nytimes.com/2017/12/19/insider/events/live-event-unpacking-the-russia-story-with-the-experts-who-have-covered-it.html
+- headline: An Account of Surviving Assault Mixes Horror and Humor
+  type: Review
+  url: https://www.nytimes.com/2017/12/19/books/review-mean-myriam-gurba.html
+- headline: Keeping the Cowboys Cool, as N.F.L. Takes the Heat
+  type: News
+  url: https://www.nytimes.com/2017/12/19/style/charlotte-jones-anderson-dallas-cowboys.html
+- headline: 'Senate Investigators Scrutinize Another Presidential Candidate: Jill
+    Stein'
+  type: News
+  url: https://www.nytimes.com/2017/12/19/us/politics/jill-stein-russian-election-interference-senate-intelligence.html
+- headline: Fans Mourn Kim Jong-hyun, a K-Pop Singer Whose Style Was Instantly Recognizable
+  type: News
+  url: https://www.nytimes.com/2017/12/19/arts/shinee-jonghyun-dead.html
+- headline: After Matt Lauer’s Firing, ‘Today’ Has Rare Ratings Wins
+  type: News
+  url: https://www.nytimes.com/2017/12/19/business/media/today-show-ratings-matt-lauer.html
+- headline: Peru Leader Could Be Biggest to Fall in Latin America Graft Scandal
+  type: News
+  url: https://www.nytimes.com/2017/12/19/world/americas/peru-kuczynski-impeachment.html
+- headline: How the Tax Bill Will Affect Homeownership
+  type: Letter
+  url: https://www.nytimes.com/2017/12/19/opinion/tax-bill-homeownership.html
+- headline: 'After the Curtain Falls: Talking to Suzanne Farrell, Artist and Muse'
+  type: News
+  url: https://www.nytimes.com/2017/12/19/arts/dance/suzanne-farrell-ballet-balanchine.html
+- headline: Senate Panel Rejects Trump's Nominee to Lead Export-Import Bank
+  type: News
+  url: https://www.nytimes.com/2017/12/19/us/politics/republicans-senate-export-import-bank-trump.html
+- headline: '‘It’s My Life’: Brain Cancer Motivates City Commissioner’s Activism'
+  type: News
+  url: https://www.nytimes.com/2017/12/19/nyregion/nisha-agarwal-nyc-immigration-brain-cancer.html
+- headline: Brazilian D.J. Dies After Stage Collapses at Dance Music Festival
+  type: News
+  url: https://www.nytimes.com/2017/12/19/arts/music/brazilian-dj-dies-after-stage-collapses-at-atmosphere-festival.html
+- headline: Getting Rid of Predatory Judges
+  type: Letter
+  url: https://www.nytimes.com/2017/12/19/opinion/judges-sex-harassment.html
+- headline: The Miami Open Will Move to the Dolphins’ Stadium in 2019
+  type: News
+  url: https://www.nytimes.com/2017/12/19/sports/tennis/miami-open-dolphins.html
+- headline: 'North Korea, Yemen, Derailment: Your Wednesday Briefing'
+  type: briefing
+  url: https://www.nytimes.com/2017/12/19/briefing/north-korea-yemen-derailment.html
+- headline: Learning on the Job (or From ‘Law and Order’)
+  type: Letter
+  url: https://www.nytimes.com/2017/12/19/opinion/judicial-nominee.html
+- headline: '‘A Cruel Irony’: 2 Killed in Amtrak Crash Were Rail Fans Eager for Maiden
+    Run'
+  type: News
+  url: https://www.nytimes.com/2017/12/19/us/amtrak-derailment-victims-washington.html
+- headline: 'Trailer: ‘Hangman’'
+  type: Video
+  url: https://www.nytimes.com/video/movies/100000005509800/trailer-hangman.html
+- headline: Crossing Brooklyn Bridge
+  type: Letter
+  url: https://www.nytimes.com/2017/12/19/opinion/brooklyn-bridge.html
+- headline: There Is Common Ground on Guns
+  type: Interactive Feature
+  url: https://www.nytimes.com/interactive/2017/12/19/opinion/domestic-violence-guns.html
+- headline: Boyfriends Can Kill, Too
+  type: Interactive Feature
+  url: https://www.nytimes.com/interactive/2017/12/19/opinion/boyfriend-loophole-guns.html
+- headline: When Abusers Are Most Lethal
+  type: Interactive Feature
+  url: https://www.nytimes.com/interactive/2017/12/19/opinion/restraining-order-gun-violence.html
+- headline: A Good Way to Keep Guns From Predators
+  type: Interactive Feature
+  url: https://www.nytimes.com/interactive/2017/12/19/opinion/restraining-order-guns.html
+- headline: Even the N.R.A. Wants This Gun Law. So Why the Drama?
+  type: Interactive Feature
+  url: https://www.nytimes.com/interactive/2017/12/19/opinion/nra-domestic-violence-background-check.html
+- headline: The Federal Government’s Strange Silence About Gun Crimes
+  type: Interactive Feature
+  url: https://www.nytimes.com/interactive/2017/12/19/opinion/background-checks-national-database.html
+- headline: The Terrors of Hearth and Home
+  type: Interactive Feature
+  url: https://www.nytimes.com/interactive/2017/12/19/opinion/gun-violence-restraining-order.html
+- headline: Women’s Lives, Cut Short by the Men They Knew
+  type: Interactive Feature
+  url: https://www.nytimes.com/interactive/2017/12/19/opinion/women-guns-domestic-violence.html
+- headline: “Even as a strong supporter of the Second Amendment, I have a red line.”
+  type: Interactive Feature
+  url: https://www.nytimes.com/interactive/2017/12/19/opinion/domestic-violence-police-fatalities.html
+- headline: The Year in Pictures 2017
+  type: Interactive Feature
+  url: https://www.nytimes.com/interactive/2017/12/19/sunday-review/2017-year-in-pictures.html
+- headline: ‘Even as a strong supporter of the Second Amendment, I have a red line.’
+  type: Video
+  url: https://www.nytimes.com/video/opinion/100000005585613/domestic-violence-police-fatalities.html
+- headline: How the Winklevoss Twins Found Vindication in a Bitcoin Fortune
+  type: News
+  url: https://www.nytimes.com/2017/12/19/technology/bitcoin-winklevoss-twins.html
+- headline: Harvey, With Casual American Fare, Comes to the Williamsburg Hotel
+  type: News
+  url: https://www.nytimes.com/2017/12/19/dining/harvey-nyc-restaurant-news.html
+- headline: Espionage Bills in Australia Stir Fears of Anti-Chinese Backlash
+  type: News
+  url: https://www.nytimes.com/2017/12/19/world/australia/australia-china-backlash-influence.html
+- headline: '‘Shape of You’: Making 2017’s Biggest Track'
+  type: Video
+  url: https://www.nytimes.com/video/arts/music/100000005469604/ed-sheeran-shape-of-you.html
+- headline: A Donna Summer Musical Heads to Broadway
+  type: News
+  url: https://www.nytimes.com/2017/12/19/theater/donna-summer-musical-broadway.html
+- headline: For Tea Devotees, This Little Shop Is the Place to Be Right Now
+  type: News
+  url: https://www.nytimes.com/2017/12/19/dining/tea-expo-queens.html
+- headline: ‘I Don’t Really Collect Art. I Trade Art.’
+  type: News
+  url: https://www.nytimes.com/2017/12/19/arts/design/i-dont-really-collect-art-i-trade-art-steven-holl.html
+- headline: Op-Docs Contenders for the 2018 Academy Awards
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/19/opinion/2018-academy-awards-oscars-documentary.html
+- headline: Gibney Dance Expands Its Residency Program
+  type: News
+  url: https://www.nytimes.com/2017/12/19/arts/dance/gibney-dance-jack-ferver-alice-sheppard.html
+- headline: House Secretly Paid $115,000 to Settle Harassment Claims Over Four Years
+  type: News
+  url: https://www.nytimes.com/2017/12/19/us/politics/house-secret-settlements-sexual-harassment-congress.html
+- headline: Jameis Winston Is Having a Great Season; the Bucs Are Not
+  type: News
+  url: https://www.nytimes.com/2017/12/19/sports/football/jameis-winston-buccaneers.html
+- headline: Schnitzel and Strudel and Other Favorite Things, at Wallsé
+  type: Review
+  url: https://www.nytimes.com/2017/12/19/dining/wallse-review-austrian-restaurant.html
+- headline: Wallsé
+  type: Slideshow
+  url: https://www.nytimes.com/slideshow/2017/12/19/dining/wallse-nyc.html
+- headline: When the Body-Shaming Bully on Social Media Is Mom
+  type: News
+  url: https://www.nytimes.com/2017/12/19/style/body-shaming-social-media-mother.html
+- headline: New & Noteworthy
+  type: News
+  url: https://www.nytimes.com/2017/12/19/books/review/new-noteworthy-john-williams.html
+- headline: As Trump Tightens Legal Immigration, Canada Woos Tech Firms
+  type: News
+  url: https://www.nytimes.com/2017/12/19/nyregion/trump-legal-immigration-canada-tech-jobs.html
+- headline: 'Review: A Singer Scales Back Her Grand-Opera Voice'
+  type: Review
+  url: https://www.nytimes.com/2017/12/19/arts/music/review-jamie-barton-carnegie-hall.html
+- headline: If You Want to Raft the Grand Canyon, Prepare to Sign Up Far in Advance
+  type: News
+  url: https://www.nytimes.com/2017/12/19/travel/plan-in-advance-grand-canyon-rafting.html
+- headline: Michelle Dorrance’s Four Musketeers of Tap
+  type: News
+  url: https://www.nytimes.com/2017/12/19/arts/dance/michelle-dorrance-joyce-until-the-real-thing-comes-along.html
+- headline: 'New Trailer: ‘Sicario 2: Soldado,’ With Benicio Del Toro'
+  type: News
+  url: https://www.nytimes.com/2017/12/19/movies/sicario-2-soldado-trailer-benicio-del-toro.html
+- headline: 'Review: The Met’s Holiday ‘Hansel’ Is Surreal (and Timely)'
+  type: News
+  url: https://www.nytimes.com/2017/12/19/arts/music/review-hansel-gretel-met-opera.html
+- headline: Recent Commercial Real Estate Transactions
+  type: News
+  url: https://www.nytimes.com/2017/12/19/realestate/commercial/recent-commercial-real-estate-transactions.html
+- headline: Rebels in Yemen Fire Second Ballistic Missile at Saudi Capital
+  type: News
+  url: https://www.nytimes.com/2017/12/19/world/middleeast/yemen-rebels-missile-riyadh.html
+- headline: A Vessel for the Most Important Seasoning
+  type: News
+  url: https://www.nytimes.com/2017/12/19/dining/salt-cellar-pinch-urbanglass.html
+- headline: A Pastry Fit for a King — or a Queen
+  type: Recipe
+  url: https://cooking.nytimes.com/recipes/1019114-galette-des-rois
+- headline: Too Many Older Patients Get Cancer Screenings
+  type: News
+  url: https://www.nytimes.com/2017/12/19/well/live/cancer-screening-tests-seniors-older-patients-harms-overdiagnosis-overtreatment.html
+- headline: Sharing His Struggle to Help Others Escape the Stigma of H.I.V.
+  type: News
+  url: https://www.nytimes.com/2017/12/19/nyregion/sharing-his-struggle-to-help-others-escape-the-stigma-of-hiv.html
+- headline: Amtrak Inquiry Will Focus on Driver Distraction and Excessive Speed
+  type: News
+  url: https://www.nytimes.com/2017/12/19/us/amtrak-derailment-washington.html
+- headline: How Tech Expanded From Silicon Valley to Bubblegum Alley
+  type: News
+  url: https://www.nytimes.com/2017/12/19/business/tech-san-luis-obispo.html
+- headline: Congress Approves Republican Tax Plan Setting Up Delivery to Trump’s Desk
+  type: News
+  url: https://www.nytimes.com/2017/12/19/us/politics/tax-bill-vote-republicans.html
+- headline: 'What Eats What: A Landlubber’s Guide to Deep Sea Dining'
+  type: News
+  url: https://www.nytimes.com/2017/12/19/science/deep-sea-food-web.html
+- headline: 'Women in Blue-Collar Jobs: Share Your Stories About Harassment'
+  type: Interactive Feature
+  url: https://www.nytimes.com/interactive/2017/12/19/us/blue-collar-workers-stories-harassment.html
+- headline: Moving Away From Windows 10 Home
+  type: Question
+  url: https://www.nytimes.com/2017/12/19/technology/personaltech/moving-away-from-windows-10-home.html
+- headline: Decoding Trump’s Plan to Rein In China
+  type: News
+  url: https://www.nytimes.com/2017/12/19/business/trump-china-national-security.html
+- headline: The 30 Best Fashion Images That Appeared in T This Year
+  type: News
+  url: https://www.nytimes.com/2017/12/19/t-magazine/best-fashion-images.html
+- headline: This Year’s Greatest Fashion Pictures
+  type: Slideshow
+  url: https://www.nytimes.com/slideshow/2017/12/19/t-magazine/this-years-greatest-fashion-pictures.html
+- headline: 'New Trailer: ‘Ocean’s 8’ With Sandra Bullock and Rihanna'
+  type: News
+  url: https://www.nytimes.com/2017/12/19/movies/oceans-8-trailer-sandra-bullock-rihanna.html
+- headline: A Federal Ban on Making Lethal Viruses Is Lifted
+  type: News
+  url: https://www.nytimes.com/2017/12/19/health/lethal-viruses-nih.html
+- headline: How Tough Is It to Change a Culture of Harassment? Ask Women at Ford
+  type: Interactive Feature
+  url: https://www.nytimes.com/interactive/2017/12/19/us/ford-chicago-sexual-harassment.html
+- headline: The Corker Handout (not Kickback)
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/19/opinion/bob-corker-tax-bill.html
+- headline: 'California Today: The World Asks Santa Barbara, ‘Are You O.K.?’'
+  type: briefing
+  url: https://www.nytimes.com/2017/12/19/us/california-today-the-world-asks-santa-barbara-are-you-ok.html
+- headline: Trump Takes Mantle of First Bull as the Stock Market Rises
+  type: News
+  url: https://www.nytimes.com/2017/12/19/us/politics/trump-takes-mantle-of-first-bull-as-the-stock-market-rises.html
+- headline: As Signs of a Mass Grave Emerge, Myanmar Cracks Down
+  type: News
+  url: https://www.nytimes.com/2017/12/19/world/asia/myanmar-reuters-grave.html
+- headline: Des Québécois digèrent mal que la poutine soit qualifiée de canadienne
+  type: News
+  url: https://www.nytimes.com/2017/12/19/world/canada/quebec-poutine-canada.html
+- headline: Winning Reviews From Our 2017 Student Contest
+  type: News
+  url: https://www.nytimes.com/2017/12/19/learning/winning-reviews-from-our-2017-student-contest.html
+- headline: How Care for Elders, Not Children, Denies Women a Paycheck
+  type: News
+  url: https://www.nytimes.com/2017/12/19/business/economy/women-work-elder-care.html
+- headline: 'Review: ‘Jumanji: Welcome to the Jungle’ Has Dwayne Johnson as a Nerd'
+  type: Review
+  url: https://www.nytimes.com/2017/12/19/movies/jumanji-welcome-to-the-jungle-review-dwayne-johnson.html
+- headline: Portrait of a Caregiver
+  type: Video
+  url: https://www.nytimes.com/video/well/100000005511928/portrait-of-a-caregiver.html
+- headline: 'The Winklevoss Twins’ Path to Bitcoin Fortune: DealBook Briefing'
+  type: News
+  url: https://www.nytimes.com/2017/12/19/business/dealbook/bitcoin-hedge-fund.html
+- headline: 'Listen to ‘The Daily’: The Heroes of Burial Road'
+  type: briefing
+  url: https://www.nytimes.com/2017/12/19/podcasts/the-daily/haiti-death-burial-earthquake.html
+- headline: 'New York Today: A Holiday Market for El Barrio'
+  type: briefing
+  url: https://www.nytimes.com/2017/12/19/nyregion/new-york-today-a-holiday-market-for-el-barrio.html
+- headline: This Year, Make Your Fitness Resolution Stick
+  type: News
+  url: https://www.nytimes.com/2017/12/19/well/move/this-year-make-your-fitness-resolution-stick.html
+- headline: The 8 Most Confusing Things About Fafsa
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/19/opinion/fafsa-college-financial-aid.html
+- headline: Yes, Something Can Be Done About Wildfires
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/19/opinion/california-wildfires-helping.html
+- headline: Trump’s National Security Strategy Is a Farce
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/19/opinion/trump-national-security-strategy-tillerson-haley.html
+- headline: How Hollywood Blockbusters Explain American Politics
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/19/opinion/hollywood-movies-american-politics.html
+- headline: The Viet Cong Committed Atrocities, Too
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/19/opinion/vietcong-generals-atrocities.html
+- headline: Weirdest Presidential Highlights of 2017
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/19/opinion/weirdest-presidential-highlights-of-2017.html
+- headline: 'Tax Plan, Amtrak, John Skipper: Your Tuesday Briefing'
+  type: briefing
+  url: https://www.nytimes.com/2017/12/19/briefing/tax-plan-amtrak-john-skipper.html
+- headline: In Polio’s Worst-Hit District, Vaccinators Strain for Access
+  type: News
+  url: https://www.nytimes.com/2017/12/19/world/asia/afghanistan-polio-vaccine.html
+- headline: TriBeCa, by Way of Venice Beach
+  type: News
+  url: https://www.nytimes.com/2017/12/19/realestate/on-location-venice-beach-sha-na-na.html
+- headline: New York Style on a California Beach
+  type: Slideshow
+  url: https://www.nytimes.com/slideshow/2017/12/19/realestate/new-york-style-on-a-california-beach.html
+- headline: 'In the California Desert: Vast Darkness, Vibrant Music, an Oasis'
+  type: News
+  url: https://www.nytimes.com/2017/12/19/travel/in-the-california-desert-vast-darkness-vibrant-music-an-oasis.html
+- headline: Beijing Bids Goodbye to Robert Mugabe
+  type: News
+  url: https://www.nytimes.com/2017/12/19/magazine/beijing-bids-goodbye-to-robert-mugabe.html
+- headline: How Each House Member Voted on the Tax Bill
+  type: Interactive Feature
+  url: https://www.nytimes.com/interactive/2017/12/19/us/politics/tax-bill-house-live-vote.html
+- headline: Microsoft Moves to End Secrecy in Sexual Harassment Claims
+  type: News
+  url: https://www.nytimes.com/2017/12/19/technology/microsoft-sexual-harassment-arbitration.html
+- headline: 'Reza Aslan’s ‘God: A Human History’'
+  type: Review
+  url: https://www.nytimes.com/2017/12/19/books/review/reza-aslans-god-a-human-history.html
+- headline: A Guide to (Somewhat) Painless Christmas Travel
+  type: News
+  url: https://www.nytimes.com/2017/12/19/travel/a-guide-to-somewhat-painless-christmas-travel.html
+- headline: After 16 Years, Hopes for Cape Cod Wind Farm Float Away
+  type: News
+  url: https://www.nytimes.com/2017/12/19/us/offshore-cape-wind-farm.html
+- headline: Calling Poutine ‘Canadian’ Gives Some in Quebec Indigestion
+  type: News
+  url: https://www.nytimes.com/2017/12/19/world/canada/quebec-poutine.html
+- headline: Alka Pradhan v. Gitmo
+  type: News
+  url: https://www.nytimes.com/2017/12/19/magazine/alka-pradhan-v-gitmo.html
+- headline: Graduate Students Escaped Tax Increases, but They Still Feel a Target
+    on Their Backs
+  type: News
+  url: https://www.nytimes.com/2017/12/19/us/politics/graduate-students-education-tax-bill.html
+- headline: A Club for Cheese Lovers
+  type: News
+  url: https://www.nytimes.com/2017/12/19/dining/zingermans-cheese-club.html
+- headline: 'A Bitcoin Hedge Fund’s Return: 25,004% (That Wasn’t a Typo)'
+  type: News
+  url: https://www.nytimes.com/2017/12/19/technology/bitcoin-hedge-fund.html
+- headline: Illuminating the Past, One Precious Book at a Time
+  type: Review
+  url: https://www.nytimes.com/2017/12/19/books/review/de-hamel-manuscripts-medieval-world-illuminated-books.html
+- headline: What Makes Someone a ‘Predator’?
+  type: News
+  url: https://www.nytimes.com/2017/12/19/magazine/what-makes-someone-a-predator.html
+- headline: Dancing Down the Years
+  type: News
+  url: https://www.nytimes.com/2017/12/19/arts/dance/dancing-down-the-years.html
+- headline: The Year From Above
+  type: Interactive Feature
+  url: https://www.nytimes.com/interactive/2017/12/19/world/year-from-above.html
+- headline: China Unveils an Ambitious Plan to Curb Climate Change Emissions
+  type: News
+  url: https://www.nytimes.com/2017/12/19/climate/china-carbon-market-climate-change-emissions.html
+- headline: Trevor Noah, Reflecting on the ‘Paradox’ of Trump, Bids Goodbye to 2017
+  type: News
+  url: https://www.nytimes.com/2017/12/19/arts/television/trevor-noah-year-end-special.html
+- headline: African-American History Seen Through an African-American Lens
+  type: Blog
+  url: https://lens.blogs.nytimes.com/2017/12/19/african-american-history-seen-through-an-african-american-lens/
+- headline: 'Right and Left: Partisan Writing You Shouldn’t Miss on the Robert Mueller
+    Investigation'
+  type: News
+  url: https://www.nytimes.com/2017/12/19/us/politics/right-and-left-robert-mueller-investigation.html
+- headline: B.H.P. Billiton, Acknowledging Climate Change, to Quit Coal Group
+  type: News
+  url: https://www.nytimes.com/2017/12/19/business/energy-environment/australia-mining-company-climate-change.html
+- headline: What Is Your Choice for Word of the Year?
+  type: News
+  url: https://www.nytimes.com/2017/12/19/learning/what-is-your-choice-for-word-of-the-year.html
+- headline: African-American History Seen Through an African-American Lens
+  type: Slideshow
+  url: https://www.nytimes.com/slideshow/2017/12/19/blogs/african-american-history-seen-through-an-african-american-lens.html
+- headline: Mexican Women Brutalized by Police Hope Day of Reckoning Is Near
+  type: News
+  url: https://www.nytimes.com/2017/12/19/world/americas/mexico-police-torture-abuse.html
+- headline: Best Art of 2017
+  type: News
+  url: https://www.nytimes.com/2017/12/19/learning/best-art-of-2017.html
+- headline: The Best Toys That Teach Kids How to Code
+  type: News
+  url: https://www.nytimes.com/2017/12/19/smarter-living/kids-toys-for-coding.html
+- headline: 'Teaching Activities for: ‘Uproar Over Purported Ban at C.D.C. of Words
+    Like “Fetus”’'
+  type: News
+  url: https://www.nytimes.com/2017/12/19/learning/teaching-activities-for-uproar-over-purported-ban-at-cdc-of-words-like-fetus.html
+- headline: It Takes More Than Bluster to Brexit
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/19/opinion/brexit-deal-theresa-may.html
+- headline: Did Russia Meddle in Brexit? A Social Media Study Casts Doubt
+  type: News
+  url: https://www.nytimes.com/2017/12/19/world/europe/britain-brexit-russia-social-media-twitter.html
+- headline: 'What’s on TV Tuesday: ‘15: A Quinceañera Story’ and ‘At Home With Amy
+    Sedaris’'
+  type: Schedule
+  url: https://www.nytimes.com/2017/12/19/arts/television/whats-on-tv-tuesday-15-a-quinceanera-story-and-at-home-with-amy-sedaris.html
+- headline: America’s Blind Eye to Honduras’s Tyrant
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/19/opinion/america-honduras-hernandez-trump.html
+- headline: 'Word + Quiz: trinket'
+  type: News
+  url: https://www.nytimes.com/2017/12/19/learning/19WODLN.html
+- headline: 'Donald Trump, South Africa, Austria: Your Tuesday Briefing'
+  type: briefing
+  url: https://www.nytimes.com/2017/12/19/briefing/donald-trump-south-africa-austria.html
+- headline: Kaminsky and Hornets End Knicks’ Winning Streak
+  type: News
+  url: https://www.nytimes.com/2017/12/18/sports/knicks-hornets.html
+- headline: U.S. Accuses North Korea of Mounting WannaCry Cyberattack
+  type: News
+  url: https://www.nytimes.com/2017/12/18/us/politics/us-north-korea-wannacry-cyberattack.html
+- headline: Columbia Professor Retires in Settlement of Sexual Harassment Lawsuit
+  type: News
+  url: https://www.nytimes.com/2017/12/18/nyregion/william-harris-columbia-harassment.html
+- headline: 'Corrections: December 19, 2017'
+  type: Correction
+  url: https://www.nytimes.com/2017/12/18/pageoneplus/corrections-december-19-2017.html
+- headline: 'Quotation of the Day: Poor Vetting Sinks Nominees for Federal Judge'
+  type: Quote
+  url: https://www.nytimes.com/2017/12/18/todayspaper/quotation-of-the-day-poor-vetting-sinks-nominees-for-federal-judge.html
+- headline: Long-Handled Tool
+  type: News
+  url: https://www.nytimes.com/2017/12/18/crosswords/daily-puzzle-2017-12-19.html
+- headline: Thought Control, Trump-Style
+  type: Editorial
+  url: https://www.nytimes.com/2017/12/18/opinion/thought-control-trump-style.html
+- headline: '‘The Last Jedi’ and You: What Fans Think of the Newest Chapter'
+  type: News
+  url: https://www.nytimes.com/2017/12/18/movies/the-last-jedi-fans-critics.html
+- headline: The Year in Resistance
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/18/opinion/trump-2017-resistance.html
+- headline: Tax Cuts Benefit the Ultra Rich, but Not the Merely Rich
+  type: News
+  url: https://www.nytimes.com/2017/12/18/business/dealbook/tax-bill-wealthy.html
+- headline: Amtrak Faces a High-Profile Derailment. Again.
+  type: News
+  url: https://www.nytimes.com/2017/12/18/us/amtrak-derailments.html
+- headline: 2 Undocumented Teenagers Must Be Allowed Abortions, Judge Rules
+  type: News
+  url: https://www.nytimes.com/2017/12/18/us/abortion-immigrant-ruling.html
+- headline: How Prepaying State and Local Taxes Could Save You Money
+  type: News
+  url: https://www.nytimes.com/2017/12/18/business/how-prepaying-state-and-local-taxes-could-save-you-money.html
+- headline: Trump Inaccurately Claims ‘Firsts’ in Defense Speech
+  type: News
+  url: https://www.nytimes.com/2017/12/18/us/politics/fact-check-trump-national-security-strategy.html
+- headline: 15 Years After Deportation, Marine Wins Right to Come Back to U.S.
+  type: News
+  url: https://www.nytimes.com/2017/12/18/us/veteran-deported-pardoned.html
+- headline: The Workers Paradise
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/18/opinion/republicans-taxes-voters.html
+- headline: Poor Vetting Sinks Trump’s Nominees for Federal Judge
+  type: News
+  url: https://www.nytimes.com/2017/12/18/us/politics/matthew-petersen-judge-nominee-withdraws-trump.html
+- headline: The N.F.L. Shows Surprising Deference to Jerry Richardson
+  type: News
+  url: https://www.nytimes.com/2017/12/18/sports/jerry-richardson-panthers.html
+- headline: Chile’s Election Consolidates Latin America’s Rightward Shift
+  type: News
+  url: https://www.nytimes.com/2017/12/18/world/americas/chile-election-latin-america-politics.html
+- headline: Keely Smith, Torch Singer With a Deadpan Role, Is Dead at 89
+  type: Obituary (Obit)
+  url: https://www.nytimes.com/2017/12/18/obituaries/keely-smith-torch-singer-with-a-deadpan-role-is-dead-at-89.html
+- headline: Campbell Bid for Snyder’s Deserves Activist Gate Crashers
+  type: News
+  url: https://www.nytimes.com/2017/12/18/business/dealbook/campbell-soup-snyders-lance.html
+- headline: Tax Bill Lets Trump and Republicans Feather Their Own Nests
+  type: Editorial
+  url: https://www.nytimes.com/2017/12/18/opinion/tax-bill-trump-republicans.html
+- headline: Dancing with Douglas Dunn
+  type: Video
+  url: https://www.nytimes.com/video/arts/dance/100000005143116/dancing-with-douglas-dunn.html
+- headline: Dancing With Gus Solomons Jr.
+  type: Video
+  url: https://www.nytimes.com/video/arts/dance/100000005586072/dancing-with-gus-solomons-jr.html
+- headline: Dancing With Eiko
+  type: Video
+  url: https://www.nytimes.com/video/arts/dance/100000005067894/dancing-with-eiko.html
+- headline: Dancing with Brenda Bufalino
+  type: Video
+  url: https://www.nytimes.com/video/arts/dance/100000005164694/dancing-with-brenda-bufalino.html
+- headline: A Mysterious Act of Mercy by the Subway Bombing Suspect
+  type: News
+  url: https://www.nytimes.com/2017/12/18/world/asia/bangladesh-akayed-ullah-subway-bomber.html
+- headline: My Favorite Movie Theater Is in a Dingy Basement
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/18/opinion/lincoln-plaza-movie-theater-closing.html
+- headline: Jerry Richardson Is About to Cash In on His Abuse
+  type: News
+  url: https://www.nytimes.com/2017/12/18/sports/panthers-owner-nfl.html
+- headline: Without the Insurance Mandate, Health Care’s Future May Be in Doubt
+  type: News
+  url: https://www.nytimes.com/2017/12/18/us/politics/tax-cut-obamacare-individual-mandate-repeal.html
+- headline: 'The Bitcoin Boom: In Code We Trust'
+  type: Op-Ed
+  url: https://www.nytimes.com/2017/12/18/opinion/bitcoin-boom-technology-trust.html
+- headline: 19 Acts of Heroism in 2017
+  type: News
+  url: https://www.nytimes.com/2017/12/18/world/heroism-altruism-courage-compassion-2017.html
 - headline: Passing Through to Corruption
   type: Op-Ed
   url: https://www.nytimes.com/2017/12/18/opinion/republicans-taxes-corruption.html
@@ -454,3 +3149,15 @@ articles:
 - headline: Tracking E.P.A. Employees
   type: Interactive Feature
   url: https://www.nytimes.com/interactive/2017/12/17/us/document-Tracking-EPA-Employees.html
+- headline: Weekend Breakfasts to Warm the Heart, and Belly
+  type: Recipe
+  url: https://cooking.nytimes.com/recipes/1019100-maple-cardamom-saffron-sticky-buns
+- headline: Weekend Breakfasts to Warm the Heart, and Belly
+  type: Recipe
+  url: https://cooking.nytimes.com/recipes/1019099-potato-hot-cakes-with-cheddar-cream-and-salsa-verde
+- headline: 'A Different Kind of Christmas Dinner: Spicy Shrimp Stir-Fry'
+  type: Recipe
+  url: https://cooking.nytimes.com/recipes/1019098-sizzled-five-spice-shrimp-with-red-pepper
+- headline: Lamb Shanks Show Off Their Inner Beauty
+  type: Recipe
+  url: https://cooking.nytimes.com/recipes/1019087-braised-lamb-shanks-with-fresh-herbs

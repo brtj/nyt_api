@@ -1,0 +1,759 @@
+{
+    "articles": [
+        {
+            "headline": "Passing Through to Corruption",
+            "url": "https://www.nytimes.com/2017/12/18/opinion/republicans-taxes-corruption.html",
+            "type": "Op-Ed"
+        },
+        {
+            "headline": "An Amaro From Mount Etna",
+            "url": "https://www.nytimes.com/2017/12/18/dining/drinks/amaro-dell-etna.html",
+            "type": "News"
+        },
+        {
+            "headline": "Republican Tax Cuts Would Lift Some Industries More Than Others",
+            "url": "https://www.nytimes.com/2017/12/18/us/politics/republican-tax-cuts-industries-.html",
+            "type": "News"
+        },
+        {
+            "headline": "The Gadget for the Cook Who Has Everything",
+            "url": "https://www.nytimes.com/2017/12/18/dining/spinzall-centrifuge-dave-arnold.html",
+            "type": "News"
+        },
+        {
+            "headline": "Pence Postpones Trip to Middle East, Citing Vote on Tax Bill This Week",
+            "url": "https://www.nytimes.com/2017/12/18/us/politics/pence-middle-east-tax-bill.html",
+            "type": "News"
+        },
+        {
+            "headline": "For Cat Lovers, a Book on the Guardians of the Liquor Cabinet",
+            "url": "https://www.nytimes.com/2017/12/18/dining/drinks/distillery-cats-book-brad-thomas-parsons.html",
+            "type": "News"
+        },
+        {
+            "headline": "On the Trail of a Secret Pentagon U.F.O. Program",
+            "url": "https://www.nytimes.com/2017/12/18/insider/secret-pentagon-ufo-program.html",
+            "type": "News"
+        },
+        {
+            "headline": "A Golden Goose for the Christmas Table",
+            "url": "https://www.nytimes.com/2017/12/18/dining/christmas-goose-dicksons-farmstand-meats.html",
+            "type": "News"
+        },
+        {
+            "headline": "Democrats in New York Can Already Hear Iowa\u2019s Siren Song",
+            "url": "https://www.nytimes.com/2017/12/18/nyregion/new-york-democrats-iowa-2020.html",
+            "type": "News"
+        },
+        {
+            "headline": "Trailer: \u2018The Greatest Showman\u2018",
+            "url": "https://www.nytimes.com/video/movies/100000005553667/trailer-the-greatest-showman.html",
+            "type": "Video"
+        },
+        {
+            "headline": "Remembering Washington Market",
+            "url": "https://www.nytimes.com/2017/12/18/nyregion/metropolitan-diary-remembering-washington-market.html",
+            "type": "News"
+        },
+        {
+            "headline": "Trump, Amtrak, Instant Pot: Your Monday Evening Briefing",
+            "url": "https://www.nytimes.com/2017/12/18/briefing/trump-amtrak-instant-pot.html",
+            "type": "briefing"
+        },
+        {
+            "headline": "What Needs to Happen Before Electric Cars Take Over the World",
+            "url": "https://www.nytimes.com/2017/12/18/business/electric-car-adoption.html",
+            "type": "News"
+        },
+        {
+            "headline": "Charlottesville Police Chief Steps Down After Handling of Rallies Is Criticized",
+            "url": "https://www.nytimes.com/2017/12/18/us/charlottesville-police-al-thomas.html",
+            "type": "News"
+        },
+        {
+            "headline": "Hospital Giants Vie for Patients in Effort to Fend Off New Rivals",
+            "url": "https://www.nytimes.com/2017/12/18/health/hospitals-mergers-patients.html",
+            "type": "News"
+        },
+        {
+            "headline": "How to Do Things Better in 2018",
+            "url": "https://www.nytimes.com/2017/12/18/smarter-living/how-to-do-things-better-in-2018.html",
+            "type": "News"
+        },
+        {
+            "headline": "In Robert Wilmers of M&T, Regional Banks Had a Champion",
+            "url": "https://www.nytimes.com/2017/12/18/business/dealbook/robert-wilmers-mt-bank.html",
+            "type": "News"
+        },
+        {
+            "headline": "President Trump, the Animatronic Version, Comes to Disney World",
+            "url": "https://www.nytimes.com/2017/12/18/business/media/president-trump-disney-world-hall-of-presidents.html",
+            "type": "News"
+        },
+        {
+            "headline": "Reporting Harassment at Fox News",
+            "url": "https://www.nytimes.com/video/us/100000005611716/buying-silence-for-9-million.html",
+            "type": "Video"
+        },
+        {
+            "headline": "Sex Abuse in Africa",
+            "url": "https://www.nytimes.com/2017/12/18/opinion/sex-abuse-africa.html",
+            "type": "Letter"
+        },
+        {
+            "headline": "Lones Wigger Jr., \u2018Best Ever\u2019 Rifle Marksman, Is Dead at 80",
+            "url": "https://www.nytimes.com/2017/12/18/obituaries/lone-wigger-jr-dead-champion-rifle-shooter.html",
+            "type": "Obituary (Obit)"
+        },
+        {
+            "headline": "Trump\u2019s Strategy: \u2018Wealth and Power at Home\u2019",
+            "url": "https://www.nytimes.com/video/us/politics/100000005611633/trumps-strategy-wealth-and-power-at-home.html",
+            "type": "Video"
+        },
+        {
+            "headline": "Boeing and Bombardier Trade Clash Poses More Risks for Nafta",
+            "url": "https://www.nytimes.com/2017/12/18/us/politics/boeing-bombardier-trade-nafta.html",
+            "type": "News"
+        },
+        {
+            "headline": "From the Fringes of Art Basel Miami Beach ",
+            "url": "https://www.nytimes.com/2017/12/18/arts/design/from-the-fringes-of-art-basel-miami-beach.html",
+            "type": "News"
+        },
+        {
+            "headline": "Four Shows to Watch This Week",
+            "url": "https://www.nytimes.com/2017/12/18/watching/what-to-watch-this-week-tv.html",
+            "type": "News"
+        },
+        {
+            "headline": "Our Journalists Share Their Most Memorable Interviews of 2017",
+            "url": "https://www.nytimes.com/2017/12/18/insider/times-reporters-share-their-most-memorable-interviews-of-2017.html",
+            "type": "News"
+        },
+        {
+            "headline": "Rules for Reporting a Planned Death: No Photos, No Pad, No Pen",
+            "url": "https://www.nytimes.com/2017/12/18/insider/rules-for-reporting-a-planned-death-john-shields-canada.html",
+            "type": "News"
+        },
+        {
+            "headline": "The New Mississippi Civil Rights Museum Refuses to Sugarcoat History",
+            "url": "https://www.nytimes.com/2017/12/18/arts/design/jackson-mississippi-civil-rights-museum-medgar-evers.html",
+            "type": "Review"
+        },
+        {
+            "headline": "Why Doesn\u2019t the N.F.L. Use Tracking Technology for First-Down Calls?",
+            "url": "https://www.nytimes.com/2017/12/18/sports/nfl-first-down-measurement.html",
+            "type": "News"
+        },
+        {
+            "headline": "Grenfell Fire Inquiry Finds U.K. Construction Rules Dangerously Lax",
+            "url": "https://www.nytimes.com/2017/12/18/world/europe/grenfell-tower-fire-investigation.html",
+            "type": "News"
+        },
+        {
+            "headline": "Luke Bryan Is Latest Challenger to Hold Off Taylor Swift for No. 1",
+            "url": "https://www.nytimes.com/2017/12/18/arts/music/luke-bryan-taylor-swift-billboard-charts.html",
+            "type": "News"
+        },
+        {
+            "headline": "In Fight for Judiciary Slot, Democrats Broach the \u2018I\u2019 Word: Impeachment",
+            "url": "https://www.nytimes.com/2017/12/18/us/politics/judiciary-committee-democrats-impeach-trump.html",
+            "type": "News"
+        },
+        {
+            "headline": "Fact Check: The Tax Plan",
+            "url": "https://www.nytimes.com/video/us/politics/100000005610335/trump-republican-tax-plan-fact-check.html",
+            "type": "Video"
+        },
+        {
+            "headline": "How to Build Muscle in 9 Minutes",
+            "url": "https://www.nytimes.com/interactive/2017/well/move/guide-muscle.html",
+            "type": "Interactive Feature"
+        },
+        {
+            "headline": "A Political Scandal\u2019s Trauma, Seen From the Inside",
+            "url": "https://www.nytimes.com/2017/12/18/books/review-senators-children-nicholas-montemarano.html",
+            "type": "Review"
+        },
+        {
+            "headline": "When a Man Needs a Safe Place",
+            "url": "https://www.nytimes.com/2017/12/18/style/plastic-surgery-for-men.html",
+            "type": "News"
+        },
+        {
+            "headline": "When Disenfranchised Lives and American Ideals Collide Onstage",
+            "url": "https://www.nytimes.com/2017/12/18/theater/review-hold-these-truths-de-novo-race-card.html",
+            "type": "News"
+        },
+        {
+            "headline": "African National Congress, Amtrak, Donald Trump: Your Tuesday Briefing",
+            "url": "https://www.nytimes.com/2017/12/18/briefing/african-national-congress-amtrak-donald-trump.html",
+            "type": "briefing"
+        },
+        {
+            "headline": "Austria\u2019s New Government: A Mix of Far-Right, Pro-Europe and Youth",
+            "url": "https://www.nytimes.com/2017/12/18/world/europe/austria-chancellor-kurz.html",
+            "type": "News"
+        },
+        {
+            "headline": "Veterans Advantage FAQ",
+            "url": "https://www.nytimes.com/content/help/subscriptions/va/veterans-advantage.html",
+            "type": "faq"
+        },
+        {
+            "headline": "Tax Bill Seen as a Giveaway to the Rich",
+            "url": "https://www.nytimes.com/2017/12/18/opinion/tax-bill.html",
+            "type": "Letter"
+        },
+        {
+            "headline": "How Fliers Can Relax and U.S. Airlines Can Compete: With Spas",
+            "url": "https://www.nytimes.com/2017/12/18/business/how-fliers-can-relax-and-us-airlines-can-compete-with-spas.html",
+            "type": "News"
+        },
+        {
+            "headline": "A Different Kind of Politician",
+            "url": "https://www.nytimes.com/2017/12/18/opinion/different-politician.html",
+            "type": "Letter"
+        },
+        {
+            "headline": "Full Speech: President Trump Outlines National Security Strategy",
+            "url": "https://www.nytimes.com/video/us/100000005610816/trump-national-security-speech.html",
+            "type": "Video"
+        },
+        {
+            "headline": "Royal Court Reverses Decision to Cancel \u2018Rita, Sue and Bob Too\u2019",
+            "url": "https://www.nytimes.com/2017/12/18/theater/royal-court-reverses-decision-to-cancel-rita-sue-and-bob-too.html",
+            "type": "News"
+        },
+        {
+            "headline": "Join The New \u2018At War\u2019 Community",
+            "url": "https://www.nytimes.com/interactive/2017/12/18/magazine/at-war-veterans-military.html",
+            "type": "Interactive Feature"
+        },
+        {
+            "headline": "A Christmas Gift for the Wealthy",
+            "url": "https://www.nytimes.com/2017/12/18/opinion/republican-tax-bill-pass.html",
+            "type": "Op-Ed"
+        },
+        {
+            "headline": "Police Union Is Sending Officers to Iowa to Protest de Blasio",
+            "url": "https://www.nytimes.com/2017/12/18/nyregion/nyc-police-mayor-deblasio-iowa.html",
+            "type": "News"
+        },
+        {
+            "headline": "Unearthed in Rome\u2019s New Subway: Extinct Elephants and Persian Peach Pits",
+            "url": "https://www.nytimes.com/2017/12/18/world/europe/rome-subway-archaeology.html",
+            "type": "News"
+        },
+        {
+            "headline": "To Make Its Case, Armagnac Has to Teach the Teachers",
+            "url": "https://www.nytimes.com/2017/12/18/dining/drinks/armagnac-brandy.html",
+            "type": "News"
+        },
+        {
+            "headline": "\u2018Relaxation\u2019 in a Time of War: How the New York Times Crossword Puzzle Got Its Start",
+            "url": "https://www.nytimes.com/2017/12/18/insider/how-the-new-york-times-crossword-puzzle-got-its-start-in-a-time-of-war.html",
+            "type": "News"
+        },
+        {
+            "headline": "3 Rappers Peeking at Eminem\u2019s Playbook",
+            "url": "https://www.nytimes.com/2017/12/18/arts/music/eminem-g-eazy-lil-xan-nf.html",
+            "type": "News"
+        },
+        {
+            "headline": "The Amargosa River Defies the Desert",
+            "url": "https://www.nytimes.com/2017/12/18/science/amargosa-death-valley-mojave-pupfish.html",
+            "type": "News"
+        },
+        {
+            "headline": "Afghan President Fires a Powerful Governor From Post He Held 13 Years",
+            "url": "https://www.nytimes.com/2017/12/18/world/asia/ashraf-ghani-atta-muhammad-noor.html",
+            "type": "News"
+        },
+        {
+            "headline": "Amtrak Train Derails South of Seattle",
+            "url": "https://www.nytimes.com/video/us/100000005610997/amtrak-train-derails-south-of-seattle.html",
+            "type": "Video"
+        },
+        {
+            "headline": "Dear Match Book: Dispatches From Uncharted Territories",
+            "url": "https://www.nytimes.com/2017/12/18/books/review/uncharted-territories.html",
+            "type": "News"
+        },
+        {
+            "headline": "A Restaurant Where You Can Order a Dish, Literally",
+            "url": "https://www.nytimes.com/2017/12/18/dining/la-mercerie-restaurant-design-store.html",
+            "type": "News"
+        },
+        {
+            "headline": "Multiple Deaths in Amtrak Train Derailment in Washington",
+            "url": "https://www.nytimes.com/2017/12/18/us/amtrak-derailment-washington.html",
+            "type": "News"
+        },
+        {
+            "headline": "Weekend Breakfasts to Warm the Heart, and Belly",
+            "url": "https://www.nytimes.com/2017/12/18/dining/breakfast-recipes-ottolenghi.html",
+            "type": "News"
+        },
+        {
+            "headline": "A Target of Bullies Perseveres to Earn a \u2018Prize\u2019: His Diploma",
+            "url": "https://www.nytimes.com/2017/12/18/nyregion/a-target-of-bullies-perseveres-to-earn-a-prize-his-diploma.html",
+            "type": "News"
+        },
+        {
+            "headline": "Cyril Ramaphosa Wins A.N.C. Leadership Battle in South Africa",
+            "url": "https://www.nytimes.com/2017/12/18/world/africa/ramaphosa-anc-south-africa.html",
+            "type": "News"
+        },
+        {
+            "headline": "Hip-Hop Changes. Eminem Doesn\u2019t.",
+            "url": "https://www.nytimes.com/2017/12/18/arts/music/eminem-revival-review.html",
+            "type": "Review"
+        },
+        {
+            "headline": "Diddy\u2019s Wish List: Buy the Carolina Panthers, Then Sign Colin Kaepernick",
+            "url": "https://www.nytimes.com/2017/12/18/sports/football/diddy-carolina-panthers-colin-kaepernick.html",
+            "type": "News"
+        },
+        {
+            "headline": "Trailer: 'Pitch Perfect 3'",
+            "url": "https://www.nytimes.com/video/movies/100000005189116/trailer-pitch-perfect-3.html",
+            "type": "Video"
+        },
+        {
+            "headline": "The Popcast Answers Your Burning Questions About Pop Music in 2017",
+            "url": "https://www.nytimes.com/2017/12/18/arts/music/popcast-reader-questions-2017.html",
+            "type": "News"
+        },
+        {
+            "headline": "Cracking Quick Response Codes With iOS 11",
+            "url": "https://www.nytimes.com/2017/12/18/technology/personaltech/cracking-quick-response-codes-with-ios-11.html",
+            "type": "Question"
+        },
+        {
+            "headline": "Uber Driver in Lebanon Arrested in Killing of Rebecca Dykes",
+            "url": "https://www.nytimes.com/2017/12/18/world/middleeast/rebecca-dykes-uber-beirut.html",
+            "type": "News"
+        },
+        {
+            "headline": "Corker Says He Faced \u2018Tough\u2019 Decision in Supporting Republican Tax Bill",
+            "url": "https://www.nytimes.com/2017/12/18/us/politics/tax-bill-republicans.html",
+            "type": "News"
+        },
+        {
+            "headline": "At ESPN, John Skipper Resigns as President, Citing Substance Addiction",
+            "url": "https://www.nytimes.com/2017/12/18/sports/espn-john-skipper-resigns.html",
+            "type": "News"
+        },
+        {
+            "headline": "Casualties of the Cashless Society: Those Who Get Seasonal Tips",
+            "url": "https://www.nytimes.com/2017/12/18/style/seasonal-tips-cash-free-payments.html",
+            "type": "News"
+        },
+        {
+            "headline": "U.S. Vetoes U.N. Resolution Condemning Move on Jerusalem",
+            "url": "https://www.nytimes.com/2017/12/18/world/middleeast/jerusalem-un-security-council.html",
+            "type": "News"
+        },
+        {
+            "headline": "Shrimp Parms and Jessica Lange",
+            "url": "https://www.nytimes.com/2017/12/18/dining/shrimp-parms-and-jessica-lange-newsletter.html",
+            "type": "News"
+        },
+        {
+            "headline": "Judge John Hodgman on Snuffing Out a Snuff Habit",
+            "url": "https://www.nytimes.com/2017/12/18/magazine/judge-john-hodgman-on-snuffing-out-a-snuff-habit.html",
+            "type": "News"
+        },
+        {
+            "headline": "New York City Will Close or Merge 14 Schools From Renewal Program",
+            "url": "https://www.nytimes.com/2017/12/18/nyregion/new-york-city-will-close-or-merge-19-schools-most-from-renewal-program.html",
+            "type": "News"
+        },
+        {
+            "headline": "Atlanta\u2019s Airport Has Power Again, but Many Passengers Are Stranded",
+            "url": "https://www.nytimes.com/2017/12/18/us/atlanta-airport-blackout.html",
+            "type": "News"
+        },
+        {
+            "headline": "Legalize Sports Bets?",
+            "url": "https://www.nytimes.com/2017/12/18/opinion/legalize-sports-betting.html",
+            "type": "Letter"
+        },
+        {
+            "headline": "U.S. Military Fires Upon Intruder at Air Base in Britain",
+            "url": "https://www.nytimes.com/2017/12/18/world/europe/uk-raf-mildenhall.html",
+            "type": "News"
+        },
+        {
+            "headline": "The Force Is With Them",
+            "url": "https://www.nytimes.com/2017/12/18/nyregion/the-force-is-with-them.html",
+            "type": "News"
+        },
+        {
+            "headline": "Federal Judge Alex Kozinski Retires Abruptly After Sexual Harassment Allegations",
+            "url": "https://www.nytimes.com/2017/12/18/us/alex-kozinski-retires.html",
+            "type": "News"
+        },
+        {
+            "headline": "Review: \u2018A Christmas Story Live!\u2019 Wasn\u2019t Lively Enough",
+            "url": "https://www.nytimes.com/2017/12/18/arts/television/a-christmas-story-live-fox.html",
+            "type": "Review"
+        },
+        {
+            "headline": "California Today: Rallying Support for the G.O.P. Tax Plan",
+            "url": "https://www.nytimes.com/2017/12/18/us/california-today-rallying-support-for-the-gop-tax-plan.html",
+            "type": "briefing"
+        },
+        {
+            "headline": "The 10 Best Quotes, as Told to T, in 2017",
+            "url": "https://www.nytimes.com/2017/12/18/t-magazine/best-quotes-jay-z-nicki-minaj.html",
+            "type": "News"
+        },
+        {
+            "headline": "Puerto Rico Orders Review and Recount of Hurricane Deaths",
+            "url": "https://www.nytimes.com/2017/12/18/us/puerto-rico-hurricane-maria-death-toll-review.html",
+            "type": "News"
+        },
+        {
+            "headline": "Bowery Ballroom and Mercury Lounge Join With Live Nation",
+            "url": "https://www.nytimes.com/2017/12/18/business/media/bowery-ballroom-mercury-lounge-live-nation.html",
+            "type": "News"
+        },
+        {
+            "headline": "Ikea Is Focus of European Inquiry Over Possible Skirting of Tax Bills",
+            "url": "https://www.nytimes.com/2017/12/18/business/ikea-tax-eu.html",
+            "type": "News"
+        },
+        {
+            "headline": "\u300a\u7ebd\u7ea6\u65f6\u62a5\u300b\u5982\u4f55\u62a5\u9053\u4e16\u754c\uff1fNYT Global\u4e3b\u7f16\u56de\u7b54\u4e2d\u6587\u8bfb\u8005\u63d0\u95ee",
+            "url": "https://www.nytimes.com/2017/12/18/reader-center/nyt-global.html",
+            "type": "News"
+        },
+        {
+            "headline": "In India, Modi\u2019s Party Shows Its Might in State Elections",
+            "url": "https://www.nytimes.com/2017/12/18/world/asia/bharatiya-janata-party-india.html",
+            "type": "News"
+        },
+        {
+            "headline": "DealBook Briefing: Who Could Succeed John Skipper at ESPN?",
+            "url": "https://www.nytimes.com/2017/12/18/business/dealbook/ceos-taxes-trump.html",
+            "type": "News"
+        },
+        {
+            "headline": "TPG Growth, a Red-Hot Investor, Stays Small as It Pursues Deals",
+            "url": "https://www.nytimes.com/2017/12/18/business/dealbook/tpg-growth-fund.html",
+            "type": "News"
+        },
+        {
+            "headline": "Text to Text | \u2018The Real Campus Scourge\u2019 and \u2018My College Transition\u2019",
+            "url": "https://www.nytimes.com/2017/12/18/learning/lesson-plans/text-to-text-the-real-campus-scourge-and-my-college-transition.html",
+            "type": "News"
+        },
+        {
+            "headline": "Meet the Youngest and Oldest Hopefuls in This Oscar Race",
+            "url": "https://www.nytimes.com/2017/12/18/movies/meet-the-youngest-and-oldest-hopefuls-in-this-oscar-race.html",
+            "type": "News"
+        },
+        {
+            "headline": "International Herald Tribune",
+            "url": "https://www.nytimes.com/column/iht-retrospective",
+            "type": "Column"
+        },
+        {
+            "headline": "Retrospective: The International Herald Tribune",
+            "url": "https://www.nytimes.com/2017/12/18/world/retrospective-the-international-herald-tribune.html",
+            "type": "News"
+        },
+        {
+            "headline": "Menorah Blamed for Brooklyn Fire That Killed Mother and 3 Children",
+            "url": "https://www.nytimes.com/2017/12/18/nyregion/brooklyn-fire.html",
+            "type": "News"
+        },
+        {
+            "headline": "Listen to \u2018The Daily\u2019: The Pentagon\u2019s U.F.O. Program",
+            "url": "https://www.nytimes.com/2017/12/18/podcasts/the-daily/ufo-pentagon-program.html",
+            "type": "briefing"
+        },
+        {
+            "headline": "How to \u2018Winterize\u2019 Your Dog",
+            "url": "https://www.nytimes.com/2017/12/18/well/family/how-to-winterize-your-dog.html",
+            "type": "News"
+        },
+        {
+            "headline": "Cooking, and Reporting, in the Thrall of the Instant Pot",
+            "url": "https://www.nytimes.com/2017/12/18/insider/instant-pot-testing.html",
+            "type": "News"
+        },
+        {
+            "headline": "The Truck Gene",
+            "url": "https://www.nytimes.com/2017/12/18/well/family/children-kids-reading-interests-passions-genes.html",
+            "type": "News"
+        },
+        {
+            "headline": "New York Today: History in a Holiday Window",
+            "url": "https://www.nytimes.com/2017/12/18/nyregion/new-york-today-history-in-a-holiday-window.html",
+            "type": "briefing"
+        },
+        {
+            "headline": "Actually, Egypt Is a Terrible Ally",
+            "url": "https://www.nytimes.com/2017/12/18/opinion/united-states-egypt-pence.html",
+            "type": "Op-Ed"
+        },
+        {
+            "headline": "How Republicans Learned to Sell Tax Cuts for the Rich",
+            "url": "https://www.nytimes.com/2017/12/18/opinion/republicans-tax-cuts-rich.html",
+            "type": "Op-Ed"
+        },
+        {
+            "headline": "When Victims of Wartime Rape Are Scorned",
+            "url": "https://www.nytimes.com/2017/12/18/opinion/bosnia-myanmar-rohingya-rape.html",
+            "type": "Op-Ed"
+        },
+        {
+            "headline": "Trump, the C.D.C. and the Peek-a-Boo Doctrine",
+            "url": "https://www.nytimes.com/2017/12/18/opinion/trump-cdc-transgender.html",
+            "type": "Op-Ed"
+        },
+        {
+            "headline": "Gratitude: In Sickness and Health",
+            "url": "https://www.nytimes.com/2017/12/18/opinion/gratitude-sickness-health.html",
+            "type": "Op-Ed"
+        },
+        {
+            "headline": "Is Trump a Blessing or Curse for Religious Conservatives?",
+            "url": "https://www.nytimes.com/2017/12/18/opinion/trump-religious-conservatives-evangelicals.html",
+            "type": "Op-Ed"
+        },
+        {
+            "headline": "Republican Party, Atlanta Airport, Carolina Panthers: Your Monday Briefing",
+            "url": "https://www.nytimes.com/2017/12/18/briefing/republican-party-atlanta-airport-carolina-panthers.html",
+            "type": "briefing"
+        },
+        {
+            "headline": "Recovering What Was Lost in the U.S. Virgin Islands, One Boat at a Time",
+            "url": "https://www.nytimes.com/2017/12/18/us/virgin-islands-hurricanes-boats.html",
+            "type": "News"
+        },
+        {
+            "headline": "Why New Blood Pressure Guidelines Could Lead to Harm",
+            "url": "https://www.nytimes.com/2017/12/18/upshot/why-new-blood-pressure-guidelines-could-lead-to-harm.html",
+            "type": "News"
+        },
+        {
+            "headline": "Shopping for Poufs",
+            "url": "https://www.nytimes.com/2017/12/18/realestate/shopping-for-poufs.html",
+            "type": "News"
+        },
+        {
+            "headline": "Millenniums of Tribulation",
+            "url": "https://www.nytimes.com/2017/12/18/books/review/simon-schama-story-of-the-jews-belonging.html",
+            "type": "Review"
+        },
+        {
+            "headline": "Slaying the Dragon of the Dark Ages",
+            "url": "https://www.nytimes.com/2017/12/18/books/review/eric-metaxas-martin-luther.html",
+            "type": "Review"
+        },
+        {
+            "headline": "Steelers Find New Level of Agony at the Hands of the Patriots",
+            "url": "https://www.nytimes.com/2017/12/18/sports/steelers-patriots.html",
+            "type": "News"
+        },
+        {
+            "headline": "Have You Ever Felt Sorry for the I.R.S.? Now Might Be the Time",
+            "url": "https://www.nytimes.com/2017/12/18/business/irs-tax-bill.html",
+            "type": "News"
+        },
+        {
+            "headline": "<div>Trump Delivers a Mixed Message on His National Security Approach</div>",
+            "url": "https://www.nytimes.com/2017/12/18/us/politics/trump-security-strategy-china-russia.html",
+            "type": "News"
+        },
+        {
+            "headline": "Across the Atlantic, Another Supreme Court Case on Cake and Gay Rights",
+            "url": "https://www.nytimes.com/2017/12/18/us/politics/northern-ireland-court-case-cake-gay-rights.html",
+            "type": "News"
+        },
+        {
+            "headline": "What (if Anything) Does Carter Page Know?",
+            "url": "https://www.nytimes.com/2017/12/18/magazine/what-if-anything-does-carter-page-know.html",
+            "type": "News"
+        },
+        {
+            "headline": "Rebelling Republican Suburbs Offer Democrats Path to House Control",
+            "url": "https://www.nytimes.com/2017/12/18/us/politics/house-control-2018-suburbs-trump-republicans-democrats.html",
+            "type": "News"
+        },
+        {
+            "headline": "Reuniting With Boats in the Virgin Islands",
+            "url": "https://www.nytimes.com/video/us/100000005598881/boats-virgin-islands-coast-guard.html",
+            "type": "Video"
+        },
+        {
+            "headline": "Without Climbing Everest, Chronicling a Solemn Descent",
+            "url": "https://www.nytimes.com/2017/12/18/insider/without-climbing-everest-chronicling-a-solemn-descent.html",
+            "type": "News"
+        },
+        {
+            "headline": "Deliverance From 27,000 Feet",
+            "url": "https://www.nytimes.com/interactive/2017/12/18/sports/everest-deaths.html",
+            "type": "Interactive Feature"
+        },
+        {
+            "headline": "You Want to Climb Mount Everest? Here\u2019s What It Takes",
+            "url": "https://www.nytimes.com/2017/12/18/sports/climb-mount-everest.html",
+            "type": "News"
+        },
+        {
+            "headline": "Teaching Activities for: \u2018Glowing Auras and \u201cBlack Money\u201d: The Pentagon\u2019s Mysterious U.F.O. Program\u2019",
+            "url": "https://www.nytimes.com/2017/12/18/learning/teaching-activities-for-glowing-auras-and-black-money-the-pentagons-mysterious-ufo-program.html",
+            "type": "News"
+        },
+        {
+            "headline": "Could You Stop Shopping for an Entire Year?",
+            "url": "https://www.nytimes.com/2017/12/18/learning/could-you-stop-shopping-for-an-entire-year.html",
+            "type": "News"
+        },
+        {
+            "headline": "For Kobe Bryant, a Double Salute, With Two Numbers Headed to the Rafters",
+            "url": "https://www.nytimes.com/2017/12/18/sports/kobe-bryant-lakers-uniform-numbers.html",
+            "type": "News"
+        },
+        {
+            "headline": "Don\u2019t Waste Your Time With Bad Resolutions. This Is How to Do Them Right.",
+            "url": "https://www.nytimes.com/2017/12/18/smarter-living/how-to-stick-with-new-years-resolutions.html",
+            "type": "News"
+        },
+        {
+            "headline": "American Who Escaped Crowded Bali Prison Is Recaptured",
+            "url": "https://www.nytimes.com/2017/12/18/world/asia/american-indonesia-prison-escape.html",
+            "type": "News"
+        },
+        {
+            "headline": "Word + Quiz: comity",
+            "url": "https://www.nytimes.com/2017/12/18/learning/18WODLN.html",
+            "type": "News"
+        },
+        {
+            "headline": "What\u2019s on TV Monday: \u2018Gunpowder\u2019 and \u2018Supergirl\u2019",
+            "url": "https://www.nytimes.com/2017/12/18/arts/television/whats-on-tv-monday-gunpowder-and-supergirl.html",
+            "type": "Schedule"
+        },
+        {
+            "headline": "Artist Who Filmed Beijing Crackdown Is Reportedly Freed on Bail",
+            "url": "https://www.nytimes.com/2017/12/18/world/asia/china-artist-videos-migrants-arrest.html",
+            "type": "News"
+        },
+        {
+            "headline": "British Embassy Worker in Beirut Found Strangled",
+            "url": "https://www.nytimes.com/2017/12/18/world/middleeast/british-woman-strangled-lebanon.html",
+            "type": "News"
+        },
+        {
+            "headline": "As Seen on TV: A Road Trip Tracks the Shows of the South",
+            "url": "https://www.nytimes.com/2017/12/18/travel/southern-tv-road-trip.html",
+            "type": "News"
+        },
+        {
+            "headline": "Putin, Atlanta, U.F.O.s: Your Monday Briefing",
+            "url": "https://www.nytimes.com/2017/12/18/briefing/putin-atlanta-ufos.html",
+            "type": "briefing"
+        },
+        {
+            "headline": "T.S.A. Machines That Detect Bombs Belong in Subways, Schumer Says",
+            "url": "https://www.nytimes.com/2017/12/17/nyregion/tsa-bombs-subways-schumer.html",
+            "type": "News"
+        },
+        {
+            "headline": "Turkey Plans Embassy in East Jerusalem, Erdogan Says",
+            "url": "https://www.nytimes.com/2017/12/17/world/middleeast/turkey-embassy-east-jerusalem-erdogan.html",
+            "type": "News"
+        },
+        {
+            "headline": "Review: Mark Rylance Returns as a Mad Monarch to Cherish in \u2018Farinelli\u2019",
+            "url": "https://www.nytimes.com/2017/12/17/theater/farinelli-and-the-king-review-mark-rylance.html",
+            "type": "Review"
+        },
+        {
+            "headline": "Quotation of the Day: In New Jersey, Tax Bill Looms Like a Dark Cloud",
+            "url": "https://www.nytimes.com/2017/12/17/todayspaper/quotation-of-the-day-in-new-jersey-tax-bill-looms-like-a-dark-cloud.html",
+            "type": "Quote"
+        },
+        {
+            "headline": "Eagles Beat Giants With Nick Foles at Quarterback",
+            "url": "https://www.nytimes.com/2017/12/17/sports/eagles-giants.html",
+            "type": "News"
+        },
+        {
+            "headline": "Here\u2019s What We Learned in N.F.L. Week 15",
+            "url": "https://www.nytimes.com/2017/12/17/sports/nfl-week-15-saints-panthers-jaguars.html",
+            "type": "News"
+        },
+        {
+            "headline": "Final Steps for Tax Legislation and Final Holiday Shopping Days",
+            "url": "https://www.nytimes.com/2017/12/17/business/the-week-ahead.html",
+            "type": "News"
+        },
+        {
+            "headline": "A Tax Plan to Turbocharge Inequality, in 3 Charts",
+            "url": "https://www.nytimes.com/2017/12/17/opinion/taxes-inequality-charts.html",
+            "type": "Op-Ed"
+        },
+        {
+            "headline": "Honduran President Declared Winner, but O.A.S. Calls for New Election",
+            "url": "https://www.nytimes.com/2017/12/17/world/americas/honduran-presidential-election.html",
+            "type": "News"
+        },
+        {
+            "headline": "A Tillerson Slip Offers a Peek Into Secret Planning on North Korea",
+            "url": "https://www.nytimes.com/2017/12/17/us/politics/tillerson-north-korea-china.html",
+            "type": "News"
+        },
+        {
+            "headline": "Toronto Buzzes With Talk of Billionaire Couple\u2019s Suspicious Death",
+            "url": "https://www.nytimes.com/2017/12/17/world/canada/barry-sherman-death.html",
+            "type": "News"
+        },
+        {
+            "headline": "Omarosa, Sacking of a Sellout",
+            "url": "https://www.nytimes.com/2017/12/17/opinion/omarosa-leaves-white-house.html",
+            "type": "Op-Ed"
+        },
+        {
+            "headline": "The Spiraling Diaspora From Puerto Rico",
+            "url": "https://www.nytimes.com/2017/12/17/opinion/puerto-rico-diaspora.html",
+            "type": "Editorial"
+        },
+        {
+            "headline": "E.P.A. Employees Spoke Out. Then Came Scrutiny of Their Email.",
+            "url": "https://www.nytimes.com/2017/12/17/us/politics/epa-pruitt-media-monitoring.html",
+            "type": "News"
+        },
+        {
+            "headline": "A Way to Help Refugees From Puerto Rico",
+            "url": "https://www.nytimes.com/2017/12/17/opinion/helping-refugees-puerto-rico.html",
+            "type": "Editorial"
+        },
+        {
+            "headline": "Will New York Cut Off the Fuel for Corruption?",
+            "url": "https://www.nytimes.com/2017/12/17/opinion/ny-city-council-corruption.html",
+            "type": "Editorial"
+        },
+        {
+            "headline": "McCain, in Treatment for Cancer, Is Likely to Miss Senate Tax Vote",
+            "url": "https://www.nytimes.com/2017/12/17/us/politics/john-mccain-cancer-tax-bill.html",
+            "type": "News"
+        },
+        {
+            "headline": "A Rainmaker Seeks to Grow His Firm at a Time of Big Media and Tech Deals",
+            "url": "https://www.nytimes.com/2017/12/17/business/dealbook/aryeh-bourkoff-liontree.html",
+            "type": "News"
+        },
+        {
+            "headline": "Tracking E.P.A. Employees",
+            "url": "https://www.nytimes.com/interactive/2017/12/17/us/document-Tracking-EPA-Employees.html",
+            "type": "Interactive Feature"
+        }
+    ]
+}

@@ -1,3 +1,5 @@
+Example of use New York Times Article API based on 2 excercises.
+
 1. Please create a program (implementation language is up to you) that based on New York Times Article API (https://developer.nytimes.com) does the following things:
 	- pulls down all the articles published between Dec 18 and Dec 24 and sorts them by word count. The expected output is as follows:
 	WORD_COUNT_1 https://www.nytimes.com/path/to/an/article/with/the/highest/wordcount
